@@ -1,0 +1,2881 @@
+Plate,Sample,Gate,X Parameter,Y Parameter,Count,%Total,%Gated
+Invasion 1.5-2.5hr,A1,GFP+,BL1-A,,3567,35.670,62.056
+Invasion 1.5-2.5hr,A1,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,A1,R1,BL1-A,,5748,57.480,57.480
+Invasion 1.5-2.5hr,A1,mCh+,YL2-A,,412,4.120,7.168
+Invasion 1.5-2.5hr,A1,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,A1,R1,YL2-A,,5748,57.480,57.480
+Invasion 1.5-2.5hr,A1,R1,FSC-H,SSC-H,5748,57.480,57.480
+Invasion 1.5-2.5hr,A1,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,A1,mCherry-/GFP+,YL2-A,BL1-A,3618,36.180,62.944
+Invasion 1.5-2.5hr,A1,mCherry+/GFP+,YL2-A,BL1-A,121,1.210,2.105
+Invasion 1.5-2.5hr,A1,mCherry-/GFP-,YL2-A,BL1-A,1286,12.860,22.373
+Invasion 1.5-2.5hr,A1,mCherry+/GFP-,YL2-A,BL1-A,723,7.230,12.578
+Invasion 1.5-2.5hr,A1,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,A1,R1,YL2-A,BL1-A,5748,57.480,57.480
+Invasion 1.5-2.5hr,A1,R2,BL1-A,YL2-A,295,2.950,71.602
+Invasion 1.5-2.5hr,A1,R4,BL1-A,YL2-A,63,0.630,15.291
+Invasion 1.5-2.5hr,A1,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,A1,mCh+,BL1-A,YL2-A,412,4.120,4.120
+Invasion 1.5-2.5hr,A1,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,A1,R2,YL2-A,,295,2.950,2.950
+Invasion 1.5-2.5hr,A1,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,A1,R3,BL1-A,,2876,28.760,28.760
+Invasion 1.5-2.5hr,A1,R3,BL1-A,YL2-A,2876,28.760,80.628
+Invasion 1.5-2.5hr,A1,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,A1,GFP+,BL1-A,YL2-A,3567,35.670,35.670
+Invasion 1.5-2.5hr,A1,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,A1,R4,FSC-A,SSC-A,63,0.630,0.630
+Invasion 1.5-2.5hr,A1,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,A1,R1,FSC-A,FSC-H,5748,57.480,57.480
+Invasion 1.5-2.5hr,A1,LG1,,,412,4.120,4.120
+Invasion 1.5-2.5hr,B1,GFP+,BL1-A,,5299,52.990,64.394
+Invasion 1.5-2.5hr,B1,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,B1,R1,BL1-A,,8229,82.290,82.290
+Invasion 1.5-2.5hr,B1,mCh+,YL2-A,,920,9.200,11.180
+Invasion 1.5-2.5hr,B1,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,B1,R1,YL2-A,,8229,82.290,82.290
+Invasion 1.5-2.5hr,B1,R1,FSC-H,SSC-H,8229,82.290,82.290
+Invasion 1.5-2.5hr,B1,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,B1,mCherry-/GFP+,YL2-A,BL1-A,4876,48.760,59.254
+Invasion 1.5-2.5hr,B1,mCherry+/GFP+,YL2-A,BL1-A,952,9.520,11.569
+Invasion 1.5-2.5hr,B1,mCherry-/GFP-,YL2-A,BL1-A,1454,14.540,17.669
+Invasion 1.5-2.5hr,B1,mCherry+/GFP-,YL2-A,BL1-A,947,9.470,11.508
+Invasion 1.5-2.5hr,B1,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,B1,R1,YL2-A,BL1-A,8229,82.290,82.290
+Invasion 1.5-2.5hr,B1,R2,BL1-A,YL2-A,83,0.830,9.022
+Invasion 1.5-2.5hr,B1,R4,BL1-A,YL2-A,429,4.290,46.630
+Invasion 1.5-2.5hr,B1,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,B1,mCh+,BL1-A,YL2-A,920,9.200,9.200
+Invasion 1.5-2.5hr,B1,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,B1,R2,YL2-A,,83,0.830,0.830
+Invasion 1.5-2.5hr,B1,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,B1,R3,BL1-A,,3437,34.370,34.370
+Invasion 1.5-2.5hr,B1,R3,BL1-A,YL2-A,3437,34.370,64.861
+Invasion 1.5-2.5hr,B1,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,B1,GFP+,BL1-A,YL2-A,5299,52.990,52.990
+Invasion 1.5-2.5hr,B1,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,B1,R4,FSC-A,SSC-A,429,4.290,4.290
+Invasion 1.5-2.5hr,B1,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,B1,R1,FSC-A,FSC-H,8229,82.290,82.290
+Invasion 1.5-2.5hr,B1,LG1,,,920,9.200,9.200
+Invasion 1.5-2.5hr,C1,GFP+,BL1-A,,5812,58.120,68.120
+Invasion 1.5-2.5hr,C1,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,C1,R1,BL1-A,,8532,85.320,85.320
+Invasion 1.5-2.5hr,C1,mCh+,YL2-A,,1173,11.730,13.748
+Invasion 1.5-2.5hr,C1,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,C1,R1,YL2-A,,8532,85.320,85.320
+Invasion 1.5-2.5hr,C1,R1,FSC-H,SSC-H,8532,85.320,85.320
+Invasion 1.5-2.5hr,C1,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,C1,mCherry-/GFP+,YL2-A,BL1-A,5450,54.500,63.877
+Invasion 1.5-2.5hr,C1,mCherry+/GFP+,YL2-A,BL1-A,1489,14.890,17.452
+Invasion 1.5-2.5hr,C1,mCherry-/GFP-,YL2-A,BL1-A,733,7.330,8.591
+Invasion 1.5-2.5hr,C1,mCherry+/GFP-,YL2-A,BL1-A,860,8.600,10.080
+Invasion 1.5-2.5hr,C1,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,C1,R1,YL2-A,BL1-A,8532,85.320,85.320
+Invasion 1.5-2.5hr,C1,R2,BL1-A,YL2-A,67,0.670,5.712
+Invasion 1.5-2.5hr,C1,R4,BL1-A,YL2-A,581,5.810,49.531
+Invasion 1.5-2.5hr,C1,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,C1,mCh+,BL1-A,YL2-A,1173,11.730,11.730
+Invasion 1.5-2.5hr,C1,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,C1,R2,YL2-A,,67,0.670,0.670
+Invasion 1.5-2.5hr,C1,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,C1,R3,BL1-A,,3550,35.500,35.500
+Invasion 1.5-2.5hr,C1,R3,BL1-A,YL2-A,3550,35.500,61.081
+Invasion 1.5-2.5hr,C1,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,C1,GFP+,BL1-A,YL2-A,5812,58.120,58.120
+Invasion 1.5-2.5hr,C1,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,C1,R4,FSC-A,SSC-A,581,5.810,5.810
+Invasion 1.5-2.5hr,C1,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,C1,R1,FSC-A,FSC-H,8532,85.320,85.320
+Invasion 1.5-2.5hr,C1,LG1,,,1173,11.730,11.730
+Invasion 1.5-2.5hr,D1,GFP+,BL1-A,,5346,53.460,65.643
+Invasion 1.5-2.5hr,D1,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,D1,R1,BL1-A,,8144,81.440,81.440
+Invasion 1.5-2.5hr,D1,mCh+,YL2-A,,1458,14.580,17.903
+Invasion 1.5-2.5hr,D1,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,D1,R1,YL2-A,,8144,81.440,81.440
+Invasion 1.5-2.5hr,D1,R1,FSC-H,SSC-H,8144,81.440,81.440
+Invasion 1.5-2.5hr,D1,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,D1,mCherry-/GFP+,YL2-A,BL1-A,4601,46.010,56.496
+Invasion 1.5-2.5hr,D1,mCherry+/GFP+,YL2-A,BL1-A,1473,14.730,18.087
+Invasion 1.5-2.5hr,D1,mCherry-/GFP-,YL2-A,BL1-A,700,7.000,8.595
+Invasion 1.5-2.5hr,D1,mCherry+/GFP-,YL2-A,BL1-A,1370,13.700,16.822
+Invasion 1.5-2.5hr,D1,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,D1,R1,YL2-A,BL1-A,8144,81.440,81.440
+Invasion 1.5-2.5hr,D1,R2,BL1-A,YL2-A,115,1.150,7.888
+Invasion 1.5-2.5hr,D1,R4,BL1-A,YL2-A,671,6.710,46.022
+Invasion 1.5-2.5hr,D1,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,D1,mCh+,BL1-A,YL2-A,1458,14.580,14.580
+Invasion 1.5-2.5hr,D1,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,D1,R2,YL2-A,,115,1.150,1.150
+Invasion 1.5-2.5hr,D1,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,D1,R3,BL1-A,,3136,31.360,31.360
+Invasion 1.5-2.5hr,D1,R3,BL1-A,YL2-A,3136,31.360,58.661
+Invasion 1.5-2.5hr,D1,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,D1,GFP+,BL1-A,YL2-A,5346,53.460,53.460
+Invasion 1.5-2.5hr,D1,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,D1,R4,FSC-A,SSC-A,671,6.710,6.710
+Invasion 1.5-2.5hr,D1,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,D1,R1,FSC-A,FSC-H,8144,81.440,81.440
+Invasion 1.5-2.5hr,D1,LG1,,,1458,14.580,14.580
+Invasion 1.5-2.5hr,E1,GFP+,BL1-A,,5002,50.020,60.149
+Invasion 1.5-2.5hr,E1,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,E1,R1,BL1-A,,8316,83.160,83.160
+Invasion 1.5-2.5hr,E1,mCh+,YL2-A,,2065,20.650,24.832
+Invasion 1.5-2.5hr,E1,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,E1,R1,YL2-A,,8316,83.160,83.160
+Invasion 1.5-2.5hr,E1,R1,FSC-H,SSC-H,8316,83.160,83.160
+Invasion 1.5-2.5hr,E1,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,E1,mCherry-/GFP+,YL2-A,BL1-A,4301,43.010,51.720
+Invasion 1.5-2.5hr,E1,mCherry+/GFP+,YL2-A,BL1-A,1918,19.180,23.064
+Invasion 1.5-2.5hr,E1,mCherry-/GFP-,YL2-A,BL1-A,461,4.610,5.544
+Invasion 1.5-2.5hr,E1,mCherry+/GFP-,YL2-A,BL1-A,1636,16.360,19.673
+Invasion 1.5-2.5hr,E1,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,E1,R1,YL2-A,BL1-A,8316,83.160,83.160
+Invasion 1.5-2.5hr,E1,R2,BL1-A,YL2-A,145,1.450,7.022
+Invasion 1.5-2.5hr,E1,R4,BL1-A,YL2-A,859,8.590,41.598
+Invasion 1.5-2.5hr,E1,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,E1,mCh+,BL1-A,YL2-A,2065,20.650,20.650
+Invasion 1.5-2.5hr,E1,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,E1,R2,YL2-A,,145,1.450,1.450
+Invasion 1.5-2.5hr,E1,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,E1,R3,BL1-A,,2691,26.910,26.910
+Invasion 1.5-2.5hr,E1,R3,BL1-A,YL2-A,2691,26.910,53.798
+Invasion 1.5-2.5hr,E1,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,E1,GFP+,BL1-A,YL2-A,5002,50.020,50.020
+Invasion 1.5-2.5hr,E1,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,E1,R4,FSC-A,SSC-A,859,8.590,8.590
+Invasion 1.5-2.5hr,E1,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,E1,R1,FSC-A,FSC-H,8316,83.160,83.160
+Invasion 1.5-2.5hr,E1,LG1,,,2065,20.650,20.650
+Invasion 1.5-2.5hr,F1,GFP+,BL1-A,,5044,50.440,61.392
+Invasion 1.5-2.5hr,F1,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,F1,R1,BL1-A,,8216,82.160,82.160
+Invasion 1.5-2.5hr,F1,mCh+,YL2-A,,1748,17.480,21.276
+Invasion 1.5-2.5hr,F1,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,F1,R1,YL2-A,,8216,82.160,82.160
+Invasion 1.5-2.5hr,F1,R1,FSC-H,SSC-H,8216,82.160,82.160
+Invasion 1.5-2.5hr,F1,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,F1,mCherry-/GFP+,YL2-A,BL1-A,4420,44.200,53.797
+Invasion 1.5-2.5hr,F1,mCherry+/GFP+,YL2-A,BL1-A,1574,15.740,19.158
+Invasion 1.5-2.5hr,F1,mCherry-/GFP-,YL2-A,BL1-A,545,5.450,6.633
+Invasion 1.5-2.5hr,F1,mCherry+/GFP-,YL2-A,BL1-A,1677,16.770,20.411
+Invasion 1.5-2.5hr,F1,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,F1,R1,YL2-A,BL1-A,8216,82.160,82.160
+Invasion 1.5-2.5hr,F1,R2,BL1-A,YL2-A,136,1.360,7.780
+Invasion 1.5-2.5hr,F1,R4,BL1-A,YL2-A,714,7.140,40.847
+Invasion 1.5-2.5hr,F1,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,F1,mCh+,BL1-A,YL2-A,1748,17.480,17.480
+Invasion 1.5-2.5hr,F1,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,F1,R2,YL2-A,,136,1.360,1.360
+Invasion 1.5-2.5hr,F1,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,F1,R3,BL1-A,,2914,29.140,29.140
+Invasion 1.5-2.5hr,F1,R3,BL1-A,YL2-A,2914,29.140,57.772
+Invasion 1.5-2.5hr,F1,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,F1,GFP+,BL1-A,YL2-A,5044,50.440,50.440
+Invasion 1.5-2.5hr,F1,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,F1,R4,FSC-A,SSC-A,714,7.140,7.140
+Invasion 1.5-2.5hr,F1,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,F1,R1,FSC-A,FSC-H,8216,82.160,82.160
+Invasion 1.5-2.5hr,F1,LG1,,,1748,17.480,17.480
+Invasion 1.5-2.5hr,G1,GFP+,BL1-A,,149,1.490,36.973
+Invasion 1.5-2.5hr,G1,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,G1,R1,BL1-A,,403,4.030,4.030
+Invasion 1.5-2.5hr,G1,mCh+,YL2-A,,45,0.450,11.166
+Invasion 1.5-2.5hr,G1,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,G1,R1,YL2-A,,403,4.030,4.030
+Invasion 1.5-2.5hr,G1,R1,FSC-H,SSC-H,403,4.030,4.030
+Invasion 1.5-2.5hr,G1,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,G1,mCherry-/GFP+,YL2-A,BL1-A,166,1.660,41.191
+Invasion 1.5-2.5hr,G1,mCherry+/GFP+,YL2-A,BL1-A,1,0.010,0.248
+Invasion 1.5-2.5hr,G1,mCherry-/GFP-,YL2-A,BL1-A,137,1.370,33.995
+Invasion 1.5-2.5hr,G1,mCherry+/GFP-,YL2-A,BL1-A,99,0.990,24.566
+Invasion 1.5-2.5hr,G1,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,G1,R1,YL2-A,BL1-A,403,4.030,4.030
+Invasion 1.5-2.5hr,G1,R2,BL1-A,YL2-A,43,0.430,95.556
+Invasion 1.5-2.5hr,G1,R4,BL1-A,YL2-A,0,0.000,0.000
+Invasion 1.5-2.5hr,G1,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,G1,mCh+,BL1-A,YL2-A,45,0.450,0.450
+Invasion 1.5-2.5hr,G1,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,G1,R2,YL2-A,,43,0.430,0.430
+Invasion 1.5-2.5hr,G1,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,G1,R3,BL1-A,,123,1.230,1.230
+Invasion 1.5-2.5hr,G1,R3,BL1-A,YL2-A,123,1.230,82.550
+Invasion 1.5-2.5hr,G1,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,G1,GFP+,BL1-A,YL2-A,149,1.490,1.490
+Invasion 1.5-2.5hr,G1,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,G1,R4,FSC-A,SSC-A,0,0.000,0.000
+Invasion 1.5-2.5hr,G1,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,G1,R1,FSC-A,FSC-H,403,4.030,4.030
+Invasion 1.5-2.5hr,G1,LG1,,,45,0.450,0.450
+Invasion 1.5-2.5hr,H1,GFP+,BL1-A,,34,0.340,29.060
+Invasion 1.5-2.5hr,H1,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,H1,R1,BL1-A,,117,1.170,1.170
+Invasion 1.5-2.5hr,H1,mCh+,YL2-A,,5,0.050,4.274
+Invasion 1.5-2.5hr,H1,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,H1,R1,YL2-A,,117,1.170,1.170
+Invasion 1.5-2.5hr,H1,R1,FSC-H,SSC-H,117,1.170,1.170
+Invasion 1.5-2.5hr,H1,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,H1,mCherry-/GFP+,YL2-A,BL1-A,35,0.350,29.915
+Invasion 1.5-2.5hr,H1,mCherry+/GFP+,YL2-A,BL1-A,0,0.000,0.000
+Invasion 1.5-2.5hr,H1,mCherry-/GFP-,YL2-A,BL1-A,65,0.650,55.556
+Invasion 1.5-2.5hr,H1,mCherry+/GFP-,YL2-A,BL1-A,17,0.170,14.530
+Invasion 1.5-2.5hr,H1,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,H1,R1,YL2-A,BL1-A,117,1.170,1.170
+Invasion 1.5-2.5hr,H1,R2,BL1-A,YL2-A,4,0.040,80.000
+Invasion 1.5-2.5hr,H1,R4,BL1-A,YL2-A,0,0.000,0.000
+Invasion 1.5-2.5hr,H1,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,H1,mCh+,BL1-A,YL2-A,5,0.050,0.050
+Invasion 1.5-2.5hr,H1,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,H1,R2,YL2-A,,4,0.040,0.040
+Invasion 1.5-2.5hr,H1,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,H1,R3,BL1-A,,26,0.260,0.260
+Invasion 1.5-2.5hr,H1,R3,BL1-A,YL2-A,26,0.260,76.471
+Invasion 1.5-2.5hr,H1,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,H1,GFP+,BL1-A,YL2-A,34,0.340,0.340
+Invasion 1.5-2.5hr,H1,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,H1,R4,FSC-A,SSC-A,0,0.000,0.000
+Invasion 1.5-2.5hr,H1,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,H1,R1,FSC-A,FSC-H,117,1.170,1.170
+Invasion 1.5-2.5hr,H1,LG1,,,5,0.050,0.050
+Invasion 1.5-2.5hr,A2,GFP+,BL1-A,,819,8.190,42.238
+Invasion 1.5-2.5hr,A2,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,A2,R1,BL1-A,,1939,19.390,19.390
+Invasion 1.5-2.5hr,A2,mCh+,YL2-A,,488,4.880,25.168
+Invasion 1.5-2.5hr,A2,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,A2,R1,YL2-A,,1939,19.390,19.390
+Invasion 1.5-2.5hr,A2,R1,FSC-H,SSC-H,1939,19.390,19.390
+Invasion 1.5-2.5hr,A2,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,A2,mCherry-/GFP+,YL2-A,BL1-A,855,8.550,44.095
+Invasion 1.5-2.5hr,A2,mCherry+/GFP+,YL2-A,BL1-A,52,0.520,2.682
+Invasion 1.5-2.5hr,A2,mCherry-/GFP-,YL2-A,BL1-A,356,3.560,18.360
+Invasion 1.5-2.5hr,A2,mCherry+/GFP-,YL2-A,BL1-A,676,6.760,34.863
+Invasion 1.5-2.5hr,A2,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,A2,R1,YL2-A,BL1-A,1939,19.390,19.390
+Invasion 1.5-2.5hr,A2,R2,BL1-A,YL2-A,442,4.420,90.574
+Invasion 1.5-2.5hr,A2,R4,BL1-A,YL2-A,31,0.310,6.352
+Invasion 1.5-2.5hr,A2,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,A2,mCh+,BL1-A,YL2-A,488,4.880,4.880
+Invasion 1.5-2.5hr,A2,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,A2,R2,YL2-A,,442,4.420,4.420
+Invasion 1.5-2.5hr,A2,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,A2,R3,BL1-A,,609,6.090,6.090
+Invasion 1.5-2.5hr,A2,R3,BL1-A,YL2-A,609,6.090,74.359
+Invasion 1.5-2.5hr,A2,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,A2,GFP+,BL1-A,YL2-A,819,8.190,8.190
+Invasion 1.5-2.5hr,A2,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,A2,R4,FSC-A,SSC-A,31,0.310,0.310
+Invasion 1.5-2.5hr,A2,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,A2,R1,FSC-A,FSC-H,1939,19.390,19.390
+Invasion 1.5-2.5hr,A2,LG1,,,488,4.880,4.880
+Invasion 1.5-2.5hr,A3,GFP+,BL1-A,,36,0.360,34.951
+Invasion 1.5-2.5hr,A3,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,A3,R1,BL1-A,,103,1.030,1.030
+Invasion 1.5-2.5hr,A3,mCh+,YL2-A,,11,0.110,10.680
+Invasion 1.5-2.5hr,A3,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,A3,R1,YL2-A,,103,1.030,1.030
+Invasion 1.5-2.5hr,A3,R1,FSC-H,SSC-H,103,1.030,1.030
+Invasion 1.5-2.5hr,A3,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,A3,mCherry-/GFP+,YL2-A,BL1-A,39,0.390,37.864
+Invasion 1.5-2.5hr,A3,mCherry+/GFP+,YL2-A,BL1-A,1,0.010,0.971
+Invasion 1.5-2.5hr,A3,mCherry-/GFP-,YL2-A,BL1-A,44,0.440,42.718
+Invasion 1.5-2.5hr,A3,mCherry+/GFP-,YL2-A,BL1-A,19,0.190,18.447
+Invasion 1.5-2.5hr,A3,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,A3,R1,YL2-A,BL1-A,103,1.030,1.030
+Invasion 1.5-2.5hr,A3,R2,BL1-A,YL2-A,9,0.090,81.818
+Invasion 1.5-2.5hr,A3,R4,BL1-A,YL2-A,0,0.000,0.000
+Invasion 1.5-2.5hr,A3,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,A3,mCh+,BL1-A,YL2-A,11,0.110,0.110
+Invasion 1.5-2.5hr,A3,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,A3,R2,YL2-A,,9,0.090,0.090
+Invasion 1.5-2.5hr,A3,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,A3,R3,BL1-A,,28,0.280,0.280
+Invasion 1.5-2.5hr,A3,R3,BL1-A,YL2-A,28,0.280,77.778
+Invasion 1.5-2.5hr,A3,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,A3,GFP+,BL1-A,YL2-A,36,0.360,0.360
+Invasion 1.5-2.5hr,A3,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,A3,R4,FSC-A,SSC-A,0,0.000,0.000
+Invasion 1.5-2.5hr,A3,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,A3,R1,FSC-A,FSC-H,103,1.030,1.030
+Invasion 1.5-2.5hr,A3,LG1,,,11,0.110,0.110
+Invasion 1.5-2.5hr,A4,GFP+,BL1-A,,191,1.910,11.183
+Invasion 1.5-2.5hr,A4,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,A4,R1,BL1-A,,1708,17.080,17.080
+Invasion 1.5-2.5hr,A4,mCh+,YL2-A,,662,6.620,38.759
+Invasion 1.5-2.5hr,A4,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,A4,R1,YL2-A,,1708,17.080,17.080
+Invasion 1.5-2.5hr,A4,R1,FSC-H,SSC-H,1708,17.080,17.080
+Invasion 1.5-2.5hr,A4,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,A4,mCherry-/GFP+,YL2-A,BL1-A,187,1.870,10.948
+Invasion 1.5-2.5hr,A4,mCherry+/GFP+,YL2-A,BL1-A,13,0.130,0.761
+Invasion 1.5-2.5hr,A4,mCherry-/GFP-,YL2-A,BL1-A,130,1.300,7.611
+Invasion 1.5-2.5hr,A4,mCherry+/GFP-,YL2-A,BL1-A,1378,13.780,80.679
+Invasion 1.5-2.5hr,A4,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,A4,R1,YL2-A,BL1-A,1708,17.080,17.080
+Invasion 1.5-2.5hr,A4,R2,BL1-A,YL2-A,640,6.400,96.677
+Invasion 1.5-2.5hr,A4,R4,BL1-A,YL2-A,6,0.060,0.906
+Invasion 1.5-2.5hr,A4,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,A4,mCh+,BL1-A,YL2-A,662,6.620,6.620
+Invasion 1.5-2.5hr,A4,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,A4,R2,YL2-A,,640,6.400,6.400
+Invasion 1.5-2.5hr,A4,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,A4,R3,BL1-A,,153,1.530,1.530
+Invasion 1.5-2.5hr,A4,R3,BL1-A,YL2-A,153,1.530,80.105
+Invasion 1.5-2.5hr,A4,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,A4,GFP+,BL1-A,YL2-A,191,1.910,1.910
+Invasion 1.5-2.5hr,A4,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,A4,R4,FSC-A,SSC-A,6,0.060,0.060
+Invasion 1.5-2.5hr,A4,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,A4,R1,FSC-A,FSC-H,1708,17.080,17.080
+Invasion 1.5-2.5hr,A4,LG1,,,662,6.620,6.620
+Invasion 1.5-2.5hr,A5,GFP+,BL1-A,,5215,52.150,70.160
+Invasion 1.5-2.5hr,A5,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,A5,R1,BL1-A,,7433,74.330,74.330
+Invasion 1.5-2.5hr,A5,mCh+,YL2-A,,120,1.200,1.614
+Invasion 1.5-2.5hr,A5,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,A5,R1,YL2-A,,7433,74.330,74.330
+Invasion 1.5-2.5hr,A5,R1,FSC-H,SSC-H,7433,74.330,74.330
+Invasion 1.5-2.5hr,A5,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,A5,mCherry-/GFP+,YL2-A,BL1-A,5339,53.390,71.828
+Invasion 1.5-2.5hr,A5,mCherry+/GFP+,YL2-A,BL1-A,89,0.890,1.197
+Invasion 1.5-2.5hr,A5,mCherry-/GFP-,YL2-A,BL1-A,1677,16.770,22.562
+Invasion 1.5-2.5hr,A5,mCherry+/GFP-,YL2-A,BL1-A,328,3.280,4.413
+Invasion 1.5-2.5hr,A5,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,A5,R1,YL2-A,BL1-A,7433,74.330,74.330
+Invasion 1.5-2.5hr,A5,R2,BL1-A,YL2-A,46,0.460,38.333
+Invasion 1.5-2.5hr,A5,R4,BL1-A,YL2-A,34,0.340,28.333
+Invasion 1.5-2.5hr,A5,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,A5,mCh+,BL1-A,YL2-A,120,1.200,1.200
+Invasion 1.5-2.5hr,A5,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,A5,R2,YL2-A,,46,0.460,0.460
+Invasion 1.5-2.5hr,A5,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,A5,R3,BL1-A,,4266,42.660,42.660
+Invasion 1.5-2.5hr,A5,R3,BL1-A,YL2-A,4266,42.660,81.802
+Invasion 1.5-2.5hr,A5,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,A5,GFP+,BL1-A,YL2-A,5215,52.150,52.150
+Invasion 1.5-2.5hr,A5,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,A5,R4,FSC-A,SSC-A,34,0.340,0.340
+Invasion 1.5-2.5hr,A5,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,A5,R1,FSC-A,FSC-H,7433,74.330,74.330
+Invasion 1.5-2.5hr,A5,LG1,,,120,1.200,1.200
+Invasion 1.5-2.5hr,A6,GFP+,BL1-A,,938,9.380,52.461
+Invasion 1.5-2.5hr,A6,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,A6,R1,BL1-A,,1788,17.880,17.880
+Invasion 1.5-2.5hr,A6,mCh+,YL2-A,,178,1.780,9.955
+Invasion 1.5-2.5hr,A6,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,A6,R1,YL2-A,,1788,17.880,17.880
+Invasion 1.5-2.5hr,A6,R1,FSC-H,SSC-H,1788,17.880,17.880
+Invasion 1.5-2.5hr,A6,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,A6,mCherry-/GFP+,YL2-A,BL1-A,979,9.790,54.754
+Invasion 1.5-2.5hr,A6,mCherry+/GFP+,YL2-A,BL1-A,22,0.220,1.230
+Invasion 1.5-2.5hr,A6,mCherry-/GFP-,YL2-A,BL1-A,414,4.140,23.154
+Invasion 1.5-2.5hr,A6,mCherry+/GFP-,YL2-A,BL1-A,373,3.730,20.861
+Invasion 1.5-2.5hr,A6,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,A6,R1,YL2-A,BL1-A,1788,17.880,17.880
+Invasion 1.5-2.5hr,A6,R2,BL1-A,YL2-A,164,1.640,92.135
+Invasion 1.5-2.5hr,A6,R4,BL1-A,YL2-A,9,0.090,5.056
+Invasion 1.5-2.5hr,A6,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,A6,mCh+,BL1-A,YL2-A,178,1.780,1.780
+Invasion 1.5-2.5hr,A6,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,A6,R2,YL2-A,,164,1.640,1.640
+Invasion 1.5-2.5hr,A6,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,A6,R3,BL1-A,,755,7.550,7.550
+Invasion 1.5-2.5hr,A6,R3,BL1-A,YL2-A,755,7.550,80.490
+Invasion 1.5-2.5hr,A6,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,A6,GFP+,BL1-A,YL2-A,938,9.380,9.380
+Invasion 1.5-2.5hr,A6,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,A6,R4,FSC-A,SSC-A,9,0.090,0.090
+Invasion 1.5-2.5hr,A6,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,A6,R1,FSC-A,FSC-H,1788,17.880,17.880
+Invasion 1.5-2.5hr,A6,LG1,,,178,1.780,1.780
+Invasion 1.5-2.5hr,A7,GFP+,BL1-A,,4253,42.530,61.638
+Invasion 1.5-2.5hr,A7,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,A7,R1,BL1-A,,6900,69.000,69.000
+Invasion 1.5-2.5hr,A7,mCh+,YL2-A,,298,2.980,4.319
+Invasion 1.5-2.5hr,A7,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,A7,R1,YL2-A,,6900,69.000,69.000
+Invasion 1.5-2.5hr,A7,R1,FSC-H,SSC-H,6900,69.000,69.000
+Invasion 1.5-2.5hr,A7,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,A7,mCherry-/GFP+,YL2-A,BL1-A,4222,42.220,61.188
+Invasion 1.5-2.5hr,A7,mCherry+/GFP+,YL2-A,BL1-A,115,1.150,1.667
+Invasion 1.5-2.5hr,A7,mCherry-/GFP-,YL2-A,BL1-A,1441,14.410,20.884
+Invasion 1.5-2.5hr,A7,mCherry+/GFP-,YL2-A,BL1-A,1122,11.220,16.261
+Invasion 1.5-2.5hr,A7,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,A7,R1,YL2-A,BL1-A,6900,69.000,69.000
+Invasion 1.5-2.5hr,A7,R2,BL1-A,YL2-A,211,2.110,70.805
+Invasion 1.5-2.5hr,A7,R4,BL1-A,YL2-A,38,0.380,12.752
+Invasion 1.5-2.5hr,A7,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,A7,mCh+,BL1-A,YL2-A,298,2.980,2.980
+Invasion 1.5-2.5hr,A7,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,A7,R2,YL2-A,,211,2.110,2.110
+Invasion 1.5-2.5hr,A7,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,A7,R3,BL1-A,,3484,34.840,34.840
+Invasion 1.5-2.5hr,A7,R3,BL1-A,YL2-A,3484,34.840,81.919
+Invasion 1.5-2.5hr,A7,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,A7,GFP+,BL1-A,YL2-A,4253,42.530,42.530
+Invasion 1.5-2.5hr,A7,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,A7,R4,FSC-A,SSC-A,38,0.380,0.380
+Invasion 1.5-2.5hr,A7,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,A7,R1,FSC-A,FSC-H,6900,69.000,69.000
+Invasion 1.5-2.5hr,A7,LG1,,,298,2.980,2.980
+Invasion 1.5-2.5hr,A8,GFP+,BL1-A,,730,7.300,13.489
+Invasion 1.5-2.5hr,A8,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,A8,R1,BL1-A,,5412,54.120,54.120
+Invasion 1.5-2.5hr,A8,mCh+,YL2-A,,1346,13.460,24.871
+Invasion 1.5-2.5hr,A8,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,A8,R1,YL2-A,,5412,54.120,54.120
+Invasion 1.5-2.5hr,A8,R1,FSC-H,SSC-H,5412,54.120,54.120
+Invasion 1.5-2.5hr,A8,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,A8,mCherry-/GFP+,YL2-A,BL1-A,638,6.380,11.789
+Invasion 1.5-2.5hr,A8,mCherry+/GFP+,YL2-A,BL1-A,117,1.170,2.162
+Invasion 1.5-2.5hr,A8,mCherry-/GFP-,YL2-A,BL1-A,392,3.920,7.243
+Invasion 1.5-2.5hr,A8,mCherry+/GFP-,YL2-A,BL1-A,4265,42.650,78.806
+Invasion 1.5-2.5hr,A8,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,A8,R1,YL2-A,BL1-A,5412,54.120,54.120
+Invasion 1.5-2.5hr,A8,R2,BL1-A,YL2-A,1217,12.170,90.416
+Invasion 1.5-2.5hr,A8,R4,BL1-A,YL2-A,51,0.510,3.789
+Invasion 1.5-2.5hr,A8,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,A8,mCh+,BL1-A,YL2-A,1346,13.460,13.460
+Invasion 1.5-2.5hr,A8,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,A8,R2,YL2-A,,1217,12.170,12.170
+Invasion 1.5-2.5hr,A8,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,A8,R3,BL1-A,,543,5.430,5.430
+Invasion 1.5-2.5hr,A8,R3,BL1-A,YL2-A,543,5.430,74.384
+Invasion 1.5-2.5hr,A8,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,A8,GFP+,BL1-A,YL2-A,730,7.300,7.300
+Invasion 1.5-2.5hr,A8,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,A8,R4,FSC-A,SSC-A,51,0.510,0.510
+Invasion 1.5-2.5hr,A8,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,A8,R1,FSC-A,FSC-H,5412,54.120,54.120
+Invasion 1.5-2.5hr,A8,LG1,,,1346,13.460,13.460
+Invasion 1.5-2.5hr,A9,GFP+,BL1-A,,3927,39.270,68.726
+Invasion 1.5-2.5hr,A9,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,A9,R1,BL1-A,,5714,57.140,57.140
+Invasion 1.5-2.5hr,A9,mCh+,YL2-A,,131,1.310,2.293
+Invasion 1.5-2.5hr,A9,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,A9,R1,YL2-A,,5714,57.140,57.140
+Invasion 1.5-2.5hr,A9,R1,FSC-H,SSC-H,5714,57.140,57.140
+Invasion 1.5-2.5hr,A9,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,A9,mCherry-/GFP+,YL2-A,BL1-A,3994,39.940,69.898
+Invasion 1.5-2.5hr,A9,mCherry+/GFP+,YL2-A,BL1-A,59,0.590,1.033
+Invasion 1.5-2.5hr,A9,mCherry-/GFP-,YL2-A,BL1-A,1275,12.750,22.314
+Invasion 1.5-2.5hr,A9,mCherry+/GFP-,YL2-A,BL1-A,386,3.860,6.755
+Invasion 1.5-2.5hr,A9,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,A9,R1,YL2-A,BL1-A,5714,57.140,57.140
+Invasion 1.5-2.5hr,A9,R2,BL1-A,YL2-A,90,0.900,68.702
+Invasion 1.5-2.5hr,A9,R4,BL1-A,YL2-A,25,0.250,19.084
+Invasion 1.5-2.5hr,A9,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,A9,mCh+,BL1-A,YL2-A,131,1.310,1.310
+Invasion 1.5-2.5hr,A9,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,A9,R2,YL2-A,,90,0.900,0.900
+Invasion 1.5-2.5hr,A9,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,A9,R3,BL1-A,,3231,32.310,32.310
+Invasion 1.5-2.5hr,A9,R3,BL1-A,YL2-A,3231,32.310,82.277
+Invasion 1.5-2.5hr,A9,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,A9,GFP+,BL1-A,YL2-A,3927,39.270,39.270
+Invasion 1.5-2.5hr,A9,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,A9,R4,FSC-A,SSC-A,25,0.250,0.250
+Invasion 1.5-2.5hr,A9,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,A9,R1,FSC-A,FSC-H,5714,57.140,57.140
+Invasion 1.5-2.5hr,A9,LG1,,,131,1.310,1.310
+Invasion 1.5-2.5hr,A10,GFP+,BL1-A,,3321,33.210,63.281
+Invasion 1.5-2.5hr,A10,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,A10,R1,BL1-A,,5248,52.480,52.480
+Invasion 1.5-2.5hr,A10,mCh+,YL2-A,,184,1.840,3.506
+Invasion 1.5-2.5hr,A10,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,A10,R1,YL2-A,,5248,52.480,52.480
+Invasion 1.5-2.5hr,A10,R1,FSC-H,SSC-H,5248,52.480,52.480
+Invasion 1.5-2.5hr,A10,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,A10,mCherry-/GFP+,YL2-A,BL1-A,3358,33.580,63.986
+Invasion 1.5-2.5hr,A10,mCherry+/GFP+,YL2-A,BL1-A,52,0.520,0.991
+Invasion 1.5-2.5hr,A10,mCherry-/GFP-,YL2-A,BL1-A,1236,12.360,23.552
+Invasion 1.5-2.5hr,A10,mCherry+/GFP-,YL2-A,BL1-A,602,6.020,11.471
+Invasion 1.5-2.5hr,A10,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,A10,R1,YL2-A,BL1-A,5248,52.480,52.480
+Invasion 1.5-2.5hr,A10,R2,BL1-A,YL2-A,149,1.490,80.978
+Invasion 1.5-2.5hr,A10,R4,BL1-A,YL2-A,18,0.180,9.783
+Invasion 1.5-2.5hr,A10,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,A10,mCh+,BL1-A,YL2-A,184,1.840,1.840
+Invasion 1.5-2.5hr,A10,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,A10,R2,YL2-A,,149,1.490,1.490
+Invasion 1.5-2.5hr,A10,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,A10,R3,BL1-A,,2685,26.850,26.850
+Invasion 1.5-2.5hr,A10,R3,BL1-A,YL2-A,2685,26.850,80.849
+Invasion 1.5-2.5hr,A10,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,A10,GFP+,BL1-A,YL2-A,3321,33.210,33.210
+Invasion 1.5-2.5hr,A10,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,A10,R4,FSC-A,SSC-A,18,0.180,0.180
+Invasion 1.5-2.5hr,A10,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,A10,R1,FSC-A,FSC-H,5248,52.480,52.480
+Invasion 1.5-2.5hr,A10,LG1,,,184,1.840,1.840
+Invasion 1.5-2.5hr,A11,GFP+,BL1-A,,2766,27.660,62.664
+Invasion 1.5-2.5hr,A11,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,A11,R1,BL1-A,,4414,44.140,44.140
+Invasion 1.5-2.5hr,A11,mCh+,YL2-A,,186,1.860,4.214
+Invasion 1.5-2.5hr,A11,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,A11,R1,YL2-A,,4414,44.140,44.140
+Invasion 1.5-2.5hr,A11,R1,FSC-H,SSC-H,4414,44.140,44.140
+Invasion 1.5-2.5hr,A11,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,A11,mCherry-/GFP+,YL2-A,BL1-A,2776,27.760,62.891
+Invasion 1.5-2.5hr,A11,mCherry+/GFP+,YL2-A,BL1-A,40,0.400,0.906
+Invasion 1.5-2.5hr,A11,mCherry-/GFP-,YL2-A,BL1-A,991,9.910,22.451
+Invasion 1.5-2.5hr,A11,mCherry+/GFP-,YL2-A,BL1-A,607,6.070,13.752
+Invasion 1.5-2.5hr,A11,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,A11,R1,YL2-A,BL1-A,4414,44.140,44.140
+Invasion 1.5-2.5hr,A11,R2,BL1-A,YL2-A,159,1.590,85.484
+Invasion 1.5-2.5hr,A11,R4,BL1-A,YL2-A,13,0.130,6.989
+Invasion 1.5-2.5hr,A11,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,A11,mCh+,BL1-A,YL2-A,186,1.860,1.860
+Invasion 1.5-2.5hr,A11,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,A11,R2,YL2-A,,159,1.590,1.590
+Invasion 1.5-2.5hr,A11,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,A11,R3,BL1-A,,2366,23.660,23.660
+Invasion 1.5-2.5hr,A11,R3,BL1-A,YL2-A,2366,23.660,85.539
+Invasion 1.5-2.5hr,A11,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,A11,GFP+,BL1-A,YL2-A,2766,27.660,27.660
+Invasion 1.5-2.5hr,A11,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,A11,R4,FSC-A,SSC-A,13,0.130,0.130
+Invasion 1.5-2.5hr,A11,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,A11,R1,FSC-A,FSC-H,4414,44.140,44.140
+Invasion 1.5-2.5hr,A11,LG1,,,186,1.860,1.860
+Invasion 1.5-2.5hr,A12,GFP+,BL1-A,,1481,14.810,23.141
+Invasion 1.5-2.5hr,A12,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,A12,R1,BL1-A,,6400,64.000,64.000
+Invasion 1.5-2.5hr,A12,mCh+,YL2-A,,1382,13.820,21.594
+Invasion 1.5-2.5hr,A12,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,A12,R1,YL2-A,,6400,64.000,64.000
+Invasion 1.5-2.5hr,A12,R1,FSC-H,SSC-H,6400,64.000,64.000
+Invasion 1.5-2.5hr,A12,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,A12,mCherry-/GFP+,YL2-A,BL1-A,1377,13.770,21.516
+Invasion 1.5-2.5hr,A12,mCherry+/GFP+,YL2-A,BL1-A,175,1.750,2.734
+Invasion 1.5-2.5hr,A12,mCherry-/GFP-,YL2-A,BL1-A,742,7.420,11.594
+Invasion 1.5-2.5hr,A12,mCherry+/GFP-,YL2-A,BL1-A,4106,41.060,64.156
+Invasion 1.5-2.5hr,A12,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,A12,R1,YL2-A,BL1-A,6400,64.000,64.000
+Invasion 1.5-2.5hr,A12,R2,BL1-A,YL2-A,1233,12.330,89.219
+Invasion 1.5-2.5hr,A12,R4,BL1-A,YL2-A,64,0.640,4.631
+Invasion 1.5-2.5hr,A12,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,A12,mCh+,BL1-A,YL2-A,1382,13.820,13.820
+Invasion 1.5-2.5hr,A12,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,A12,R2,YL2-A,,1233,12.330,12.330
+Invasion 1.5-2.5hr,A12,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,A12,R3,BL1-A,,1129,11.290,11.290
+Invasion 1.5-2.5hr,A12,R3,BL1-A,YL2-A,1129,11.290,76.232
+Invasion 1.5-2.5hr,A12,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,A12,GFP+,BL1-A,YL2-A,1481,14.810,14.810
+Invasion 1.5-2.5hr,A12,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,A12,R4,FSC-A,SSC-A,64,0.640,0.640
+Invasion 1.5-2.5hr,A12,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,A12,R1,FSC-A,FSC-H,6400,64.000,64.000
+Invasion 1.5-2.5hr,A12,LG1,,,1382,13.820,13.820
+Invasion 1.5-2.5hr,B2,GFP+,BL1-A,,1743,17.430,48.471
+Invasion 1.5-2.5hr,B2,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,B2,R1,BL1-A,,3596,35.960,35.960
+Invasion 1.5-2.5hr,B2,mCh+,YL2-A,,525,5.250,14.600
+Invasion 1.5-2.5hr,B2,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,B2,R1,YL2-A,,3596,35.960,35.960
+Invasion 1.5-2.5hr,B2,R1,FSC-H,SSC-H,3596,35.960,35.960
+Invasion 1.5-2.5hr,B2,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,B2,mCherry-/GFP+,YL2-A,BL1-A,1757,17.570,48.860
+Invasion 1.5-2.5hr,B2,mCherry+/GFP+,YL2-A,BL1-A,71,0.710,1.974
+Invasion 1.5-2.5hr,B2,mCherry-/GFP-,YL2-A,BL1-A,755,7.550,20.996
+Invasion 1.5-2.5hr,B2,mCherry+/GFP-,YL2-A,BL1-A,1013,10.130,28.170
+Invasion 1.5-2.5hr,B2,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,B2,R1,YL2-A,BL1-A,3596,35.960,35.960
+Invasion 1.5-2.5hr,B2,R2,BL1-A,YL2-A,461,4.610,87.810
+Invasion 1.5-2.5hr,B2,R4,BL1-A,YL2-A,40,0.400,7.619
+Invasion 1.5-2.5hr,B2,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,B2,mCh+,BL1-A,YL2-A,525,5.250,5.250
+Invasion 1.5-2.5hr,B2,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,B2,R2,YL2-A,,461,4.610,4.610
+Invasion 1.5-2.5hr,B2,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,B2,R3,BL1-A,,1357,13.570,13.570
+Invasion 1.5-2.5hr,B2,R3,BL1-A,YL2-A,1357,13.570,77.854
+Invasion 1.5-2.5hr,B2,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,B2,GFP+,BL1-A,YL2-A,1743,17.430,17.430
+Invasion 1.5-2.5hr,B2,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,B2,R4,FSC-A,SSC-A,40,0.400,0.400
+Invasion 1.5-2.5hr,B2,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,B2,R1,FSC-A,FSC-H,3596,35.960,35.960
+Invasion 1.5-2.5hr,B2,LG1,,,525,5.250,5.250
+Invasion 1.5-2.5hr,B3,GFP+,BL1-A,,12,0.120,24.490
+Invasion 1.5-2.5hr,B3,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,B3,R1,BL1-A,,49,0.490,0.490
+Invasion 1.5-2.5hr,B3,mCh+,YL2-A,,3,0.030,6.122
+Invasion 1.5-2.5hr,B3,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,B3,R1,YL2-A,,49,0.490,0.490
+Invasion 1.5-2.5hr,B3,R1,FSC-H,SSC-H,49,0.490,0.490
+Invasion 1.5-2.5hr,B3,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,B3,mCherry-/GFP+,YL2-A,BL1-A,12,0.120,24.490
+Invasion 1.5-2.5hr,B3,mCherry+/GFP+,YL2-A,BL1-A,1,0.010,2.041
+Invasion 1.5-2.5hr,B3,mCherry-/GFP-,YL2-A,BL1-A,28,0.280,57.143
+Invasion 1.5-2.5hr,B3,mCherry+/GFP-,YL2-A,BL1-A,8,0.080,16.327
+Invasion 1.5-2.5hr,B3,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,B3,R1,YL2-A,BL1-A,49,0.490,0.490
+Invasion 1.5-2.5hr,B3,R2,BL1-A,YL2-A,3,0.030,100.000
+Invasion 1.5-2.5hr,B3,R4,BL1-A,YL2-A,0,0.000,0.000
+Invasion 1.5-2.5hr,B3,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,B3,mCh+,BL1-A,YL2-A,3,0.030,0.030
+Invasion 1.5-2.5hr,B3,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,B3,R2,YL2-A,,3,0.030,0.030
+Invasion 1.5-2.5hr,B3,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,B3,R3,BL1-A,,7,0.070,0.070
+Invasion 1.5-2.5hr,B3,R3,BL1-A,YL2-A,7,0.070,58.333
+Invasion 1.5-2.5hr,B3,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,B3,GFP+,BL1-A,YL2-A,12,0.120,0.120
+Invasion 1.5-2.5hr,B3,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,B3,R4,FSC-A,SSC-A,0,0.000,0.000
+Invasion 1.5-2.5hr,B3,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,B3,R1,FSC-A,FSC-H,49,0.490,0.490
+Invasion 1.5-2.5hr,B3,LG1,,,3,0.030,0.030
+Invasion 1.5-2.5hr,B4,GFP+,BL1-A,,21,0.210,20.192
+Invasion 1.5-2.5hr,B4,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,B4,R1,BL1-A,,104,1.040,1.040
+Invasion 1.5-2.5hr,B4,mCh+,YL2-A,,21,0.210,20.192
+Invasion 1.5-2.5hr,B4,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,B4,R1,YL2-A,,104,1.040,1.040
+Invasion 1.5-2.5hr,B4,R1,FSC-H,SSC-H,104,1.040,1.040
+Invasion 1.5-2.5hr,B4,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,B4,mCherry-/GFP+,YL2-A,BL1-A,23,0.230,22.115
+Invasion 1.5-2.5hr,B4,mCherry+/GFP+,YL2-A,BL1-A,1,0.010,0.962
+Invasion 1.5-2.5hr,B4,mCherry-/GFP-,YL2-A,BL1-A,25,0.250,24.038
+Invasion 1.5-2.5hr,B4,mCherry+/GFP-,YL2-A,BL1-A,55,0.550,52.885
+Invasion 1.5-2.5hr,B4,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,B4,R1,YL2-A,BL1-A,104,1.040,1.040
+Invasion 1.5-2.5hr,B4,R2,BL1-A,YL2-A,19,0.190,90.476
+Invasion 1.5-2.5hr,B4,R4,BL1-A,YL2-A,0,0.000,0.000
+Invasion 1.5-2.5hr,B4,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,B4,mCh+,BL1-A,YL2-A,21,0.210,0.210
+Invasion 1.5-2.5hr,B4,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,B4,R2,YL2-A,,19,0.190,0.190
+Invasion 1.5-2.5hr,B4,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,B4,R3,BL1-A,,20,0.200,0.200
+Invasion 1.5-2.5hr,B4,R3,BL1-A,YL2-A,20,0.200,95.238
+Invasion 1.5-2.5hr,B4,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,B4,GFP+,BL1-A,YL2-A,21,0.210,0.210
+Invasion 1.5-2.5hr,B4,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,B4,R4,FSC-A,SSC-A,0,0.000,0.000
+Invasion 1.5-2.5hr,B4,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,B4,R1,FSC-A,FSC-H,104,1.040,1.040
+Invasion 1.5-2.5hr,B4,LG1,,,21,0.210,0.210
+Invasion 1.5-2.5hr,B5,GFP+,BL1-A,,4583,45.830,66.037
+Invasion 1.5-2.5hr,B5,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,B5,R1,BL1-A,,6940,69.400,69.400
+Invasion 1.5-2.5hr,B5,mCh+,YL2-A,,177,1.770,2.550
+Invasion 1.5-2.5hr,B5,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,B5,R1,YL2-A,,6940,69.400,69.400
+Invasion 1.5-2.5hr,B5,R1,FSC-H,SSC-H,6940,69.400,69.400
+Invasion 1.5-2.5hr,B5,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,B5,mCherry-/GFP+,YL2-A,BL1-A,4638,46.380,66.830
+Invasion 1.5-2.5hr,B5,mCherry+/GFP+,YL2-A,BL1-A,109,1.090,1.571
+Invasion 1.5-2.5hr,B5,mCherry-/GFP-,YL2-A,BL1-A,1622,16.220,23.372
+Invasion 1.5-2.5hr,B5,mCherry+/GFP-,YL2-A,BL1-A,571,5.710,8.228
+Invasion 1.5-2.5hr,B5,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,B5,R1,YL2-A,BL1-A,6940,69.400,69.400
+Invasion 1.5-2.5hr,B5,R2,BL1-A,YL2-A,105,1.050,59.322
+Invasion 1.5-2.5hr,B5,R4,BL1-A,YL2-A,32,0.320,18.079
+Invasion 1.5-2.5hr,B5,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,B5,mCh+,BL1-A,YL2-A,177,1.770,1.770
+Invasion 1.5-2.5hr,B5,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,B5,R2,YL2-A,,105,1.050,1.050
+Invasion 1.5-2.5hr,B5,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,B5,R3,BL1-A,,3720,37.200,37.200
+Invasion 1.5-2.5hr,B5,R3,BL1-A,YL2-A,3720,37.200,81.170
+Invasion 1.5-2.5hr,B5,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,B5,GFP+,BL1-A,YL2-A,4583,45.830,45.830
+Invasion 1.5-2.5hr,B5,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,B5,R4,FSC-A,SSC-A,32,0.320,0.320
+Invasion 1.5-2.5hr,B5,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,B5,R1,FSC-A,FSC-H,6940,69.400,69.400
+Invasion 1.5-2.5hr,B5,LG1,,,177,1.770,1.770
+Invasion 1.5-2.5hr,B6,GFP+,BL1-A,,3141,31.410,58.156
+Invasion 1.5-2.5hr,B6,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,B6,R1,BL1-A,,5401,54.010,54.010
+Invasion 1.5-2.5hr,B6,mCh+,YL2-A,,326,3.260,6.036
+Invasion 1.5-2.5hr,B6,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,B6,R1,YL2-A,,5401,54.010,54.010
+Invasion 1.5-2.5hr,B6,R1,FSC-H,SSC-H,5401,54.010,54.010
+Invasion 1.5-2.5hr,B6,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,B6,mCherry-/GFP+,YL2-A,BL1-A,3185,31.850,58.971
+Invasion 1.5-2.5hr,B6,mCherry+/GFP+,YL2-A,BL1-A,84,0.840,1.555
+Invasion 1.5-2.5hr,B6,mCherry-/GFP-,YL2-A,BL1-A,1290,12.900,23.884
+Invasion 1.5-2.5hr,B6,mCherry+/GFP-,YL2-A,BL1-A,842,8.420,15.590
+Invasion 1.5-2.5hr,B6,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,B6,R1,YL2-A,BL1-A,5401,54.010,54.010
+Invasion 1.5-2.5hr,B6,R2,BL1-A,YL2-A,242,2.420,74.233
+Invasion 1.5-2.5hr,B6,R4,BL1-A,YL2-A,51,0.510,15.644
+Invasion 1.5-2.5hr,B6,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,B6,mCh+,BL1-A,YL2-A,326,3.260,3.260
+Invasion 1.5-2.5hr,B6,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,B6,R2,YL2-A,,242,2.420,2.420
+Invasion 1.5-2.5hr,B6,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,B6,R3,BL1-A,,2476,24.760,24.760
+Invasion 1.5-2.5hr,B6,R3,BL1-A,YL2-A,2476,24.760,78.828
+Invasion 1.5-2.5hr,B6,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,B6,GFP+,BL1-A,YL2-A,3141,31.410,31.410
+Invasion 1.5-2.5hr,B6,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,B6,R4,FSC-A,SSC-A,51,0.510,0.510
+Invasion 1.5-2.5hr,B6,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,B6,R1,FSC-A,FSC-H,5401,54.010,54.010
+Invasion 1.5-2.5hr,B6,LG1,,,326,3.260,3.260
+Invasion 1.5-2.5hr,B7,GFP+,BL1-A,,4959,49.590,65.156
+Invasion 1.5-2.5hr,B7,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,B7,R1,BL1-A,,7611,76.110,76.110
+Invasion 1.5-2.5hr,B7,mCh+,YL2-A,,264,2.640,3.469
+Invasion 1.5-2.5hr,B7,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,B7,R1,YL2-A,,7611,76.110,76.110
+Invasion 1.5-2.5hr,B7,R1,FSC-H,SSC-H,7611,76.110,76.110
+Invasion 1.5-2.5hr,B7,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,B7,mCherry-/GFP+,YL2-A,BL1-A,4869,48.690,63.973
+Invasion 1.5-2.5hr,B7,mCherry+/GFP+,YL2-A,BL1-A,197,1.970,2.588
+Invasion 1.5-2.5hr,B7,mCherry-/GFP-,YL2-A,BL1-A,1582,15.820,20.786
+Invasion 1.5-2.5hr,B7,mCherry+/GFP-,YL2-A,BL1-A,963,9.630,12.653
+Invasion 1.5-2.5hr,B7,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,B7,R1,YL2-A,BL1-A,7611,76.110,76.110
+Invasion 1.5-2.5hr,B7,R2,BL1-A,YL2-A,94,0.940,35.606
+Invasion 1.5-2.5hr,B7,R4,BL1-A,YL2-A,73,0.730,27.652
+Invasion 1.5-2.5hr,B7,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,B7,mCh+,BL1-A,YL2-A,264,2.640,2.640
+Invasion 1.5-2.5hr,B7,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,B7,R2,YL2-A,,94,0.940,0.940
+Invasion 1.5-2.5hr,B7,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,B7,R3,BL1-A,,3986,39.860,39.860
+Invasion 1.5-2.5hr,B7,R3,BL1-A,YL2-A,3986,39.860,80.379
+Invasion 1.5-2.5hr,B7,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,B7,GFP+,BL1-A,YL2-A,4959,49.590,49.590
+Invasion 1.5-2.5hr,B7,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,B7,R4,FSC-A,SSC-A,73,0.730,0.730
+Invasion 1.5-2.5hr,B7,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,B7,R1,FSC-A,FSC-H,7611,76.110,76.110
+Invasion 1.5-2.5hr,B7,LG1,,,264,2.640,2.640
+Invasion 1.5-2.5hr,B8,GFP+,BL1-A,,817,8.170,19.976
+Invasion 1.5-2.5hr,B8,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,B8,R1,BL1-A,,4090,40.900,40.900
+Invasion 1.5-2.5hr,B8,mCh+,YL2-A,,876,8.760,21.418
+Invasion 1.5-2.5hr,B8,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,B8,R1,YL2-A,,4090,40.900,40.900
+Invasion 1.5-2.5hr,B8,R1,FSC-H,SSC-H,4090,40.900,40.900
+Invasion 1.5-2.5hr,B8,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,B8,mCherry-/GFP+,YL2-A,BL1-A,773,7.730,18.900
+Invasion 1.5-2.5hr,B8,mCherry+/GFP+,YL2-A,BL1-A,61,0.610,1.491
+Invasion 1.5-2.5hr,B8,mCherry-/GFP-,YL2-A,BL1-A,404,4.040,9.878
+Invasion 1.5-2.5hr,B8,mCherry+/GFP-,YL2-A,BL1-A,2852,28.520,69.731
+Invasion 1.5-2.5hr,B8,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,B8,R1,YL2-A,BL1-A,4090,40.900,40.900
+Invasion 1.5-2.5hr,B8,R2,BL1-A,YL2-A,809,8.090,92.352
+Invasion 1.5-2.5hr,B8,R4,BL1-A,YL2-A,29,0.290,3.311
+Invasion 1.5-2.5hr,B8,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,B8,mCh+,BL1-A,YL2-A,876,8.760,8.760
+Invasion 1.5-2.5hr,B8,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,B8,R2,YL2-A,,809,8.090,8.090
+Invasion 1.5-2.5hr,B8,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,B8,R3,BL1-A,,625,6.250,6.250
+Invasion 1.5-2.5hr,B8,R3,BL1-A,YL2-A,625,6.250,76.499
+Invasion 1.5-2.5hr,B8,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,B8,GFP+,BL1-A,YL2-A,817,8.170,8.170
+Invasion 1.5-2.5hr,B8,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,B8,R4,FSC-A,SSC-A,29,0.290,0.290
+Invasion 1.5-2.5hr,B8,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,B8,R1,FSC-A,FSC-H,4090,40.900,40.900
+Invasion 1.5-2.5hr,B8,LG1,,,876,8.760,8.760
+Invasion 1.5-2.5hr,B9,GFP+,BL1-A,,3158,31.580,66.949
+Invasion 1.5-2.5hr,B9,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,B9,R1,BL1-A,,4717,47.170,47.170
+Invasion 1.5-2.5hr,B9,mCh+,YL2-A,,100,1.000,2.120
+Invasion 1.5-2.5hr,B9,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,B9,R1,YL2-A,,4717,47.170,47.170
+Invasion 1.5-2.5hr,B9,R1,FSC-H,SSC-H,4717,47.170,47.170
+Invasion 1.5-2.5hr,B9,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,B9,mCherry-/GFP+,YL2-A,BL1-A,3227,32.270,68.412
+Invasion 1.5-2.5hr,B9,mCherry+/GFP+,YL2-A,BL1-A,32,0.320,0.678
+Invasion 1.5-2.5hr,B9,mCherry-/GFP-,YL2-A,BL1-A,1106,11.060,23.447
+Invasion 1.5-2.5hr,B9,mCherry+/GFP-,YL2-A,BL1-A,352,3.520,7.462
+Invasion 1.5-2.5hr,B9,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,B9,R1,YL2-A,BL1-A,4717,47.170,47.170
+Invasion 1.5-2.5hr,B9,R2,BL1-A,YL2-A,80,0.800,80.000
+Invasion 1.5-2.5hr,B9,R4,BL1-A,YL2-A,6,0.060,6.000
+Invasion 1.5-2.5hr,B9,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,B9,mCh+,BL1-A,YL2-A,100,1.000,1.000
+Invasion 1.5-2.5hr,B9,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,B9,R2,YL2-A,,80,0.800,0.800
+Invasion 1.5-2.5hr,B9,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,B9,R3,BL1-A,,2630,26.300,26.300
+Invasion 1.5-2.5hr,B9,R3,BL1-A,YL2-A,2630,26.300,83.281
+Invasion 1.5-2.5hr,B9,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,B9,GFP+,BL1-A,YL2-A,3158,31.580,31.580
+Invasion 1.5-2.5hr,B9,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,B9,R4,FSC-A,SSC-A,6,0.060,0.060
+Invasion 1.5-2.5hr,B9,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,B9,R1,FSC-A,FSC-H,4717,47.170,47.170
+Invasion 1.5-2.5hr,B9,LG1,,,100,1.000,1.000
+Invasion 1.5-2.5hr,B10,GFP+,BL1-A,,4707,47.070,64.612
+Invasion 1.5-2.5hr,B10,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,B10,R1,BL1-A,,7285,72.850,72.850
+Invasion 1.5-2.5hr,B10,mCh+,YL2-A,,279,2.790,3.830
+Invasion 1.5-2.5hr,B10,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,B10,R1,YL2-A,,7285,72.850,72.850
+Invasion 1.5-2.5hr,B10,R1,FSC-H,SSC-H,7285,72.850,72.850
+Invasion 1.5-2.5hr,B10,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,B10,mCherry-/GFP+,YL2-A,BL1-A,4692,46.920,64.406
+Invasion 1.5-2.5hr,B10,mCherry+/GFP+,YL2-A,BL1-A,166,1.660,2.279
+Invasion 1.5-2.5hr,B10,mCherry-/GFP-,YL2-A,BL1-A,1720,17.200,23.610
+Invasion 1.5-2.5hr,B10,mCherry+/GFP-,YL2-A,BL1-A,707,7.070,9.705
+Invasion 1.5-2.5hr,B10,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,B10,R1,YL2-A,BL1-A,7285,72.850,72.850
+Invasion 1.5-2.5hr,B10,R2,BL1-A,YL2-A,142,1.420,50.896
+Invasion 1.5-2.5hr,B10,R4,BL1-A,YL2-A,55,0.550,19.713
+Invasion 1.5-2.5hr,B10,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,B10,mCh+,BL1-A,YL2-A,279,2.790,2.790
+Invasion 1.5-2.5hr,B10,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,B10,R2,YL2-A,,142,1.420,1.420
+Invasion 1.5-2.5hr,B10,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,B10,R3,BL1-A,,3734,37.340,37.340
+Invasion 1.5-2.5hr,B10,R3,BL1-A,YL2-A,3734,37.340,79.329
+Invasion 1.5-2.5hr,B10,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,B10,GFP+,BL1-A,YL2-A,4707,47.070,47.070
+Invasion 1.5-2.5hr,B10,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,B10,R4,FSC-A,SSC-A,55,0.550,0.550
+Invasion 1.5-2.5hr,B10,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,B10,R1,FSC-A,FSC-H,7285,72.850,72.850
+Invasion 1.5-2.5hr,B10,LG1,,,279,2.790,2.790
+Invasion 1.5-2.5hr,B11,GFP+,BL1-A,,4764,47.640,65.665
+Invasion 1.5-2.5hr,B11,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,B11,R1,BL1-A,,7255,72.550,72.550
+Invasion 1.5-2.5hr,B11,mCh+,YL2-A,,217,2.170,2.991
+Invasion 1.5-2.5hr,B11,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,B11,R1,YL2-A,,7255,72.550,72.550
+Invasion 1.5-2.5hr,B11,R1,FSC-H,SSC-H,7255,72.550,72.550
+Invasion 1.5-2.5hr,B11,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,B11,mCherry-/GFP+,YL2-A,BL1-A,4694,46.940,64.700
+Invasion 1.5-2.5hr,B11,mCherry+/GFP+,YL2-A,BL1-A,150,1.500,2.068
+Invasion 1.5-2.5hr,B11,mCherry-/GFP-,YL2-A,BL1-A,1603,16.030,22.095
+Invasion 1.5-2.5hr,B11,mCherry+/GFP-,YL2-A,BL1-A,808,8.080,11.137
+Invasion 1.5-2.5hr,B11,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,B11,R1,YL2-A,BL1-A,7255,72.550,72.550
+Invasion 1.5-2.5hr,B11,R2,BL1-A,YL2-A,116,1.160,53.456
+Invasion 1.5-2.5hr,B11,R4,BL1-A,YL2-A,44,0.440,20.276
+Invasion 1.5-2.5hr,B11,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,B11,mCh+,BL1-A,YL2-A,217,2.170,2.170
+Invasion 1.5-2.5hr,B11,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,B11,R2,YL2-A,,116,1.160,1.160
+Invasion 1.5-2.5hr,B11,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,B11,R3,BL1-A,,3986,39.860,39.860
+Invasion 1.5-2.5hr,B11,R3,BL1-A,YL2-A,3986,39.860,83.669
+Invasion 1.5-2.5hr,B11,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,B11,GFP+,BL1-A,YL2-A,4764,47.640,47.640
+Invasion 1.5-2.5hr,B11,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,B11,R4,FSC-A,SSC-A,44,0.440,0.440
+Invasion 1.5-2.5hr,B11,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,B11,R1,FSC-A,FSC-H,7255,72.550,72.550
+Invasion 1.5-2.5hr,B11,LG1,,,217,2.170,2.170
+Invasion 1.5-2.5hr,B12,GFP+,BL1-A,,1398,13.980,23.425
+Invasion 1.5-2.5hr,B12,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,B12,R1,BL1-A,,5968,59.680,59.680
+Invasion 1.5-2.5hr,B12,mCh+,YL2-A,,1096,10.960,18.365
+Invasion 1.5-2.5hr,B12,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,B12,R1,YL2-A,,5968,59.680,59.680
+Invasion 1.5-2.5hr,B12,R1,FSC-H,SSC-H,5968,59.680,59.680
+Invasion 1.5-2.5hr,B12,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,B12,mCherry-/GFP+,YL2-A,BL1-A,1296,12.960,21.716
+Invasion 1.5-2.5hr,B12,mCherry+/GFP+,YL2-A,BL1-A,137,1.370,2.296
+Invasion 1.5-2.5hr,B12,mCherry-/GFP-,YL2-A,BL1-A,714,7.140,11.964
+Invasion 1.5-2.5hr,B12,mCherry+/GFP-,YL2-A,BL1-A,3821,38.210,64.025
+Invasion 1.5-2.5hr,B12,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,B12,R1,YL2-A,BL1-A,5968,59.680,59.680
+Invasion 1.5-2.5hr,B12,R2,BL1-A,YL2-A,981,9.810,89.507
+Invasion 1.5-2.5hr,B12,R4,BL1-A,YL2-A,55,0.550,5.018
+Invasion 1.5-2.5hr,B12,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,B12,mCh+,BL1-A,YL2-A,1096,10.960,10.960
+Invasion 1.5-2.5hr,B12,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,B12,R2,YL2-A,,981,9.810,9.810
+Invasion 1.5-2.5hr,B12,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,B12,R3,BL1-A,,1083,10.830,10.830
+Invasion 1.5-2.5hr,B12,R3,BL1-A,YL2-A,1083,10.830,77.468
+Invasion 1.5-2.5hr,B12,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,B12,GFP+,BL1-A,YL2-A,1398,13.980,13.980
+Invasion 1.5-2.5hr,B12,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,B12,R4,FSC-A,SSC-A,55,0.550,0.550
+Invasion 1.5-2.5hr,B12,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,B12,R1,FSC-A,FSC-H,5968,59.680,59.680
+Invasion 1.5-2.5hr,B12,LG1,,,1096,10.960,10.960
+Invasion 1.5-2.5hr,C2,GFP+,BL1-A,,2073,20.730,54.885
+Invasion 1.5-2.5hr,C2,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,C2,R1,BL1-A,,3777,37.770,37.770
+Invasion 1.5-2.5hr,C2,mCh+,YL2-A,,638,6.380,16.892
+Invasion 1.5-2.5hr,C2,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,C2,R1,YL2-A,,3777,37.770,37.770
+Invasion 1.5-2.5hr,C2,R1,FSC-H,SSC-H,3777,37.770,37.770
+Invasion 1.5-2.5hr,C2,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,C2,mCherry-/GFP+,YL2-A,BL1-A,2054,20.540,54.382
+Invasion 1.5-2.5hr,C2,mCherry+/GFP+,YL2-A,BL1-A,107,1.070,2.833
+Invasion 1.5-2.5hr,C2,mCherry-/GFP-,YL2-A,BL1-A,407,4.070,10.776
+Invasion 1.5-2.5hr,C2,mCherry+/GFP-,YL2-A,BL1-A,1209,12.090,32.010
+Invasion 1.5-2.5hr,C2,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,C2,R1,YL2-A,BL1-A,3777,37.770,37.770
+Invasion 1.5-2.5hr,C2,R2,BL1-A,YL2-A,529,5.290,82.915
+Invasion 1.5-2.5hr,C2,R4,BL1-A,YL2-A,63,0.630,9.875
+Invasion 1.5-2.5hr,C2,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,C2,mCh+,BL1-A,YL2-A,638,6.380,6.380
+Invasion 1.5-2.5hr,C2,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,C2,R2,YL2-A,,529,5.290,5.290
+Invasion 1.5-2.5hr,C2,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,C2,R3,BL1-A,,1634,16.340,16.340
+Invasion 1.5-2.5hr,C2,R3,BL1-A,YL2-A,1634,16.340,78.823
+Invasion 1.5-2.5hr,C2,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,C2,GFP+,BL1-A,YL2-A,2073,20.730,20.730
+Invasion 1.5-2.5hr,C2,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,C2,R4,FSC-A,SSC-A,63,0.630,0.630
+Invasion 1.5-2.5hr,C2,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,C2,R1,FSC-A,FSC-H,3777,37.770,37.770
+Invasion 1.5-2.5hr,C2,LG1,,,638,6.380,6.380
+Invasion 1.5-2.5hr,C3,GFP+,BL1-A,,3682,36.820,57.802
+Invasion 1.5-2.5hr,C3,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,C3,R1,BL1-A,,6370,63.700,63.700
+Invasion 1.5-2.5hr,C3,mCh+,YL2-A,,998,9.980,15.667
+Invasion 1.5-2.5hr,C3,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,C3,R1,YL2-A,,6370,63.700,63.700
+Invasion 1.5-2.5hr,C3,R1,FSC-H,SSC-H,6370,63.700,63.700
+Invasion 1.5-2.5hr,C3,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,C3,mCherry-/GFP+,YL2-A,BL1-A,3498,34.980,54.914
+Invasion 1.5-2.5hr,C3,mCherry+/GFP+,YL2-A,BL1-A,267,2.670,4.192
+Invasion 1.5-2.5hr,C3,mCherry-/GFP-,YL2-A,BL1-A,550,5.500,8.634
+Invasion 1.5-2.5hr,C3,mCherry+/GFP-,YL2-A,BL1-A,2055,20.550,32.261
+Invasion 1.5-2.5hr,C3,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,C3,R1,YL2-A,BL1-A,6370,63.700,63.700
+Invasion 1.5-2.5hr,C3,R2,BL1-A,YL2-A,725,7.250,72.645
+Invasion 1.5-2.5hr,C3,R4,BL1-A,YL2-A,146,1.460,14.629
+Invasion 1.5-2.5hr,C3,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,C3,mCh+,BL1-A,YL2-A,998,9.980,9.980
+Invasion 1.5-2.5hr,C3,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,C3,R2,YL2-A,,725,7.250,7.250
+Invasion 1.5-2.5hr,C3,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,C3,R3,BL1-A,,2925,29.250,29.250
+Invasion 1.5-2.5hr,C3,R3,BL1-A,YL2-A,2925,29.250,79.441
+Invasion 1.5-2.5hr,C3,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,C3,GFP+,BL1-A,YL2-A,3682,36.820,36.820
+Invasion 1.5-2.5hr,C3,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,C3,R4,FSC-A,SSC-A,146,1.460,1.460
+Invasion 1.5-2.5hr,C3,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,C3,R1,FSC-A,FSC-H,6370,63.700,63.700
+Invasion 1.5-2.5hr,C3,LG1,,,998,9.980,9.980
+Invasion 1.5-2.5hr,C4,GFP+,BL1-A,,640,6.400,12.289
+Invasion 1.5-2.5hr,C4,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,C4,R1,BL1-A,,5208,52.080,52.080
+Invasion 1.5-2.5hr,C4,mCh+,YL2-A,,1690,16.900,32.450
+Invasion 1.5-2.5hr,C4,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,C4,R1,YL2-A,,5208,52.080,52.080
+Invasion 1.5-2.5hr,C4,R1,FSC-H,SSC-H,5208,52.080,52.080
+Invasion 1.5-2.5hr,C4,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,C4,mCherry-/GFP+,YL2-A,BL1-A,571,5.710,10.964
+Invasion 1.5-2.5hr,C4,mCherry+/GFP+,YL2-A,BL1-A,90,0.900,1.728
+Invasion 1.5-2.5hr,C4,mCherry-/GFP-,YL2-A,BL1-A,224,2.240,4.301
+Invasion 1.5-2.5hr,C4,mCherry+/GFP-,YL2-A,BL1-A,4323,43.230,83.007
+Invasion 1.5-2.5hr,C4,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,C4,R1,YL2-A,BL1-A,5208,52.080,52.080
+Invasion 1.5-2.5hr,C4,R2,BL1-A,YL2-A,1574,15.740,93.136
+Invasion 1.5-2.5hr,C4,R4,BL1-A,YL2-A,52,0.520,3.077
+Invasion 1.5-2.5hr,C4,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,C4,mCh+,BL1-A,YL2-A,1690,16.900,16.900
+Invasion 1.5-2.5hr,C4,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,C4,R2,YL2-A,,1574,15.740,15.740
+Invasion 1.5-2.5hr,C4,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,C4,R3,BL1-A,,475,4.750,4.750
+Invasion 1.5-2.5hr,C4,R3,BL1-A,YL2-A,475,4.750,74.219
+Invasion 1.5-2.5hr,C4,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,C4,GFP+,BL1-A,YL2-A,640,6.400,6.400
+Invasion 1.5-2.5hr,C4,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,C4,R4,FSC-A,SSC-A,52,0.520,0.520
+Invasion 1.5-2.5hr,C4,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,C4,R1,FSC-A,FSC-H,5208,52.080,52.080
+Invasion 1.5-2.5hr,C4,LG1,,,1690,16.900,16.900
+Invasion 1.5-2.5hr,C5,GFP+,BL1-A,,5316,53.160,71.945
+Invasion 1.5-2.5hr,C5,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,C5,R1,BL1-A,,7389,73.890,73.890
+Invasion 1.5-2.5hr,C5,mCh+,YL2-A,,363,3.630,4.913
+Invasion 1.5-2.5hr,C5,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,C5,R1,YL2-A,,7389,73.890,73.890
+Invasion 1.5-2.5hr,C5,R1,FSC-H,SSC-H,7389,73.890,73.890
+Invasion 1.5-2.5hr,C5,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,C5,mCherry-/GFP+,YL2-A,BL1-A,5358,53.580,72.513
+Invasion 1.5-2.5hr,C5,mCherry+/GFP+,YL2-A,BL1-A,256,2.560,3.465
+Invasion 1.5-2.5hr,C5,mCherry-/GFP-,YL2-A,BL1-A,903,9.030,12.221
+Invasion 1.5-2.5hr,C5,mCherry+/GFP-,YL2-A,BL1-A,872,8.720,11.801
+Invasion 1.5-2.5hr,C5,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,C5,R1,YL2-A,BL1-A,7389,73.890,73.890
+Invasion 1.5-2.5hr,C5,R2,BL1-A,YL2-A,137,1.370,37.741
+Invasion 1.5-2.5hr,C5,R4,BL1-A,YL2-A,94,0.940,25.895
+Invasion 1.5-2.5hr,C5,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,C5,mCh+,BL1-A,YL2-A,363,3.630,3.630
+Invasion 1.5-2.5hr,C5,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,C5,R2,YL2-A,,137,1.370,1.370
+Invasion 1.5-2.5hr,C5,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,C5,R3,BL1-A,,4159,41.590,41.590
+Invasion 1.5-2.5hr,C5,R3,BL1-A,YL2-A,4159,41.590,78.236
+Invasion 1.5-2.5hr,C5,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,C5,GFP+,BL1-A,YL2-A,5316,53.160,53.160
+Invasion 1.5-2.5hr,C5,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,C5,R4,FSC-A,SSC-A,94,0.940,0.940
+Invasion 1.5-2.5hr,C5,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,C5,R1,FSC-A,FSC-H,7389,73.890,73.890
+Invasion 1.5-2.5hr,C5,LG1,,,363,3.630,3.630
+Invasion 1.5-2.5hr,C6,GFP+,BL1-A,,3128,31.280,57.862
+Invasion 1.5-2.5hr,C6,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,C6,R1,BL1-A,,5406,54.060,54.060
+Invasion 1.5-2.5hr,C6,mCh+,YL2-A,,673,6.730,12.449
+Invasion 1.5-2.5hr,C6,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,C6,R1,YL2-A,,5406,54.060,54.060
+Invasion 1.5-2.5hr,C6,R1,FSC-H,SSC-H,5406,54.060,54.060
+Invasion 1.5-2.5hr,C6,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,C6,mCherry-/GFP+,YL2-A,BL1-A,3092,30.920,57.196
+Invasion 1.5-2.5hr,C6,mCherry+/GFP+,YL2-A,BL1-A,213,2.130,3.940
+Invasion 1.5-2.5hr,C6,mCherry-/GFP-,YL2-A,BL1-A,654,6.540,12.098
+Invasion 1.5-2.5hr,C6,mCherry+/GFP-,YL2-A,BL1-A,1447,14.470,26.767
+Invasion 1.5-2.5hr,C6,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,C6,R1,YL2-A,BL1-A,5406,54.060,54.060
+Invasion 1.5-2.5hr,C6,R2,BL1-A,YL2-A,494,4.940,73.403
+Invasion 1.5-2.5hr,C6,R4,BL1-A,YL2-A,101,1.010,15.007
+Invasion 1.5-2.5hr,C6,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,C6,mCh+,BL1-A,YL2-A,673,6.730,6.730
+Invasion 1.5-2.5hr,C6,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,C6,R2,YL2-A,,494,4.940,4.940
+Invasion 1.5-2.5hr,C6,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,C6,R3,BL1-A,,2407,24.070,24.070
+Invasion 1.5-2.5hr,C6,R3,BL1-A,YL2-A,2407,24.070,76.950
+Invasion 1.5-2.5hr,C6,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,C6,GFP+,BL1-A,YL2-A,3128,31.280,31.280
+Invasion 1.5-2.5hr,C6,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,C6,R4,FSC-A,SSC-A,101,1.010,1.010
+Invasion 1.5-2.5hr,C6,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,C6,R1,FSC-A,FSC-H,5406,54.060,54.060
+Invasion 1.5-2.5hr,C6,LG1,,,673,6.730,6.730
+Invasion 1.5-2.5hr,C7,GFP+,BL1-A,,2566,25.660,64.359
+Invasion 1.5-2.5hr,C7,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,C7,R1,BL1-A,,3987,39.870,39.870
+Invasion 1.5-2.5hr,C7,mCh+,YL2-A,,235,2.350,5.894
+Invasion 1.5-2.5hr,C7,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,C7,R1,YL2-A,,3987,39.870,39.870
+Invasion 1.5-2.5hr,C7,R1,FSC-H,SSC-H,3987,39.870,39.870
+Invasion 1.5-2.5hr,C7,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,C7,mCherry-/GFP+,YL2-A,BL1-A,2545,25.450,63.832
+Invasion 1.5-2.5hr,C7,mCherry+/GFP+,YL2-A,BL1-A,60,0.600,1.505
+Invasion 1.5-2.5hr,C7,mCherry-/GFP-,YL2-A,BL1-A,450,4.500,11.287
+Invasion 1.5-2.5hr,C7,mCherry+/GFP-,YL2-A,BL1-A,932,9.320,23.376
+Invasion 1.5-2.5hr,C7,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,C7,R1,YL2-A,BL1-A,3987,39.870,39.870
+Invasion 1.5-2.5hr,C7,R2,BL1-A,YL2-A,199,1.990,84.681
+Invasion 1.5-2.5hr,C7,R4,BL1-A,YL2-A,20,0.200,8.511
+Invasion 1.5-2.5hr,C7,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,C7,mCh+,BL1-A,YL2-A,235,2.350,2.350
+Invasion 1.5-2.5hr,C7,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,C7,R2,YL2-A,,199,1.990,1.990
+Invasion 1.5-2.5hr,C7,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,C7,R3,BL1-A,,2171,21.710,21.710
+Invasion 1.5-2.5hr,C7,R3,BL1-A,YL2-A,2171,21.710,84.606
+Invasion 1.5-2.5hr,C7,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,C7,GFP+,BL1-A,YL2-A,2566,25.660,25.660
+Invasion 1.5-2.5hr,C7,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,C7,R4,FSC-A,SSC-A,20,0.200,0.200
+Invasion 1.5-2.5hr,C7,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,C7,R1,FSC-A,FSC-H,3987,39.870,39.870
+Invasion 1.5-2.5hr,C7,LG1,,,235,2.350,2.350
+Invasion 1.5-2.5hr,C8,GFP+,BL1-A,,632,6.320,13.618
+Invasion 1.5-2.5hr,C8,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,C8,R1,BL1-A,,4641,46.410,46.410
+Invasion 1.5-2.5hr,C8,mCh+,YL2-A,,1156,11.560,24.908
+Invasion 1.5-2.5hr,C8,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,C8,R1,YL2-A,,4641,46.410,46.410
+Invasion 1.5-2.5hr,C8,R1,FSC-H,SSC-H,4641,46.410,46.410
+Invasion 1.5-2.5hr,C8,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,C8,mCherry-/GFP+,YL2-A,BL1-A,574,5.740,12.368
+Invasion 1.5-2.5hr,C8,mCherry+/GFP+,YL2-A,BL1-A,70,0.700,1.508
+Invasion 1.5-2.5hr,C8,mCherry-/GFP-,YL2-A,BL1-A,228,2.280,4.913
+Invasion 1.5-2.5hr,C8,mCherry+/GFP-,YL2-A,BL1-A,3769,37.690,81.211
+Invasion 1.5-2.5hr,C8,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,C8,R1,YL2-A,BL1-A,4641,46.410,46.410
+Invasion 1.5-2.5hr,C8,R2,BL1-A,YL2-A,1090,10.900,94.291
+Invasion 1.5-2.5hr,C8,R4,BL1-A,YL2-A,29,0.290,2.509
+Invasion 1.5-2.5hr,C8,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,C8,mCh+,BL1-A,YL2-A,1156,11.560,11.560
+Invasion 1.5-2.5hr,C8,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,C8,R2,YL2-A,,1090,10.900,10.900
+Invasion 1.5-2.5hr,C8,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,C8,R3,BL1-A,,493,4.930,4.930
+Invasion 1.5-2.5hr,C8,R3,BL1-A,YL2-A,493,4.930,78.006
+Invasion 1.5-2.5hr,C8,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,C8,GFP+,BL1-A,YL2-A,632,6.320,6.320
+Invasion 1.5-2.5hr,C8,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,C8,R4,FSC-A,SSC-A,29,0.290,0.290
+Invasion 1.5-2.5hr,C8,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,C8,R1,FSC-A,FSC-H,4641,46.410,46.410
+Invasion 1.5-2.5hr,C8,LG1,,,1156,11.560,11.560
+Invasion 1.5-2.5hr,C9,GFP+,BL1-A,,3938,39.380,75.081
+Invasion 1.5-2.5hr,C9,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,C9,R1,BL1-A,,5245,52.450,52.450
+Invasion 1.5-2.5hr,C9,mCh+,YL2-A,,172,1.720,3.279
+Invasion 1.5-2.5hr,C9,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,C9,R1,YL2-A,,5245,52.450,52.450
+Invasion 1.5-2.5hr,C9,R1,FSC-H,SSC-H,5245,52.450,52.450
+Invasion 1.5-2.5hr,C9,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,C9,mCherry-/GFP+,YL2-A,BL1-A,4008,40.080,76.416
+Invasion 1.5-2.5hr,C9,mCherry+/GFP+,YL2-A,BL1-A,60,0.600,1.144
+Invasion 1.5-2.5hr,C9,mCherry-/GFP-,YL2-A,BL1-A,681,6.810,12.984
+Invasion 1.5-2.5hr,C9,mCherry+/GFP-,YL2-A,BL1-A,496,4.960,9.457
+Invasion 1.5-2.5hr,C9,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,C9,R1,YL2-A,BL1-A,5245,52.450,52.450
+Invasion 1.5-2.5hr,C9,R2,BL1-A,YL2-A,118,1.180,68.605
+Invasion 1.5-2.5hr,C9,R4,BL1-A,YL2-A,27,0.270,15.698
+Invasion 1.5-2.5hr,C9,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,C9,mCh+,BL1-A,YL2-A,172,1.720,1.720
+Invasion 1.5-2.5hr,C9,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,C9,R2,YL2-A,,118,1.180,1.180
+Invasion 1.5-2.5hr,C9,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,C9,R3,BL1-A,,3301,33.010,33.010
+Invasion 1.5-2.5hr,C9,R3,BL1-A,YL2-A,3301,33.010,83.824
+Invasion 1.5-2.5hr,C9,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,C9,GFP+,BL1-A,YL2-A,3938,39.380,39.380
+Invasion 1.5-2.5hr,C9,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,C9,R4,FSC-A,SSC-A,27,0.270,0.270
+Invasion 1.5-2.5hr,C9,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,C9,R1,FSC-A,FSC-H,5245,52.450,52.450
+Invasion 1.5-2.5hr,C9,LG1,,,172,1.720,1.720
+Invasion 1.5-2.5hr,C10,GFP+,BL1-A,,4126,41.260,65.440
+Invasion 1.5-2.5hr,C10,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,C10,R1,BL1-A,,6305,63.050,63.050
+Invasion 1.5-2.5hr,C10,mCh+,YL2-A,,435,4.350,6.899
+Invasion 1.5-2.5hr,C10,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,C10,R1,YL2-A,,6305,63.050,63.050
+Invasion 1.5-2.5hr,C10,R1,FSC-H,SSC-H,6305,63.050,63.050
+Invasion 1.5-2.5hr,C10,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,C10,mCherry-/GFP+,YL2-A,BL1-A,4056,40.560,64.330
+Invasion 1.5-2.5hr,C10,mCherry+/GFP+,YL2-A,BL1-A,191,1.910,3.029
+Invasion 1.5-2.5hr,C10,mCherry-/GFP-,YL2-A,BL1-A,783,7.830,12.419
+Invasion 1.5-2.5hr,C10,mCherry+/GFP-,YL2-A,BL1-A,1275,12.750,20.222
+Invasion 1.5-2.5hr,C10,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,C10,R1,YL2-A,BL1-A,6305,63.050,63.050
+Invasion 1.5-2.5hr,C10,R2,BL1-A,YL2-A,289,2.890,66.437
+Invasion 1.5-2.5hr,C10,R4,BL1-A,YL2-A,76,0.760,17.471
+Invasion 1.5-2.5hr,C10,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,C10,mCh+,BL1-A,YL2-A,435,4.350,4.350
+Invasion 1.5-2.5hr,C10,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,C10,R2,YL2-A,,289,2.890,2.890
+Invasion 1.5-2.5hr,C10,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,C10,R3,BL1-A,,3313,33.130,33.130
+Invasion 1.5-2.5hr,C10,R3,BL1-A,YL2-A,3313,33.130,80.296
+Invasion 1.5-2.5hr,C10,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,C10,GFP+,BL1-A,YL2-A,4126,41.260,41.260
+Invasion 1.5-2.5hr,C10,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,C10,R4,FSC-A,SSC-A,76,0.760,0.760
+Invasion 1.5-2.5hr,C10,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,C10,R1,FSC-A,FSC-H,6305,63.050,63.050
+Invasion 1.5-2.5hr,C10,LG1,,,435,4.350,4.350
+Invasion 1.5-2.5hr,C11,GFP+,BL1-A,,3983,39.830,67.807
+Invasion 1.5-2.5hr,C11,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,C11,R1,BL1-A,,5874,58.740,58.740
+Invasion 1.5-2.5hr,C11,mCh+,YL2-A,,318,3.180,5.414
+Invasion 1.5-2.5hr,C11,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,C11,R1,YL2-A,,5874,58.740,58.740
+Invasion 1.5-2.5hr,C11,R1,FSC-H,SSC-H,5874,58.740,58.740
+Invasion 1.5-2.5hr,C11,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,C11,mCherry-/GFP+,YL2-A,BL1-A,3942,39.420,67.109
+Invasion 1.5-2.5hr,C11,mCherry+/GFP+,YL2-A,BL1-A,96,0.960,1.634
+Invasion 1.5-2.5hr,C11,mCherry-/GFP-,YL2-A,BL1-A,627,6.270,10.674
+Invasion 1.5-2.5hr,C11,mCherry+/GFP-,YL2-A,BL1-A,1209,12.090,20.582
+Invasion 1.5-2.5hr,C11,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,C11,R1,YL2-A,BL1-A,5874,58.740,58.740
+Invasion 1.5-2.5hr,C11,R2,BL1-A,YL2-A,242,2.420,76.101
+Invasion 1.5-2.5hr,C11,R4,BL1-A,YL2-A,35,0.350,11.006
+Invasion 1.5-2.5hr,C11,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,C11,mCh+,BL1-A,YL2-A,318,3.180,3.180
+Invasion 1.5-2.5hr,C11,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,C11,R2,YL2-A,,242,2.420,2.420
+Invasion 1.5-2.5hr,C11,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,C11,R3,BL1-A,,3373,33.730,33.730
+Invasion 1.5-2.5hr,C11,R3,BL1-A,YL2-A,3373,33.730,84.685
+Invasion 1.5-2.5hr,C11,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,C11,GFP+,BL1-A,YL2-A,3983,39.830,39.830
+Invasion 1.5-2.5hr,C11,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,C11,R4,FSC-A,SSC-A,35,0.350,0.350
+Invasion 1.5-2.5hr,C11,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,C11,R1,FSC-A,FSC-H,5874,58.740,58.740
+Invasion 1.5-2.5hr,C11,LG1,,,318,3.180,3.180
+Invasion 1.5-2.5hr,C12,GFP+,BL1-A,,1123,11.230,20.426
+Invasion 1.5-2.5hr,C12,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,C12,R1,BL1-A,,5498,54.980,54.980
+Invasion 1.5-2.5hr,C12,mCh+,YL2-A,,1014,10.140,18.443
+Invasion 1.5-2.5hr,C12,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,C12,R1,YL2-A,,5498,54.980,54.980
+Invasion 1.5-2.5hr,C12,R1,FSC-H,SSC-H,5498,54.980,54.980
+Invasion 1.5-2.5hr,C12,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,C12,mCherry-/GFP+,YL2-A,BL1-A,1052,10.520,19.134
+Invasion 1.5-2.5hr,C12,mCherry+/GFP+,YL2-A,BL1-A,101,1.010,1.837
+Invasion 1.5-2.5hr,C12,mCherry-/GFP-,YL2-A,BL1-A,340,3.400,6.184
+Invasion 1.5-2.5hr,C12,mCherry+/GFP-,YL2-A,BL1-A,4005,40.050,72.845
+Invasion 1.5-2.5hr,C12,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,C12,R1,YL2-A,BL1-A,5498,54.980,54.980
+Invasion 1.5-2.5hr,C12,R2,BL1-A,YL2-A,933,9.330,92.012
+Invasion 1.5-2.5hr,C12,R4,BL1-A,YL2-A,35,0.350,3.452
+Invasion 1.5-2.5hr,C12,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,C12,mCh+,BL1-A,YL2-A,1014,10.140,10.140
+Invasion 1.5-2.5hr,C12,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,C12,R2,YL2-A,,933,9.330,9.330
+Invasion 1.5-2.5hr,C12,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,C12,R3,BL1-A,,893,8.930,8.930
+Invasion 1.5-2.5hr,C12,R3,BL1-A,YL2-A,893,8.930,79.519
+Invasion 1.5-2.5hr,C12,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,C12,GFP+,BL1-A,YL2-A,1123,11.230,11.230
+Invasion 1.5-2.5hr,C12,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,C12,R4,FSC-A,SSC-A,35,0.350,0.350
+Invasion 1.5-2.5hr,C12,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,C12,R1,FSC-A,FSC-H,5498,54.980,54.980
+Invasion 1.5-2.5hr,C12,LG1,,,1014,10.140,10.140
+Invasion 1.5-2.5hr,D2,GFP+,BL1-A,,2231,22.310,46.411
+Invasion 1.5-2.5hr,D2,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,D2,R1,BL1-A,,4807,48.070,48.070
+Invasion 1.5-2.5hr,D2,mCh+,YL2-A,,1029,10.290,21.406
+Invasion 1.5-2.5hr,D2,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,D2,R1,YL2-A,,4807,48.070,48.070
+Invasion 1.5-2.5hr,D2,R1,FSC-H,SSC-H,4807,48.070,48.070
+Invasion 1.5-2.5hr,D2,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,D2,mCherry-/GFP+,YL2-A,BL1-A,2213,22.130,46.037
+Invasion 1.5-2.5hr,D2,mCherry+/GFP+,YL2-A,BL1-A,206,2.060,4.285
+Invasion 1.5-2.5hr,D2,mCherry-/GFP-,YL2-A,BL1-A,468,4.680,9.736
+Invasion 1.5-2.5hr,D2,mCherry+/GFP-,YL2-A,BL1-A,1920,19.200,39.942
+Invasion 1.5-2.5hr,D2,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,D2,R1,YL2-A,BL1-A,4807,48.070,48.070
+Invasion 1.5-2.5hr,D2,R2,BL1-A,YL2-A,850,8.500,82.604
+Invasion 1.5-2.5hr,D2,R4,BL1-A,YL2-A,107,1.070,10.398
+Invasion 1.5-2.5hr,D2,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,D2,mCh+,BL1-A,YL2-A,1029,10.290,10.290
+Invasion 1.5-2.5hr,D2,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,D2,R2,YL2-A,,850,8.500,8.500
+Invasion 1.5-2.5hr,D2,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,D2,R3,BL1-A,,1614,16.140,16.140
+Invasion 1.5-2.5hr,D2,R3,BL1-A,YL2-A,1614,16.140,72.344
+Invasion 1.5-2.5hr,D2,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,D2,GFP+,BL1-A,YL2-A,2231,22.310,22.310
+Invasion 1.5-2.5hr,D2,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,D2,R4,FSC-A,SSC-A,107,1.070,1.070
+Invasion 1.5-2.5hr,D2,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,D2,R1,FSC-A,FSC-H,4807,48.070,48.070
+Invasion 1.5-2.5hr,D2,LG1,,,1029,10.290,10.290
+Invasion 1.5-2.5hr,D3,GFP+,BL1-A,,53,0.530,43.089
+Invasion 1.5-2.5hr,D3,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,D3,R1,BL1-A,,123,1.230,1.230
+Invasion 1.5-2.5hr,D3,mCh+,YL2-A,,15,0.150,12.195
+Invasion 1.5-2.5hr,D3,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,D3,R1,YL2-A,,123,1.230,1.230
+Invasion 1.5-2.5hr,D3,R1,FSC-H,SSC-H,123,1.230,1.230
+Invasion 1.5-2.5hr,D3,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,D3,mCherry-/GFP+,YL2-A,BL1-A,53,0.530,43.089
+Invasion 1.5-2.5hr,D3,mCherry+/GFP+,YL2-A,BL1-A,1,0.010,0.813
+Invasion 1.5-2.5hr,D3,mCherry-/GFP-,YL2-A,BL1-A,31,0.310,25.203
+Invasion 1.5-2.5hr,D3,mCherry+/GFP-,YL2-A,BL1-A,38,0.380,30.894
+Invasion 1.5-2.5hr,D3,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,D3,R1,YL2-A,BL1-A,123,1.230,1.230
+Invasion 1.5-2.5hr,D3,R2,BL1-A,YL2-A,14,0.140,93.333
+Invasion 1.5-2.5hr,D3,R4,BL1-A,YL2-A,0,0.000,0.000
+Invasion 1.5-2.5hr,D3,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,D3,mCh+,BL1-A,YL2-A,15,0.150,0.150
+Invasion 1.5-2.5hr,D3,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,D3,R2,YL2-A,,14,0.140,0.140
+Invasion 1.5-2.5hr,D3,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,D3,R3,BL1-A,,45,0.450,0.450
+Invasion 1.5-2.5hr,D3,R3,BL1-A,YL2-A,45,0.450,84.906
+Invasion 1.5-2.5hr,D3,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,D3,GFP+,BL1-A,YL2-A,53,0.530,0.530
+Invasion 1.5-2.5hr,D3,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,D3,R4,FSC-A,SSC-A,0,0.000,0.000
+Invasion 1.5-2.5hr,D3,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,D3,R1,FSC-A,FSC-H,123,1.230,1.230
+Invasion 1.5-2.5hr,D3,LG1,,,15,0.150,0.150
+Invasion 1.5-2.5hr,D4,GFP+,BL1-A,,160,1.600,4.206
+Invasion 1.5-2.5hr,D4,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,D4,R1,BL1-A,,3804,38.040,38.040
+Invasion 1.5-2.5hr,D4,mCh+,YL2-A,,1538,15.380,40.431
+Invasion 1.5-2.5hr,D4,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,D4,R1,YL2-A,,3804,38.040,38.040
+Invasion 1.5-2.5hr,D4,R1,FSC-H,SSC-H,3804,38.040,38.040
+Invasion 1.5-2.5hr,D4,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,D4,mCherry-/GFP+,YL2-A,BL1-A,147,1.470,3.864
+Invasion 1.5-2.5hr,D4,mCherry+/GFP+,YL2-A,BL1-A,22,0.220,0.578
+Invasion 1.5-2.5hr,D4,mCherry-/GFP-,YL2-A,BL1-A,80,0.800,2.103
+Invasion 1.5-2.5hr,D4,mCherry+/GFP-,YL2-A,BL1-A,3555,35.550,93.454
+Invasion 1.5-2.5hr,D4,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,D4,R1,YL2-A,BL1-A,3804,38.040,38.040
+Invasion 1.5-2.5hr,D4,R2,BL1-A,YL2-A,1478,14.780,96.099
+Invasion 1.5-2.5hr,D4,R4,BL1-A,YL2-A,7,0.070,0.455
+Invasion 1.5-2.5hr,D4,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,D4,mCh+,BL1-A,YL2-A,1538,15.380,15.380
+Invasion 1.5-2.5hr,D4,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,D4,R2,YL2-A,,1478,14.780,14.780
+Invasion 1.5-2.5hr,D4,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,D4,R3,BL1-A,,125,1.250,1.250
+Invasion 1.5-2.5hr,D4,R3,BL1-A,YL2-A,125,1.250,78.125
+Invasion 1.5-2.5hr,D4,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,D4,GFP+,BL1-A,YL2-A,160,1.600,1.600
+Invasion 1.5-2.5hr,D4,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,D4,R4,FSC-A,SSC-A,7,0.070,0.070
+Invasion 1.5-2.5hr,D4,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,D4,R1,FSC-A,FSC-H,3804,38.040,38.040
+Invasion 1.5-2.5hr,D4,LG1,,,1538,15.380,15.380
+Invasion 1.5-2.5hr,D5,GFP+,BL1-A,,4690,46.900,67.259
+Invasion 1.5-2.5hr,D5,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,D5,R1,BL1-A,,6973,69.730,69.730
+Invasion 1.5-2.5hr,D5,mCh+,YL2-A,,419,4.190,6.009
+Invasion 1.5-2.5hr,D5,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,D5,R1,YL2-A,,6973,69.730,69.730
+Invasion 1.5-2.5hr,D5,R1,FSC-H,SSC-H,6973,69.730,69.730
+Invasion 1.5-2.5hr,D5,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,D5,mCherry-/GFP+,YL2-A,BL1-A,4836,48.360,69.353
+Invasion 1.5-2.5hr,D5,mCherry+/GFP+,YL2-A,BL1-A,254,2.540,3.643
+Invasion 1.5-2.5hr,D5,mCherry-/GFP-,YL2-A,BL1-A,916,9.160,13.136
+Invasion 1.5-2.5hr,D5,mCherry+/GFP-,YL2-A,BL1-A,967,9.670,13.868
+Invasion 1.5-2.5hr,D5,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,D5,R1,YL2-A,BL1-A,6973,69.730,69.730
+Invasion 1.5-2.5hr,D5,R2,BL1-A,YL2-A,195,1.950,46.539
+Invasion 1.5-2.5hr,D5,R4,BL1-A,YL2-A,92,0.920,21.957
+Invasion 1.5-2.5hr,D5,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,D5,mCh+,BL1-A,YL2-A,419,4.190,4.190
+Invasion 1.5-2.5hr,D5,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,D5,R2,YL2-A,,195,1.950,1.950
+Invasion 1.5-2.5hr,D5,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,D5,R3,BL1-A,,3661,36.610,36.610
+Invasion 1.5-2.5hr,D5,R3,BL1-A,YL2-A,3661,36.610,78.060
+Invasion 1.5-2.5hr,D5,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,D5,GFP+,BL1-A,YL2-A,4690,46.900,46.900
+Invasion 1.5-2.5hr,D5,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,D5,R4,FSC-A,SSC-A,92,0.920,0.920
+Invasion 1.5-2.5hr,D5,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,D5,R1,FSC-A,FSC-H,6973,69.730,69.730
+Invasion 1.5-2.5hr,D5,LG1,,,419,4.190,4.190
+Invasion 1.5-2.5hr,D6,GFP+,BL1-A,,2765,27.650,50.687
+Invasion 1.5-2.5hr,D6,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,D6,R1,BL1-A,,5455,54.550,54.550
+Invasion 1.5-2.5hr,D6,mCh+,YL2-A,,814,8.140,14.922
+Invasion 1.5-2.5hr,D6,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,D6,R1,YL2-A,,5455,54.550,54.550
+Invasion 1.5-2.5hr,D6,R1,FSC-H,SSC-H,5455,54.550,54.550
+Invasion 1.5-2.5hr,D6,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,D6,mCherry-/GFP+,YL2-A,BL1-A,2723,27.230,49.918
+Invasion 1.5-2.5hr,D6,mCherry+/GFP+,YL2-A,BL1-A,240,2.400,4.400
+Invasion 1.5-2.5hr,D6,mCherry-/GFP-,YL2-A,BL1-A,634,6.340,11.622
+Invasion 1.5-2.5hr,D6,mCherry+/GFP-,YL2-A,BL1-A,1858,18.580,34.060
+Invasion 1.5-2.5hr,D6,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,D6,R1,YL2-A,BL1-A,5455,54.550,54.550
+Invasion 1.5-2.5hr,D6,R2,BL1-A,YL2-A,638,6.380,78.378
+Invasion 1.5-2.5hr,D6,R4,BL1-A,YL2-A,103,1.030,12.654
+Invasion 1.5-2.5hr,D6,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,D6,mCh+,BL1-A,YL2-A,814,8.140,8.140
+Invasion 1.5-2.5hr,D6,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,D6,R2,YL2-A,,638,6.380,6.380
+Invasion 1.5-2.5hr,D6,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,D6,R3,BL1-A,,2081,20.810,20.810
+Invasion 1.5-2.5hr,D6,R3,BL1-A,YL2-A,2081,20.810,75.262
+Invasion 1.5-2.5hr,D6,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,D6,GFP+,BL1-A,YL2-A,2765,27.650,27.650
+Invasion 1.5-2.5hr,D6,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,D6,R4,FSC-A,SSC-A,103,1.030,1.030
+Invasion 1.5-2.5hr,D6,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,D6,R1,FSC-A,FSC-H,5455,54.550,54.550
+Invasion 1.5-2.5hr,D6,LG1,,,814,8.140,8.140
+Invasion 1.5-2.5hr,D7,GFP+,BL1-A,,2871,28.710,63.546
+Invasion 1.5-2.5hr,D7,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,D7,R1,BL1-A,,4518,45.180,45.180
+Invasion 1.5-2.5hr,D7,mCh+,YL2-A,,256,2.560,5.666
+Invasion 1.5-2.5hr,D7,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,D7,R1,YL2-A,,4518,45.180,45.180
+Invasion 1.5-2.5hr,D7,R1,FSC-H,SSC-H,4518,45.180,45.180
+Invasion 1.5-2.5hr,D7,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,D7,mCherry-/GFP+,YL2-A,BL1-A,2860,28.600,63.302
+Invasion 1.5-2.5hr,D7,mCherry+/GFP+,YL2-A,BL1-A,69,0.690,1.527
+Invasion 1.5-2.5hr,D7,mCherry-/GFP-,YL2-A,BL1-A,524,5.240,11.598
+Invasion 1.5-2.5hr,D7,mCherry+/GFP-,YL2-A,BL1-A,1065,10.650,23.572
+Invasion 1.5-2.5hr,D7,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,D7,R1,YL2-A,BL1-A,4518,45.180,45.180
+Invasion 1.5-2.5hr,D7,R2,BL1-A,YL2-A,219,2.190,85.547
+Invasion 1.5-2.5hr,D7,R4,BL1-A,YL2-A,17,0.170,6.641
+Invasion 1.5-2.5hr,D7,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,D7,mCh+,BL1-A,YL2-A,256,2.560,2.560
+Invasion 1.5-2.5hr,D7,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,D7,R2,YL2-A,,219,2.190,2.190
+Invasion 1.5-2.5hr,D7,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,D7,R3,BL1-A,,2357,23.570,23.570
+Invasion 1.5-2.5hr,D7,R3,BL1-A,YL2-A,2357,23.570,82.097
+Invasion 1.5-2.5hr,D7,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,D7,GFP+,BL1-A,YL2-A,2871,28.710,28.710
+Invasion 1.5-2.5hr,D7,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,D7,R4,FSC-A,SSC-A,17,0.170,0.170
+Invasion 1.5-2.5hr,D7,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,D7,R1,FSC-A,FSC-H,4518,45.180,45.180
+Invasion 1.5-2.5hr,D7,LG1,,,256,2.560,2.560
+Invasion 1.5-2.5hr,D8,GFP+,BL1-A,,243,2.430,4.928
+Invasion 1.5-2.5hr,D8,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,D8,R1,BL1-A,,4931,49.310,49.310
+Invasion 1.5-2.5hr,D8,mCh+,YL2-A,,1635,16.350,33.158
+Invasion 1.5-2.5hr,D8,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,D8,R1,YL2-A,,4931,49.310,49.310
+Invasion 1.5-2.5hr,D8,R1,FSC-H,SSC-H,4931,49.310,49.310
+Invasion 1.5-2.5hr,D8,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,D8,mCherry-/GFP+,YL2-A,BL1-A,211,2.110,4.279
+Invasion 1.5-2.5hr,D8,mCherry+/GFP+,YL2-A,BL1-A,35,0.350,0.710
+Invasion 1.5-2.5hr,D8,mCherry-/GFP-,YL2-A,BL1-A,169,1.690,3.427
+Invasion 1.5-2.5hr,D8,mCherry+/GFP-,YL2-A,BL1-A,4516,45.160,91.584
+Invasion 1.5-2.5hr,D8,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,D8,R1,YL2-A,BL1-A,4931,49.310,49.310
+Invasion 1.5-2.5hr,D8,R2,BL1-A,YL2-A,1551,15.510,94.862
+Invasion 1.5-2.5hr,D8,R4,BL1-A,YL2-A,20,0.200,1.223
+Invasion 1.5-2.5hr,D8,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,D8,mCh+,BL1-A,YL2-A,1635,16.350,16.350
+Invasion 1.5-2.5hr,D8,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,D8,R2,YL2-A,,1551,15.510,15.510
+Invasion 1.5-2.5hr,D8,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,D8,R3,BL1-A,,195,1.950,1.950
+Invasion 1.5-2.5hr,D8,R3,BL1-A,YL2-A,195,1.950,80.247
+Invasion 1.5-2.5hr,D8,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,D8,GFP+,BL1-A,YL2-A,243,2.430,2.430
+Invasion 1.5-2.5hr,D8,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,D8,R4,FSC-A,SSC-A,20,0.200,0.200
+Invasion 1.5-2.5hr,D8,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,D8,R1,FSC-A,FSC-H,4931,49.310,49.310
+Invasion 1.5-2.5hr,D8,LG1,,,1635,16.350,16.350
+Invasion 1.5-2.5hr,D9,GFP+,BL1-A,,4590,45.900,69.693
+Invasion 1.5-2.5hr,D9,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,D9,R1,BL1-A,,6586,65.860,65.860
+Invasion 1.5-2.5hr,D9,mCh+,YL2-A,,313,3.130,4.753
+Invasion 1.5-2.5hr,D9,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,D9,R1,YL2-A,,6586,65.860,65.860
+Invasion 1.5-2.5hr,D9,R1,FSC-H,SSC-H,6586,65.860,65.860
+Invasion 1.5-2.5hr,D9,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,D9,mCherry-/GFP+,YL2-A,BL1-A,4615,46.150,70.073
+Invasion 1.5-2.5hr,D9,mCherry+/GFP+,YL2-A,BL1-A,190,1.900,2.885
+Invasion 1.5-2.5hr,D9,mCherry-/GFP-,YL2-A,BL1-A,791,7.910,12.010
+Invasion 1.5-2.5hr,D9,mCherry+/GFP-,YL2-A,BL1-A,990,9.900,15.032
+Invasion 1.5-2.5hr,D9,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,D9,R1,YL2-A,BL1-A,6586,65.860,65.860
+Invasion 1.5-2.5hr,D9,R2,BL1-A,YL2-A,176,1.760,56.230
+Invasion 1.5-2.5hr,D9,R4,BL1-A,YL2-A,70,0.700,22.364
+Invasion 1.5-2.5hr,D9,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,D9,mCh+,BL1-A,YL2-A,313,3.130,3.130
+Invasion 1.5-2.5hr,D9,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,D9,R2,YL2-A,,176,1.760,1.760
+Invasion 1.5-2.5hr,D9,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,D9,R3,BL1-A,,3718,37.180,37.180
+Invasion 1.5-2.5hr,D9,R3,BL1-A,YL2-A,3718,37.180,81.002
+Invasion 1.5-2.5hr,D9,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,D9,GFP+,BL1-A,YL2-A,4590,45.900,45.900
+Invasion 1.5-2.5hr,D9,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,D9,R4,FSC-A,SSC-A,70,0.700,0.700
+Invasion 1.5-2.5hr,D9,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,D9,R1,FSC-A,FSC-H,6586,65.860,65.860
+Invasion 1.5-2.5hr,D9,LG1,,,313,3.130,3.130
+Invasion 1.5-2.5hr,D10,GFP+,BL1-A,,4116,41.160,60.264
+Invasion 1.5-2.5hr,D10,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,D10,R1,BL1-A,,6830,68.300,68.300
+Invasion 1.5-2.5hr,D10,mCh+,YL2-A,,628,6.280,9.195
+Invasion 1.5-2.5hr,D10,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,D10,R1,YL2-A,,6830,68.300,68.300
+Invasion 1.5-2.5hr,D10,R1,FSC-H,SSC-H,6830,68.300,68.300
+Invasion 1.5-2.5hr,D10,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,D10,mCherry-/GFP+,YL2-A,BL1-A,3991,39.910,58.433
+Invasion 1.5-2.5hr,D10,mCherry+/GFP+,YL2-A,BL1-A,294,2.940,4.305
+Invasion 1.5-2.5hr,D10,mCherry-/GFP-,YL2-A,BL1-A,800,8.000,11.713
+Invasion 1.5-2.5hr,D10,mCherry+/GFP-,YL2-A,BL1-A,1745,17.450,25.549
+Invasion 1.5-2.5hr,D10,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,D10,R1,YL2-A,BL1-A,6830,68.300,68.300
+Invasion 1.5-2.5hr,D10,R2,BL1-A,YL2-A,378,3.780,60.191
+Invasion 1.5-2.5hr,D10,R4,BL1-A,YL2-A,132,1.320,21.019
+Invasion 1.5-2.5hr,D10,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,D10,mCh+,BL1-A,YL2-A,628,6.280,6.280
+Invasion 1.5-2.5hr,D10,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,D10,R2,YL2-A,,378,3.780,3.780
+Invasion 1.5-2.5hr,D10,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,D10,R3,BL1-A,,3192,31.920,31.920
+Invasion 1.5-2.5hr,D10,R3,BL1-A,YL2-A,3192,31.920,77.551
+Invasion 1.5-2.5hr,D10,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,D10,GFP+,BL1-A,YL2-A,4116,41.160,41.160
+Invasion 1.5-2.5hr,D10,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,D10,R4,FSC-A,SSC-A,132,1.320,1.320
+Invasion 1.5-2.5hr,D10,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,D10,R1,FSC-A,FSC-H,6830,68.300,68.300
+Invasion 1.5-2.5hr,D10,LG1,,,628,6.280,6.280
+Invasion 1.5-2.5hr,D11,GFP+,BL1-A,,4073,40.730,70.127
+Invasion 1.5-2.5hr,D11,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,D11,R1,BL1-A,,5808,58.080,58.080
+Invasion 1.5-2.5hr,D11,mCh+,YL2-A,,261,2.610,4.494
+Invasion 1.5-2.5hr,D11,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,D11,R1,YL2-A,,5808,58.080,58.080
+Invasion 1.5-2.5hr,D11,R1,FSC-H,SSC-H,5808,58.080,58.080
+Invasion 1.5-2.5hr,D11,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,D11,mCherry-/GFP+,YL2-A,BL1-A,4033,40.330,69.439
+Invasion 1.5-2.5hr,D11,mCherry+/GFP+,YL2-A,BL1-A,104,1.040,1.791
+Invasion 1.5-2.5hr,D11,mCherry-/GFP-,YL2-A,BL1-A,685,6.850,11.794
+Invasion 1.5-2.5hr,D11,mCherry+/GFP-,YL2-A,BL1-A,986,9.860,16.977
+Invasion 1.5-2.5hr,D11,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,D11,R1,YL2-A,BL1-A,5808,58.080,58.080
+Invasion 1.5-2.5hr,D11,R2,BL1-A,YL2-A,199,1.990,76.245
+Invasion 1.5-2.5hr,D11,R4,BL1-A,YL2-A,25,0.250,9.579
+Invasion 1.5-2.5hr,D11,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,D11,mCh+,BL1-A,YL2-A,261,2.610,2.610
+Invasion 1.5-2.5hr,D11,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,D11,R2,YL2-A,,199,1.990,1.990
+Invasion 1.5-2.5hr,D11,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,D11,R3,BL1-A,,3384,33.840,33.840
+Invasion 1.5-2.5hr,D11,R3,BL1-A,YL2-A,3384,33.840,83.084
+Invasion 1.5-2.5hr,D11,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,D11,GFP+,BL1-A,YL2-A,4073,40.730,40.730
+Invasion 1.5-2.5hr,D11,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,D11,R4,FSC-A,SSC-A,25,0.250,0.250
+Invasion 1.5-2.5hr,D11,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,D11,R1,FSC-A,FSC-H,5808,58.080,58.080
+Invasion 1.5-2.5hr,D11,LG1,,,261,2.610,2.610
+Invasion 1.5-2.5hr,D12,GFP+,BL1-A,,517,5.170,7.576
+Invasion 1.5-2.5hr,D12,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,D12,R1,BL1-A,,6824,68.240,68.240
+Invasion 1.5-2.5hr,D12,mCh+,YL2-A,,2288,22.880,33.529
+Invasion 1.5-2.5hr,D12,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,D12,R1,YL2-A,,6824,68.240,68.240
+Invasion 1.5-2.5hr,D12,R1,FSC-H,SSC-H,6824,68.240,68.240
+Invasion 1.5-2.5hr,D12,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,D12,mCherry-/GFP+,YL2-A,BL1-A,444,4.440,6.506
+Invasion 1.5-2.5hr,D12,mCherry+/GFP+,YL2-A,BL1-A,97,0.970,1.421
+Invasion 1.5-2.5hr,D12,mCherry-/GFP-,YL2-A,BL1-A,252,2.520,3.693
+Invasion 1.5-2.5hr,D12,mCherry+/GFP-,YL2-A,BL1-A,6031,60.310,88.379
+Invasion 1.5-2.5hr,D12,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,D12,R1,YL2-A,BL1-A,6824,68.240,68.240
+Invasion 1.5-2.5hr,D12,R2,BL1-A,YL2-A,2107,21.070,92.089
+Invasion 1.5-2.5hr,D12,R4,BL1-A,YL2-A,39,0.390,1.705
+Invasion 1.5-2.5hr,D12,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,D12,mCh+,BL1-A,YL2-A,2288,22.880,22.880
+Invasion 1.5-2.5hr,D12,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,D12,R2,YL2-A,,2107,21.070,21.070
+Invasion 1.5-2.5hr,D12,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,D12,R3,BL1-A,,349,3.490,3.490
+Invasion 1.5-2.5hr,D12,R3,BL1-A,YL2-A,349,3.490,67.505
+Invasion 1.5-2.5hr,D12,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,D12,GFP+,BL1-A,YL2-A,517,5.170,5.170
+Invasion 1.5-2.5hr,D12,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,D12,R4,FSC-A,SSC-A,39,0.390,0.390
+Invasion 1.5-2.5hr,D12,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,D12,R1,FSC-A,FSC-H,6824,68.240,68.240
+Invasion 1.5-2.5hr,D12,LG1,,,2288,22.880,22.880
+Invasion 1.5-2.5hr,E2,GFP+,BL1-A,,1968,19.680,50.696
+Invasion 1.5-2.5hr,E2,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,E2,R1,BL1-A,,3882,38.820,38.820
+Invasion 1.5-2.5hr,E2,mCh+,YL2-A,,966,9.660,24.884
+Invasion 1.5-2.5hr,E2,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,E2,R1,YL2-A,,3882,38.820,38.820
+Invasion 1.5-2.5hr,E2,R1,FSC-H,SSC-H,3882,38.820,38.820
+Invasion 1.5-2.5hr,E2,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,E2,mCherry-/GFP+,YL2-A,BL1-A,1902,19.020,48.995
+Invasion 1.5-2.5hr,E2,mCherry+/GFP+,YL2-A,BL1-A,186,1.860,4.791
+Invasion 1.5-2.5hr,E2,mCherry-/GFP-,YL2-A,BL1-A,259,2.590,6.672
+Invasion 1.5-2.5hr,E2,mCherry+/GFP-,YL2-A,BL1-A,1535,15.350,39.541
+Invasion 1.5-2.5hr,E2,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,E2,R1,YL2-A,BL1-A,3882,38.820,38.820
+Invasion 1.5-2.5hr,E2,R2,BL1-A,YL2-A,791,7.910,81.884
+Invasion 1.5-2.5hr,E2,R4,BL1-A,YL2-A,115,1.150,11.905
+Invasion 1.5-2.5hr,E2,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,E2,mCh+,BL1-A,YL2-A,966,9.660,9.660
+Invasion 1.5-2.5hr,E2,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,E2,R2,YL2-A,,791,7.910,7.910
+Invasion 1.5-2.5hr,E2,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,E2,R3,BL1-A,,1424,14.240,14.240
+Invasion 1.5-2.5hr,E2,R3,BL1-A,YL2-A,1424,14.240,72.358
+Invasion 1.5-2.5hr,E2,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,E2,GFP+,BL1-A,YL2-A,1968,19.680,19.680
+Invasion 1.5-2.5hr,E2,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,E2,R4,FSC-A,SSC-A,115,1.150,1.150
+Invasion 1.5-2.5hr,E2,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,E2,R1,FSC-A,FSC-H,3882,38.820,38.820
+Invasion 1.5-2.5hr,E2,LG1,,,966,9.660,9.660
+Invasion 1.5-2.5hr,E3,GFP+,BL1-A,,40,0.400,41.237
+Invasion 1.5-2.5hr,E3,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,E3,R1,BL1-A,,97,0.970,0.970
+Invasion 1.5-2.5hr,E3,mCh+,YL2-A,,12,0.120,12.371
+Invasion 1.5-2.5hr,E3,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,E3,R1,YL2-A,,97,0.970,0.970
+Invasion 1.5-2.5hr,E3,R1,FSC-H,SSC-H,97,0.970,0.970
+Invasion 1.5-2.5hr,E3,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,E3,mCherry-/GFP+,YL2-A,BL1-A,40,0.400,41.237
+Invasion 1.5-2.5hr,E3,mCherry+/GFP+,YL2-A,BL1-A,1,0.010,1.031
+Invasion 1.5-2.5hr,E3,mCherry-/GFP-,YL2-A,BL1-A,31,0.310,31.959
+Invasion 1.5-2.5hr,E3,mCherry+/GFP-,YL2-A,BL1-A,25,0.250,25.773
+Invasion 1.5-2.5hr,E3,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,E3,R1,YL2-A,BL1-A,97,0.970,0.970
+Invasion 1.5-2.5hr,E3,R2,BL1-A,YL2-A,11,0.110,91.667
+Invasion 1.5-2.5hr,E3,R4,BL1-A,YL2-A,1,0.010,8.333
+Invasion 1.5-2.5hr,E3,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,E3,mCh+,BL1-A,YL2-A,12,0.120,0.120
+Invasion 1.5-2.5hr,E3,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,E3,R2,YL2-A,,11,0.110,0.110
+Invasion 1.5-2.5hr,E3,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,E3,R3,BL1-A,,30,0.300,0.300
+Invasion 1.5-2.5hr,E3,R3,BL1-A,YL2-A,30,0.300,75.000
+Invasion 1.5-2.5hr,E3,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,E3,GFP+,BL1-A,YL2-A,40,0.400,0.400
+Invasion 1.5-2.5hr,E3,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,E3,R4,FSC-A,SSC-A,1,0.010,0.010
+Invasion 1.5-2.5hr,E3,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,E3,R1,FSC-A,FSC-H,97,0.970,0.970
+Invasion 1.5-2.5hr,E3,LG1,,,12,0.120,0.120
+Invasion 1.5-2.5hr,E4,GFP+,BL1-A,,7,0.070,5.185
+Invasion 1.5-2.5hr,E4,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,E4,R1,BL1-A,,135,1.350,1.350
+Invasion 1.5-2.5hr,E4,mCh+,YL2-A,,41,0.410,30.370
+Invasion 1.5-2.5hr,E4,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,E4,R1,YL2-A,,135,1.350,1.350
+Invasion 1.5-2.5hr,E4,R1,FSC-H,SSC-H,135,1.350,1.350
+Invasion 1.5-2.5hr,E4,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,E4,mCherry-/GFP+,YL2-A,BL1-A,7,0.070,5.185
+Invasion 1.5-2.5hr,E4,mCherry+/GFP+,YL2-A,BL1-A,0,0.000,0.000
+Invasion 1.5-2.5hr,E4,mCherry-/GFP-,YL2-A,BL1-A,24,0.240,17.778
+Invasion 1.5-2.5hr,E4,mCherry+/GFP-,YL2-A,BL1-A,104,1.040,77.037
+Invasion 1.5-2.5hr,E4,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,E4,R1,YL2-A,BL1-A,135,1.350,1.350
+Invasion 1.5-2.5hr,E4,R2,BL1-A,YL2-A,39,0.390,95.122
+Invasion 1.5-2.5hr,E4,R4,BL1-A,YL2-A,0,0.000,0.000
+Invasion 1.5-2.5hr,E4,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,E4,mCh+,BL1-A,YL2-A,41,0.410,0.410
+Invasion 1.5-2.5hr,E4,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,E4,R2,YL2-A,,39,0.390,0.390
+Invasion 1.5-2.5hr,E4,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,E4,R3,BL1-A,,6,0.060,0.060
+Invasion 1.5-2.5hr,E4,R3,BL1-A,YL2-A,6,0.060,85.714
+Invasion 1.5-2.5hr,E4,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,E4,GFP+,BL1-A,YL2-A,7,0.070,0.070
+Invasion 1.5-2.5hr,E4,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,E4,R4,FSC-A,SSC-A,0,0.000,0.000
+Invasion 1.5-2.5hr,E4,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,E4,R1,FSC-A,FSC-H,135,1.350,1.350
+Invasion 1.5-2.5hr,E4,LG1,,,41,0.410,0.410
+Invasion 1.5-2.5hr,E5,GFP+,BL1-A,,3477,34.770,60.585
+Invasion 1.5-2.5hr,E5,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,E5,R1,BL1-A,,5739,57.390,57.390
+Invasion 1.5-2.5hr,E5,mCh+,YL2-A,,726,7.260,12.650
+Invasion 1.5-2.5hr,E5,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,E5,R1,YL2-A,,5739,57.390,57.390
+Invasion 1.5-2.5hr,E5,R1,FSC-H,SSC-H,5739,57.390,57.390
+Invasion 1.5-2.5hr,E5,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,E5,mCherry-/GFP+,YL2-A,BL1-A,3662,36.620,63.809
+Invasion 1.5-2.5hr,E5,mCherry+/GFP+,YL2-A,BL1-A,324,3.240,5.646
+Invasion 1.5-2.5hr,E5,mCherry-/GFP-,YL2-A,BL1-A,556,5.560,9.688
+Invasion 1.5-2.5hr,E5,mCherry+/GFP-,YL2-A,BL1-A,1197,11.970,20.857
+Invasion 1.5-2.5hr,E5,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,E5,R1,YL2-A,BL1-A,5739,57.390,57.390
+Invasion 1.5-2.5hr,E5,R2,BL1-A,YL2-A,431,4.310,59.366
+Invasion 1.5-2.5hr,E5,R4,BL1-A,YL2-A,163,1.630,22.452
+Invasion 1.5-2.5hr,E5,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,E5,mCh+,BL1-A,YL2-A,726,7.260,7.260
+Invasion 1.5-2.5hr,E5,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,E5,R2,YL2-A,,431,4.310,4.310
+Invasion 1.5-2.5hr,E5,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,E5,R3,BL1-A,,2552,25.520,25.520
+Invasion 1.5-2.5hr,E5,R3,BL1-A,YL2-A,2552,25.520,73.397
+Invasion 1.5-2.5hr,E5,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,E5,GFP+,BL1-A,YL2-A,3477,34.770,34.770
+Invasion 1.5-2.5hr,E5,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,E5,R4,FSC-A,SSC-A,163,1.630,1.630
+Invasion 1.5-2.5hr,E5,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,E5,R1,FSC-A,FSC-H,5739,57.390,57.390
+Invasion 1.5-2.5hr,E5,LG1,,,726,7.260,7.260
+Invasion 1.5-2.5hr,E6,GFP+,BL1-A,,1471,14.710,60.485
+Invasion 1.5-2.5hr,E6,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,E6,R1,BL1-A,,2432,24.320,24.320
+Invasion 1.5-2.5hr,E6,mCh+,YL2-A,,302,3.020,12.418
+Invasion 1.5-2.5hr,E6,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,E6,R1,YL2-A,,2432,24.320,24.320
+Invasion 1.5-2.5hr,E6,R1,FSC-H,SSC-H,2432,24.320,24.320
+Invasion 1.5-2.5hr,E6,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,E6,mCherry-/GFP+,YL2-A,BL1-A,1517,15.170,62.377
+Invasion 1.5-2.5hr,E6,mCherry+/GFP+,YL2-A,BL1-A,47,0.470,1.933
+Invasion 1.5-2.5hr,E6,mCherry-/GFP-,YL2-A,BL1-A,225,2.250,9.252
+Invasion 1.5-2.5hr,E6,mCherry+/GFP-,YL2-A,BL1-A,643,6.430,26.439
+Invasion 1.5-2.5hr,E6,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,E6,R1,YL2-A,BL1-A,2432,24.320,24.320
+Invasion 1.5-2.5hr,E6,R2,BL1-A,YL2-A,262,2.620,86.755
+Invasion 1.5-2.5hr,E6,R4,BL1-A,YL2-A,28,0.280,9.272
+Invasion 1.5-2.5hr,E6,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,E6,mCh+,BL1-A,YL2-A,302,3.020,3.020
+Invasion 1.5-2.5hr,E6,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,E6,R2,YL2-A,,262,2.620,2.620
+Invasion 1.5-2.5hr,E6,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,E6,R3,BL1-A,,1185,11.850,11.850
+Invasion 1.5-2.5hr,E6,R3,BL1-A,YL2-A,1185,11.850,80.557
+Invasion 1.5-2.5hr,E6,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,E6,GFP+,BL1-A,YL2-A,1471,14.710,14.710
+Invasion 1.5-2.5hr,E6,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,E6,R4,FSC-A,SSC-A,28,0.280,0.280
+Invasion 1.5-2.5hr,E6,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,E6,R1,FSC-A,FSC-H,2432,24.320,24.320
+Invasion 1.5-2.5hr,E6,LG1,,,302,3.020,3.020
+Invasion 1.5-2.5hr,E7,GFP+,BL1-A,,5029,50.290,69.692
+Invasion 1.5-2.5hr,E7,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,E7,R1,BL1-A,,7216,72.160,72.160
+Invasion 1.5-2.5hr,E7,mCh+,YL2-A,,435,4.350,6.028
+Invasion 1.5-2.5hr,E7,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,E7,R1,YL2-A,,7216,72.160,72.160
+Invasion 1.5-2.5hr,E7,R1,FSC-H,SSC-H,7216,72.160,72.160
+Invasion 1.5-2.5hr,E7,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,E7,mCherry-/GFP+,YL2-A,BL1-A,4827,48.270,66.893
+Invasion 1.5-2.5hr,E7,mCherry+/GFP+,YL2-A,BL1-A,308,3.080,4.268
+Invasion 1.5-2.5hr,E7,mCherry-/GFP-,YL2-A,BL1-A,532,5.320,7.373
+Invasion 1.5-2.5hr,E7,mCherry+/GFP-,YL2-A,BL1-A,1549,15.490,21.466
+Invasion 1.5-2.5hr,E7,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,E7,R1,YL2-A,BL1-A,7216,72.160,72.160
+Invasion 1.5-2.5hr,E7,R2,BL1-A,YL2-A,198,1.980,45.517
+Invasion 1.5-2.5hr,E7,R4,BL1-A,YL2-A,97,0.970,22.299
+Invasion 1.5-2.5hr,E7,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,E7,mCh+,BL1-A,YL2-A,435,4.350,4.350
+Invasion 1.5-2.5hr,E7,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,E7,R2,YL2-A,,198,1.980,1.980
+Invasion 1.5-2.5hr,E7,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,E7,R3,BL1-A,,3988,39.880,39.880
+Invasion 1.5-2.5hr,E7,R3,BL1-A,YL2-A,3988,39.880,79.300
+Invasion 1.5-2.5hr,E7,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,E7,GFP+,BL1-A,YL2-A,5029,50.290,50.290
+Invasion 1.5-2.5hr,E7,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,E7,R4,FSC-A,SSC-A,97,0.970,0.970
+Invasion 1.5-2.5hr,E7,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,E7,R1,FSC-A,FSC-H,7216,72.160,72.160
+Invasion 1.5-2.5hr,E7,LG1,,,435,4.350,4.350
+Invasion 1.5-2.5hr,E8,GFP+,BL1-A,,697,6.970,17.012
+Invasion 1.5-2.5hr,E8,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,E8,R1,BL1-A,,4097,40.970,40.970
+Invasion 1.5-2.5hr,E8,mCh+,YL2-A,,1216,12.160,29.680
+Invasion 1.5-2.5hr,E8,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,E8,R1,YL2-A,,4097,40.970,40.970
+Invasion 1.5-2.5hr,E8,R1,FSC-H,SSC-H,4097,40.970,40.970
+Invasion 1.5-2.5hr,E8,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,E8,mCherry-/GFP+,YL2-A,BL1-A,647,6.470,15.792
+Invasion 1.5-2.5hr,E8,mCherry+/GFP+,YL2-A,BL1-A,60,0.600,1.464
+Invasion 1.5-2.5hr,E8,mCherry-/GFP-,YL2-A,BL1-A,123,1.230,3.002
+Invasion 1.5-2.5hr,E8,mCherry+/GFP-,YL2-A,BL1-A,3267,32.670,79.741
+Invasion 1.5-2.5hr,E8,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,E8,R1,YL2-A,BL1-A,4097,40.970,40.970
+Invasion 1.5-2.5hr,E8,R2,BL1-A,YL2-A,1132,11.320,93.092
+Invasion 1.5-2.5hr,E8,R4,BL1-A,YL2-A,26,0.260,2.138
+Invasion 1.5-2.5hr,E8,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,E8,mCh+,BL1-A,YL2-A,1216,12.160,12.160
+Invasion 1.5-2.5hr,E8,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,E8,R2,YL2-A,,1132,11.320,11.320
+Invasion 1.5-2.5hr,E8,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,E8,R3,BL1-A,,570,5.700,5.700
+Invasion 1.5-2.5hr,E8,R3,BL1-A,YL2-A,570,5.700,81.779
+Invasion 1.5-2.5hr,E8,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,E8,GFP+,BL1-A,YL2-A,697,6.970,6.970
+Invasion 1.5-2.5hr,E8,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,E8,R4,FSC-A,SSC-A,26,0.260,0.260
+Invasion 1.5-2.5hr,E8,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,E8,R1,FSC-A,FSC-H,4097,40.970,40.970
+Invasion 1.5-2.5hr,E8,LG1,,,1216,12.160,12.160
+Invasion 1.5-2.5hr,E9,GFP+,BL1-A,,2679,26.790,59.666
+Invasion 1.5-2.5hr,E9,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,E9,R1,BL1-A,,4490,44.900,44.900
+Invasion 1.5-2.5hr,E9,mCh+,YL2-A,,504,5.040,11.225
+Invasion 1.5-2.5hr,E9,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,E9,R1,YL2-A,,4490,44.900,44.900
+Invasion 1.5-2.5hr,E9,R1,FSC-H,SSC-H,4490,44.900,44.900
+Invasion 1.5-2.5hr,E9,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,E9,mCherry-/GFP+,YL2-A,BL1-A,2777,27.770,61.849
+Invasion 1.5-2.5hr,E9,mCherry+/GFP+,YL2-A,BL1-A,191,1.910,4.254
+Invasion 1.5-2.5hr,E9,mCherry-/GFP-,YL2-A,BL1-A,433,4.330,9.644
+Invasion 1.5-2.5hr,E9,mCherry+/GFP-,YL2-A,BL1-A,1089,10.890,24.254
+Invasion 1.5-2.5hr,E9,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,E9,R1,YL2-A,BL1-A,4490,44.900,44.900
+Invasion 1.5-2.5hr,E9,R2,BL1-A,YL2-A,384,3.840,76.190
+Invasion 1.5-2.5hr,E9,R4,BL1-A,YL2-A,84,0.840,16.667
+Invasion 1.5-2.5hr,E9,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,E9,mCh+,BL1-A,YL2-A,504,5.040,5.040
+Invasion 1.5-2.5hr,E9,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,E9,R2,YL2-A,,384,3.840,3.840
+Invasion 1.5-2.5hr,E9,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,E9,R3,BL1-A,,2083,20.830,20.830
+Invasion 1.5-2.5hr,E9,R3,BL1-A,YL2-A,2083,20.830,77.753
+Invasion 1.5-2.5hr,E9,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,E9,GFP+,BL1-A,YL2-A,2679,26.790,26.790
+Invasion 1.5-2.5hr,E9,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,E9,R4,FSC-A,SSC-A,84,0.840,0.840
+Invasion 1.5-2.5hr,E9,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,E9,R1,FSC-A,FSC-H,4490,44.900,44.900
+Invasion 1.5-2.5hr,E9,LG1,,,504,5.040,5.040
+Invasion 1.5-2.5hr,E10,GFP+,BL1-A,,5242,52.420,77.821
+Invasion 1.5-2.5hr,E10,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,E10,R1,BL1-A,,6736,67.360,67.360
+Invasion 1.5-2.5hr,E10,mCh+,YL2-A,,331,3.310,4.914
+Invasion 1.5-2.5hr,E10,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,E10,R1,YL2-A,,6736,67.360,67.360
+Invasion 1.5-2.5hr,E10,R1,FSC-H,SSC-H,6736,67.360,67.360
+Invasion 1.5-2.5hr,E10,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,E10,mCherry-/GFP+,YL2-A,BL1-A,5170,51.700,76.752
+Invasion 1.5-2.5hr,E10,mCherry+/GFP+,YL2-A,BL1-A,152,1.520,2.257
+Invasion 1.5-2.5hr,E10,mCherry-/GFP-,YL2-A,BL1-A,565,5.650,8.388
+Invasion 1.5-2.5hr,E10,mCherry+/GFP-,YL2-A,BL1-A,849,8.490,12.604
+Invasion 1.5-2.5hr,E10,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,E10,R1,YL2-A,BL1-A,6736,67.360,67.360
+Invasion 1.5-2.5hr,E10,R2,BL1-A,YL2-A,192,1.920,58.006
+Invasion 1.5-2.5hr,E10,R4,BL1-A,YL2-A,63,0.630,19.033
+Invasion 1.5-2.5hr,E10,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,E10,mCh+,BL1-A,YL2-A,331,3.310,3.310
+Invasion 1.5-2.5hr,E10,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,E10,R2,YL2-A,,192,1.920,1.920
+Invasion 1.5-2.5hr,E10,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,E10,R3,BL1-A,,4327,43.270,43.270
+Invasion 1.5-2.5hr,E10,R3,BL1-A,YL2-A,4327,43.270,82.545
+Invasion 1.5-2.5hr,E10,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,E10,GFP+,BL1-A,YL2-A,5242,52.420,52.420
+Invasion 1.5-2.5hr,E10,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,E10,R4,FSC-A,SSC-A,63,0.630,0.630
+Invasion 1.5-2.5hr,E10,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,E10,R1,FSC-A,FSC-H,6736,67.360,67.360
+Invasion 1.5-2.5hr,E10,LG1,,,331,3.310,3.310
+Invasion 1.5-2.5hr,E11,GFP+,BL1-A,,5198,51.980,73.129
+Invasion 1.5-2.5hr,E11,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,E11,R1,BL1-A,,7108,71.080,71.080
+Invasion 1.5-2.5hr,E11,mCh+,YL2-A,,401,4.010,5.642
+Invasion 1.5-2.5hr,E11,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,E11,R1,YL2-A,,7108,71.080,71.080
+Invasion 1.5-2.5hr,E11,R1,FSC-H,SSC-H,7108,71.080,71.080
+Invasion 1.5-2.5hr,E11,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,E11,mCherry-/GFP+,YL2-A,BL1-A,5046,50.460,70.990
+Invasion 1.5-2.5hr,E11,mCherry+/GFP+,YL2-A,BL1-A,236,2.360,3.320
+Invasion 1.5-2.5hr,E11,mCherry-/GFP-,YL2-A,BL1-A,552,5.520,7.766
+Invasion 1.5-2.5hr,E11,mCherry+/GFP-,YL2-A,BL1-A,1274,12.740,17.923
+Invasion 1.5-2.5hr,E11,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,E11,R1,YL2-A,BL1-A,7108,71.080,71.080
+Invasion 1.5-2.5hr,E11,R2,BL1-A,YL2-A,197,1.970,49.127
+Invasion 1.5-2.5hr,E11,R4,BL1-A,YL2-A,84,0.840,20.948
+Invasion 1.5-2.5hr,E11,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,E11,mCh+,BL1-A,YL2-A,401,4.010,4.010
+Invasion 1.5-2.5hr,E11,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,E11,R2,YL2-A,,197,1.970,1.970
+Invasion 1.5-2.5hr,E11,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,E11,R3,BL1-A,,4245,42.450,42.450
+Invasion 1.5-2.5hr,E11,R3,BL1-A,YL2-A,4245,42.450,81.666
+Invasion 1.5-2.5hr,E11,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,E11,GFP+,BL1-A,YL2-A,5198,51.980,51.980
+Invasion 1.5-2.5hr,E11,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,E11,R4,FSC-A,SSC-A,84,0.840,0.840
+Invasion 1.5-2.5hr,E11,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,E11,R1,FSC-A,FSC-H,7108,71.080,71.080
+Invasion 1.5-2.5hr,E11,LG1,,,401,4.010,4.010
+Invasion 1.5-2.5hr,E12,GFP+,BL1-A,,1733,17.330,28.783
+Invasion 1.5-2.5hr,E12,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,E12,R1,BL1-A,,6021,60.210,60.210
+Invasion 1.5-2.5hr,E12,mCh+,YL2-A,,1615,16.150,26.823
+Invasion 1.5-2.5hr,E12,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,E12,R1,YL2-A,,6021,60.210,60.210
+Invasion 1.5-2.5hr,E12,R1,FSC-H,SSC-H,6021,60.210,60.210
+Invasion 1.5-2.5hr,E12,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,E12,mCherry-/GFP+,YL2-A,BL1-A,1591,15.910,26.424
+Invasion 1.5-2.5hr,E12,mCherry+/GFP+,YL2-A,BL1-A,169,1.690,2.807
+Invasion 1.5-2.5hr,E12,mCherry-/GFP-,YL2-A,BL1-A,289,2.890,4.800
+Invasion 1.5-2.5hr,E12,mCherry+/GFP-,YL2-A,BL1-A,3972,39.720,65.969
+Invasion 1.5-2.5hr,E12,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,E12,R1,YL2-A,BL1-A,6021,60.210,60.210
+Invasion 1.5-2.5hr,E12,R2,BL1-A,YL2-A,1394,13.940,86.316
+Invasion 1.5-2.5hr,E12,R4,BL1-A,YL2-A,82,0.820,5.077
+Invasion 1.5-2.5hr,E12,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,E12,mCh+,BL1-A,YL2-A,1615,16.150,16.150
+Invasion 1.5-2.5hr,E12,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,E12,R2,YL2-A,,1394,13.940,13.940
+Invasion 1.5-2.5hr,E12,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,E12,R3,BL1-A,,1329,13.290,13.290
+Invasion 1.5-2.5hr,E12,R3,BL1-A,YL2-A,1329,13.290,76.688
+Invasion 1.5-2.5hr,E12,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,E12,GFP+,BL1-A,YL2-A,1733,17.330,17.330
+Invasion 1.5-2.5hr,E12,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,E12,R4,FSC-A,SSC-A,82,0.820,0.820
+Invasion 1.5-2.5hr,E12,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,E12,R1,FSC-A,FSC-H,6021,60.210,60.210
+Invasion 1.5-2.5hr,E12,LG1,,,1615,16.150,16.150
+Invasion 1.5-2.5hr,F2,GFP+,BL1-A,,2127,21.270,61.121
+Invasion 1.5-2.5hr,F2,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,F2,R1,BL1-A,,3480,34.800,34.800
+Invasion 1.5-2.5hr,F2,mCh+,YL2-A,,543,5.430,15.603
+Invasion 1.5-2.5hr,F2,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,F2,R1,YL2-A,,3480,34.800,34.800
+Invasion 1.5-2.5hr,F2,R1,FSC-H,SSC-H,3480,34.800,34.800
+Invasion 1.5-2.5hr,F2,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,F2,mCherry-/GFP+,YL2-A,BL1-A,2199,21.990,63.190
+Invasion 1.5-2.5hr,F2,mCherry+/GFP+,YL2-A,BL1-A,100,1.000,2.874
+Invasion 1.5-2.5hr,F2,mCherry-/GFP-,YL2-A,BL1-A,300,3.000,8.621
+Invasion 1.5-2.5hr,F2,mCherry+/GFP-,YL2-A,BL1-A,881,8.810,25.316
+Invasion 1.5-2.5hr,F2,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,F2,R1,YL2-A,BL1-A,3480,34.800,34.800
+Invasion 1.5-2.5hr,F2,R2,BL1-A,YL2-A,441,4.410,81.215
+Invasion 1.5-2.5hr,F2,R4,BL1-A,YL2-A,58,0.580,10.681
+Invasion 1.5-2.5hr,F2,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,F2,mCh+,BL1-A,YL2-A,543,5.430,5.430
+Invasion 1.5-2.5hr,F2,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,F2,R2,YL2-A,,441,4.410,4.410
+Invasion 1.5-2.5hr,F2,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,F2,R3,BL1-A,,1643,16.430,16.430
+Invasion 1.5-2.5hr,F2,R3,BL1-A,YL2-A,1643,16.430,77.245
+Invasion 1.5-2.5hr,F2,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,F2,GFP+,BL1-A,YL2-A,2127,21.270,21.270
+Invasion 1.5-2.5hr,F2,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,F2,R4,FSC-A,SSC-A,58,0.580,0.580
+Invasion 1.5-2.5hr,F2,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,F2,R1,FSC-A,FSC-H,3480,34.800,34.800
+Invasion 1.5-2.5hr,F2,LG1,,,543,5.430,5.430
+Invasion 1.5-2.5hr,F3,GFP+,BL1-A,,34,0.340,43.590
+Invasion 1.5-2.5hr,F3,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,F3,R1,BL1-A,,78,0.780,0.780
+Invasion 1.5-2.5hr,F3,mCh+,YL2-A,,6,0.060,7.692
+Invasion 1.5-2.5hr,F3,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,F3,R1,YL2-A,,78,0.780,0.780
+Invasion 1.5-2.5hr,F3,R1,FSC-H,SSC-H,78,0.780,0.780
+Invasion 1.5-2.5hr,F3,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,F3,mCherry-/GFP+,YL2-A,BL1-A,34,0.340,43.590
+Invasion 1.5-2.5hr,F3,mCherry+/GFP+,YL2-A,BL1-A,1,0.010,1.282
+Invasion 1.5-2.5hr,F3,mCherry-/GFP-,YL2-A,BL1-A,26,0.260,33.333
+Invasion 1.5-2.5hr,F3,mCherry+/GFP-,YL2-A,BL1-A,17,0.170,21.795
+Invasion 1.5-2.5hr,F3,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,F3,R1,YL2-A,BL1-A,78,0.780,0.780
+Invasion 1.5-2.5hr,F3,R2,BL1-A,YL2-A,5,0.050,83.333
+Invasion 1.5-2.5hr,F3,R4,BL1-A,YL2-A,1,0.010,16.667
+Invasion 1.5-2.5hr,F3,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,F3,mCh+,BL1-A,YL2-A,6,0.060,0.060
+Invasion 1.5-2.5hr,F3,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,F3,R2,YL2-A,,5,0.050,0.050
+Invasion 1.5-2.5hr,F3,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,F3,R3,BL1-A,,29,0.290,0.290
+Invasion 1.5-2.5hr,F3,R3,BL1-A,YL2-A,29,0.290,85.294
+Invasion 1.5-2.5hr,F3,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,F3,GFP+,BL1-A,YL2-A,34,0.340,0.340
+Invasion 1.5-2.5hr,F3,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,F3,R4,FSC-A,SSC-A,1,0.010,0.010
+Invasion 1.5-2.5hr,F3,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,F3,R1,FSC-A,FSC-H,78,0.780,0.780
+Invasion 1.5-2.5hr,F3,LG1,,,6,0.060,0.060
+Invasion 1.5-2.5hr,F4,GFP+,BL1-A,,1216,12.160,16.632
+Invasion 1.5-2.5hr,F4,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,F4,R1,BL1-A,,7311,73.110,73.110
+Invasion 1.5-2.5hr,F4,mCh+,YL2-A,,2493,24.930,34.099
+Invasion 1.5-2.5hr,F4,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,F4,R1,YL2-A,,7311,73.110,73.110
+Invasion 1.5-2.5hr,F4,R1,FSC-H,SSC-H,7311,73.110,73.110
+Invasion 1.5-2.5hr,F4,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,F4,mCherry-/GFP+,YL2-A,BL1-A,984,9.840,13.459
+Invasion 1.5-2.5hr,F4,mCherry+/GFP+,YL2-A,BL1-A,266,2.660,3.638
+Invasion 1.5-2.5hr,F4,mCherry-/GFP-,YL2-A,BL1-A,190,1.900,2.599
+Invasion 1.5-2.5hr,F4,mCherry+/GFP-,YL2-A,BL1-A,5871,58.710,80.304
+Invasion 1.5-2.5hr,F4,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,F4,R1,YL2-A,BL1-A,7311,73.110,73.110
+Invasion 1.5-2.5hr,F4,R2,BL1-A,YL2-A,2060,20.600,82.631
+Invasion 1.5-2.5hr,F4,R4,BL1-A,YL2-A,150,1.500,6.017
+Invasion 1.5-2.5hr,F4,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,F4,mCh+,BL1-A,YL2-A,2493,24.930,24.930
+Invasion 1.5-2.5hr,F4,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,F4,R2,YL2-A,,2060,20.600,20.600
+Invasion 1.5-2.5hr,F4,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,F4,R3,BL1-A,,793,7.930,7.930
+Invasion 1.5-2.5hr,F4,R3,BL1-A,YL2-A,793,7.930,65.214
+Invasion 1.5-2.5hr,F4,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,F4,GFP+,BL1-A,YL2-A,1216,12.160,12.160
+Invasion 1.5-2.5hr,F4,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,F4,R4,FSC-A,SSC-A,150,1.500,1.500
+Invasion 1.5-2.5hr,F4,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,F4,R1,FSC-A,FSC-H,7311,73.110,73.110
+Invasion 1.5-2.5hr,F4,LG1,,,2493,24.930,24.930
+Invasion 1.5-2.5hr,F5,GFP+,BL1-A,,2117,21.170,61.451
+Invasion 1.5-2.5hr,F5,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,F5,R1,BL1-A,,3445,34.450,34.450
+Invasion 1.5-2.5hr,F5,mCh+,YL2-A,,401,4.010,11.640
+Invasion 1.5-2.5hr,F5,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,F5,R1,YL2-A,,3445,34.450,34.450
+Invasion 1.5-2.5hr,F5,R1,FSC-H,SSC-H,3445,34.450,34.450
+Invasion 1.5-2.5hr,F5,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,F5,mCherry-/GFP+,YL2-A,BL1-A,2286,22.860,66.357
+Invasion 1.5-2.5hr,F5,mCherry+/GFP+,YL2-A,BL1-A,117,1.170,3.396
+Invasion 1.5-2.5hr,F5,mCherry-/GFP-,YL2-A,BL1-A,344,3.440,9.985
+Invasion 1.5-2.5hr,F5,mCherry+/GFP-,YL2-A,BL1-A,698,6.980,20.261
+Invasion 1.5-2.5hr,F5,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,F5,R1,YL2-A,BL1-A,3445,34.450,34.450
+Invasion 1.5-2.5hr,F5,R2,BL1-A,YL2-A,305,3.050,76.060
+Invasion 1.5-2.5hr,F5,R4,BL1-A,YL2-A,61,0.610,15.212
+Invasion 1.5-2.5hr,F5,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,F5,mCh+,BL1-A,YL2-A,401,4.010,4.010
+Invasion 1.5-2.5hr,F5,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,F5,R2,YL2-A,,305,3.050,3.050
+Invasion 1.5-2.5hr,F5,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,F5,R3,BL1-A,,1595,15.950,15.950
+Invasion 1.5-2.5hr,F5,R3,BL1-A,YL2-A,1595,15.950,75.342
+Invasion 1.5-2.5hr,F5,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,F5,GFP+,BL1-A,YL2-A,2117,21.170,21.170
+Invasion 1.5-2.5hr,F5,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,F5,R4,FSC-A,SSC-A,61,0.610,0.610
+Invasion 1.5-2.5hr,F5,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,F5,R1,FSC-A,FSC-H,3445,34.450,34.450
+Invasion 1.5-2.5hr,F5,LG1,,,401,4.010,4.010
+Invasion 1.5-2.5hr,F6,GFP+,BL1-A,,1852,18.520,73.202
+Invasion 1.5-2.5hr,F6,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,F6,R1,BL1-A,,2530,25.300,25.300
+Invasion 1.5-2.5hr,F6,mCh+,YL2-A,,146,1.460,5.771
+Invasion 1.5-2.5hr,F6,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,F6,R1,YL2-A,,2530,25.300,25.300
+Invasion 1.5-2.5hr,F6,R1,FSC-H,SSC-H,2530,25.300,25.300
+Invasion 1.5-2.5hr,F6,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,F6,mCherry-/GFP+,YL2-A,BL1-A,1922,19.220,75.968
+Invasion 1.5-2.5hr,F6,mCherry+/GFP+,YL2-A,BL1-A,32,0.320,1.265
+Invasion 1.5-2.5hr,F6,mCherry-/GFP-,YL2-A,BL1-A,255,2.550,10.079
+Invasion 1.5-2.5hr,F6,mCherry+/GFP-,YL2-A,BL1-A,321,3.210,12.688
+Invasion 1.5-2.5hr,F6,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,F6,R1,YL2-A,BL1-A,2530,25.300,25.300
+Invasion 1.5-2.5hr,F6,R2,BL1-A,YL2-A,117,1.170,80.137
+Invasion 1.5-2.5hr,F6,R4,BL1-A,YL2-A,18,0.180,12.329
+Invasion 1.5-2.5hr,F6,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,F6,mCh+,BL1-A,YL2-A,146,1.460,1.460
+Invasion 1.5-2.5hr,F6,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,F6,R2,YL2-A,,117,1.170,1.170
+Invasion 1.5-2.5hr,F6,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,F6,R3,BL1-A,,1496,14.960,14.960
+Invasion 1.5-2.5hr,F6,R3,BL1-A,YL2-A,1496,14.960,80.778
+Invasion 1.5-2.5hr,F6,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,F6,GFP+,BL1-A,YL2-A,1852,18.520,18.520
+Invasion 1.5-2.5hr,F6,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,F6,R4,FSC-A,SSC-A,18,0.180,0.180
+Invasion 1.5-2.5hr,F6,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,F6,R1,FSC-A,FSC-H,2530,25.300,25.300
+Invasion 1.5-2.5hr,F6,LG1,,,146,1.460,1.460
+Invasion 1.5-2.5hr,F7,GFP+,BL1-A,,2623,26.230,54.623
+Invasion 1.5-2.5hr,F7,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,F7,R1,BL1-A,,4802,48.020,48.020
+Invasion 1.5-2.5hr,F7,mCh+,YL2-A,,480,4.800,9.996
+Invasion 1.5-2.5hr,F7,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,F7,R1,YL2-A,,4802,48.020,48.020
+Invasion 1.5-2.5hr,F7,R1,FSC-H,SSC-H,4802,48.020,48.020
+Invasion 1.5-2.5hr,F7,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,F7,mCherry-/GFP+,YL2-A,BL1-A,2559,25.590,53.290
+Invasion 1.5-2.5hr,F7,mCherry+/GFP+,YL2-A,BL1-A,124,1.240,2.582
+Invasion 1.5-2.5hr,F7,mCherry-/GFP-,YL2-A,BL1-A,389,3.890,8.101
+Invasion 1.5-2.5hr,F7,mCherry+/GFP-,YL2-A,BL1-A,1730,17.300,36.027
+Invasion 1.5-2.5hr,F7,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,F7,R1,YL2-A,BL1-A,4802,48.020,48.020
+Invasion 1.5-2.5hr,F7,R2,BL1-A,YL2-A,396,3.960,82.500
+Invasion 1.5-2.5hr,F7,R4,BL1-A,YL2-A,57,0.570,11.875
+Invasion 1.5-2.5hr,F7,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,F7,mCh+,BL1-A,YL2-A,480,4.800,4.800
+Invasion 1.5-2.5hr,F7,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,F7,R2,YL2-A,,396,3.960,3.960
+Invasion 1.5-2.5hr,F7,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,F7,R3,BL1-A,,2096,20.960,20.960
+Invasion 1.5-2.5hr,F7,R3,BL1-A,YL2-A,2096,20.960,79.909
+Invasion 1.5-2.5hr,F7,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,F7,GFP+,BL1-A,YL2-A,2623,26.230,26.230
+Invasion 1.5-2.5hr,F7,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,F7,R4,FSC-A,SSC-A,57,0.570,0.570
+Invasion 1.5-2.5hr,F7,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,F7,R1,FSC-A,FSC-H,4802,48.020,48.020
+Invasion 1.5-2.5hr,F7,LG1,,,480,4.800,4.800
+Invasion 1.5-2.5hr,F8,GFP+,BL1-A,,1047,10.470,16.331
+Invasion 1.5-2.5hr,F8,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,F8,R1,BL1-A,,6411,64.110,64.110
+Invasion 1.5-2.5hr,F8,mCh+,YL2-A,,1945,19.450,30.338
+Invasion 1.5-2.5hr,F8,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,F8,R1,YL2-A,,6411,64.110,64.110
+Invasion 1.5-2.5hr,F8,R1,FSC-H,SSC-H,6411,64.110,64.110
+Invasion 1.5-2.5hr,F8,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,F8,mCherry-/GFP+,YL2-A,BL1-A,884,8.840,13.789
+Invasion 1.5-2.5hr,F8,mCherry+/GFP+,YL2-A,BL1-A,187,1.870,2.917
+Invasion 1.5-2.5hr,F8,mCherry-/GFP-,YL2-A,BL1-A,225,2.250,3.510
+Invasion 1.5-2.5hr,F8,mCherry+/GFP-,YL2-A,BL1-A,5115,51.150,79.785
+Invasion 1.5-2.5hr,F8,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,F8,R1,YL2-A,BL1-A,6411,64.110,64.110
+Invasion 1.5-2.5hr,F8,R2,BL1-A,YL2-A,1678,16.780,86.272
+Invasion 1.5-2.5hr,F8,R4,BL1-A,YL2-A,96,0.960,4.936
+Invasion 1.5-2.5hr,F8,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,F8,mCh+,BL1-A,YL2-A,1945,19.450,19.450
+Invasion 1.5-2.5hr,F8,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,F8,R2,YL2-A,,1678,16.780,16.780
+Invasion 1.5-2.5hr,F8,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,F8,R3,BL1-A,,759,7.590,7.590
+Invasion 1.5-2.5hr,F8,R3,BL1-A,YL2-A,759,7.590,72.493
+Invasion 1.5-2.5hr,F8,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,F8,GFP+,BL1-A,YL2-A,1047,10.470,10.470
+Invasion 1.5-2.5hr,F8,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,F8,R4,FSC-A,SSC-A,96,0.960,0.960
+Invasion 1.5-2.5hr,F8,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,F8,R1,FSC-A,FSC-H,6411,64.110,64.110
+Invasion 1.5-2.5hr,F8,LG1,,,1945,19.450,19.450
+Invasion 1.5-2.5hr,F9,GFP+,BL1-A,,3804,38.040,59.142
+Invasion 1.5-2.5hr,F9,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,F9,R1,BL1-A,,6432,64.320,64.320
+Invasion 1.5-2.5hr,F9,mCh+,YL2-A,,890,8.900,13.837
+Invasion 1.5-2.5hr,F9,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,F9,R1,YL2-A,,6432,64.320,64.320
+Invasion 1.5-2.5hr,F9,R1,FSC-H,SSC-H,6432,64.320,64.320
+Invasion 1.5-2.5hr,F9,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,F9,mCherry-/GFP+,YL2-A,BL1-A,3843,38.430,59.748
+Invasion 1.5-2.5hr,F9,mCherry+/GFP+,YL2-A,BL1-A,433,4.330,6.732
+Invasion 1.5-2.5hr,F9,mCherry-/GFP-,YL2-A,BL1-A,538,5.380,8.364
+Invasion 1.5-2.5hr,F9,mCherry+/GFP-,YL2-A,BL1-A,1618,16.180,25.155
+Invasion 1.5-2.5hr,F9,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,F9,R1,YL2-A,BL1-A,6432,64.320,64.320
+Invasion 1.5-2.5hr,F9,R2,BL1-A,YL2-A,478,4.780,53.708
+Invasion 1.5-2.5hr,F9,R4,BL1-A,YL2-A,226,2.260,25.393
+Invasion 1.5-2.5hr,F9,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,F9,mCh+,BL1-A,YL2-A,890,8.900,8.900
+Invasion 1.5-2.5hr,F9,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,F9,R2,YL2-A,,478,4.780,4.780
+Invasion 1.5-2.5hr,F9,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,F9,R3,BL1-A,,2733,27.330,27.330
+Invasion 1.5-2.5hr,F9,R3,BL1-A,YL2-A,2733,27.330,71.845
+Invasion 1.5-2.5hr,F9,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,F9,GFP+,BL1-A,YL2-A,3804,38.040,38.040
+Invasion 1.5-2.5hr,F9,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,F9,R4,FSC-A,SSC-A,226,2.260,2.260
+Invasion 1.5-2.5hr,F9,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,F9,R1,FSC-A,FSC-H,6432,64.320,64.320
+Invasion 1.5-2.5hr,F9,LG1,,,890,8.900,8.900
+Invasion 1.5-2.5hr,F10,GFP+,BL1-A,,4209,42.090,78.776
+Invasion 1.5-2.5hr,F10,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,F10,R1,BL1-A,,5343,53.430,53.430
+Invasion 1.5-2.5hr,F10,mCh+,YL2-A,,178,1.780,3.331
+Invasion 1.5-2.5hr,F10,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,F10,R1,YL2-A,,5343,53.430,53.430
+Invasion 1.5-2.5hr,F10,R1,FSC-H,SSC-H,5343,53.430,53.430
+Invasion 1.5-2.5hr,F10,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,F10,mCherry-/GFP+,YL2-A,BL1-A,4237,42.370,79.300
+Invasion 1.5-2.5hr,F10,mCherry+/GFP+,YL2-A,BL1-A,72,0.720,1.348
+Invasion 1.5-2.5hr,F10,mCherry-/GFP-,YL2-A,BL1-A,515,5.150,9.639
+Invasion 1.5-2.5hr,F10,mCherry+/GFP-,YL2-A,BL1-A,519,5.190,9.714
+Invasion 1.5-2.5hr,F10,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,F10,R1,YL2-A,BL1-A,5343,53.430,53.430
+Invasion 1.5-2.5hr,F10,R2,BL1-A,YL2-A,125,1.250,70.225
+Invasion 1.5-2.5hr,F10,R4,BL1-A,YL2-A,30,0.300,16.854
+Invasion 1.5-2.5hr,F10,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,F10,mCh+,BL1-A,YL2-A,178,1.780,1.780
+Invasion 1.5-2.5hr,F10,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,F10,R2,YL2-A,,125,1.250,1.250
+Invasion 1.5-2.5hr,F10,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,F10,R3,BL1-A,,3501,35.010,35.010
+Invasion 1.5-2.5hr,F10,R3,BL1-A,YL2-A,3501,35.010,83.179
+Invasion 1.5-2.5hr,F10,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,F10,GFP+,BL1-A,YL2-A,4209,42.090,42.090
+Invasion 1.5-2.5hr,F10,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,F10,R4,FSC-A,SSC-A,30,0.300,0.300
+Invasion 1.5-2.5hr,F10,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,F10,R1,FSC-A,FSC-H,5343,53.430,53.430
+Invasion 1.5-2.5hr,F10,LG1,,,178,1.780,1.780
+Invasion 1.5-2.5hr,F11,GFP+,BL1-A,,4227,42.270,61.305
+Invasion 1.5-2.5hr,F11,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,F11,R1,BL1-A,,6895,68.950,68.950
+Invasion 1.5-2.5hr,F11,mCh+,YL2-A,,592,5.920,8.586
+Invasion 1.5-2.5hr,F11,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,F11,R1,YL2-A,,6895,68.950,68.950
+Invasion 1.5-2.5hr,F11,R1,FSC-H,SSC-H,6895,68.950,68.950
+Invasion 1.5-2.5hr,F11,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,F11,mCherry-/GFP+,YL2-A,BL1-A,4030,40.300,58.448
+Invasion 1.5-2.5hr,F11,mCherry+/GFP+,YL2-A,BL1-A,315,3.150,4.569
+Invasion 1.5-2.5hr,F11,mCherry-/GFP-,YL2-A,BL1-A,570,5.700,8.267
+Invasion 1.5-2.5hr,F11,mCherry+/GFP-,YL2-A,BL1-A,1980,19.800,28.716
+Invasion 1.5-2.5hr,F11,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,F11,R1,YL2-A,BL1-A,6895,68.950,68.950
+Invasion 1.5-2.5hr,F11,R2,BL1-A,YL2-A,347,3.470,58.615
+Invasion 1.5-2.5hr,F11,R4,BL1-A,YL2-A,114,1.140,19.257
+Invasion 1.5-2.5hr,F11,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,F11,mCh+,BL1-A,YL2-A,592,5.920,5.920
+Invasion 1.5-2.5hr,F11,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,F11,R2,YL2-A,,347,3.470,3.470
+Invasion 1.5-2.5hr,F11,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,F11,R3,BL1-A,,3306,33.060,33.060
+Invasion 1.5-2.5hr,F11,R3,BL1-A,YL2-A,3306,33.060,78.211
+Invasion 1.5-2.5hr,F11,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,F11,GFP+,BL1-A,YL2-A,4227,42.270,42.270
+Invasion 1.5-2.5hr,F11,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,F11,R4,FSC-A,SSC-A,114,1.140,1.140
+Invasion 1.5-2.5hr,F11,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,F11,R1,FSC-A,FSC-H,6895,68.950,68.950
+Invasion 1.5-2.5hr,F11,LG1,,,592,5.920,5.920
+Invasion 1.5-2.5hr,F12,GFP+,BL1-A,,1431,14.310,24.809
+Invasion 1.5-2.5hr,F12,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,F12,R1,BL1-A,,5768,57.680,57.680
+Invasion 1.5-2.5hr,F12,mCh+,YL2-A,,1407,14.070,24.393
+Invasion 1.5-2.5hr,F12,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,F12,R1,YL2-A,,5768,57.680,57.680
+Invasion 1.5-2.5hr,F12,R1,FSC-H,SSC-H,5768,57.680,57.680
+Invasion 1.5-2.5hr,F12,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,F12,mCherry-/GFP+,YL2-A,BL1-A,1302,13.020,22.573
+Invasion 1.5-2.5hr,F12,mCherry+/GFP+,YL2-A,BL1-A,166,1.660,2.878
+Invasion 1.5-2.5hr,F12,mCherry-/GFP-,YL2-A,BL1-A,293,2.930,5.080
+Invasion 1.5-2.5hr,F12,mCherry+/GFP-,YL2-A,BL1-A,4007,40.070,69.469
+Invasion 1.5-2.5hr,F12,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,F12,R1,YL2-A,BL1-A,5768,57.680,57.680
+Invasion 1.5-2.5hr,F12,R2,BL1-A,YL2-A,1252,12.520,88.984
+Invasion 1.5-2.5hr,F12,R4,BL1-A,YL2-A,81,0.810,5.757
+Invasion 1.5-2.5hr,F12,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,F12,mCh+,BL1-A,YL2-A,1407,14.070,14.070
+Invasion 1.5-2.5hr,F12,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,F12,R2,YL2-A,,1252,12.520,12.520
+Invasion 1.5-2.5hr,F12,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,F12,R3,BL1-A,,1053,10.530,10.530
+Invasion 1.5-2.5hr,F12,R3,BL1-A,YL2-A,1053,10.530,73.585
+Invasion 1.5-2.5hr,F12,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,F12,GFP+,BL1-A,YL2-A,1431,14.310,14.310
+Invasion 1.5-2.5hr,F12,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,F12,R4,FSC-A,SSC-A,81,0.810,0.810
+Invasion 1.5-2.5hr,F12,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,F12,R1,FSC-A,FSC-H,5768,57.680,57.680
+Invasion 1.5-2.5hr,F12,LG1,,,1407,14.070,14.070
+Invasion 1.5-2.5hr,G2,GFP+,BL1-A,,81,0.810,51.266
+Invasion 1.5-2.5hr,G2,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,G2,R1,BL1-A,,158,1.580,1.580
+Invasion 1.5-2.5hr,G2,mCh+,YL2-A,,17,0.170,10.759
+Invasion 1.5-2.5hr,G2,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,G2,R1,YL2-A,,158,1.580,1.580
+Invasion 1.5-2.5hr,G2,R1,FSC-H,SSC-H,158,1.580,1.580
+Invasion 1.5-2.5hr,G2,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,G2,mCherry-/GFP+,YL2-A,BL1-A,86,0.860,54.430
+Invasion 1.5-2.5hr,G2,mCherry+/GFP+,YL2-A,BL1-A,2,0.020,1.266
+Invasion 1.5-2.5hr,G2,mCherry-/GFP-,YL2-A,BL1-A,37,0.370,23.418
+Invasion 1.5-2.5hr,G2,mCherry+/GFP-,YL2-A,BL1-A,33,0.330,20.886
+Invasion 1.5-2.5hr,G2,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,G2,R1,YL2-A,BL1-A,158,1.580,1.580
+Invasion 1.5-2.5hr,G2,R2,BL1-A,YL2-A,15,0.150,88.235
+Invasion 1.5-2.5hr,G2,R4,BL1-A,YL2-A,1,0.010,5.882
+Invasion 1.5-2.5hr,G2,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,G2,mCh+,BL1-A,YL2-A,17,0.170,0.170
+Invasion 1.5-2.5hr,G2,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,G2,R2,YL2-A,,15,0.150,0.150
+Invasion 1.5-2.5hr,G2,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,G2,R3,BL1-A,,65,0.650,0.650
+Invasion 1.5-2.5hr,G2,R3,BL1-A,YL2-A,65,0.650,80.247
+Invasion 1.5-2.5hr,G2,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,G2,GFP+,BL1-A,YL2-A,81,0.810,0.810
+Invasion 1.5-2.5hr,G2,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,G2,R4,FSC-A,SSC-A,1,0.010,0.010
+Invasion 1.5-2.5hr,G2,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,G2,R1,FSC-A,FSC-H,158,1.580,1.580
+Invasion 1.5-2.5hr,G2,LG1,,,17,0.170,0.170
+Invasion 1.5-2.5hr,G3,GFP+,BL1-A,,11,0.110,28.205
+Invasion 1.5-2.5hr,G3,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,G3,R1,BL1-A,,39,0.390,0.390
+Invasion 1.5-2.5hr,G3,mCh+,YL2-A,,2,0.020,5.128
+Invasion 1.5-2.5hr,G3,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,G3,R1,YL2-A,,39,0.390,0.390
+Invasion 1.5-2.5hr,G3,R1,FSC-H,SSC-H,39,0.390,0.390
+Invasion 1.5-2.5hr,G3,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,G3,mCherry-/GFP+,YL2-A,BL1-A,10,0.100,25.641
+Invasion 1.5-2.5hr,G3,mCherry+/GFP+,YL2-A,BL1-A,1,0.010,2.564
+Invasion 1.5-2.5hr,G3,mCherry-/GFP-,YL2-A,BL1-A,21,0.210,53.846
+Invasion 1.5-2.5hr,G3,mCherry+/GFP-,YL2-A,BL1-A,7,0.070,17.949
+Invasion 1.5-2.5hr,G3,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,G3,R1,YL2-A,BL1-A,39,0.390,0.390
+Invasion 1.5-2.5hr,G3,R2,BL1-A,YL2-A,1,0.010,50.000
+Invasion 1.5-2.5hr,G3,R4,BL1-A,YL2-A,1,0.010,50.000
+Invasion 1.5-2.5hr,G3,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,G3,mCh+,BL1-A,YL2-A,2,0.020,0.020
+Invasion 1.5-2.5hr,G3,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,G3,R2,YL2-A,,1,0.010,0.010
+Invasion 1.5-2.5hr,G3,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,G3,R3,BL1-A,,9,0.090,0.090
+Invasion 1.5-2.5hr,G3,R3,BL1-A,YL2-A,9,0.090,81.818
+Invasion 1.5-2.5hr,G3,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,G3,GFP+,BL1-A,YL2-A,11,0.110,0.110
+Invasion 1.5-2.5hr,G3,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,G3,R4,FSC-A,SSC-A,1,0.010,0.010
+Invasion 1.5-2.5hr,G3,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,G3,R1,FSC-A,FSC-H,39,0.390,0.390
+Invasion 1.5-2.5hr,G3,LG1,,,2,0.020,0.020
+Invasion 1.5-2.5hr,G4,GFP+,BL1-A,,15,0.150,7.500
+Invasion 1.5-2.5hr,G4,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,G4,R1,BL1-A,,200,2.000,2.000
+Invasion 1.5-2.5hr,G4,mCh+,YL2-A,,51,0.510,25.500
+Invasion 1.5-2.5hr,G4,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,G4,R1,YL2-A,,200,2.000,2.000
+Invasion 1.5-2.5hr,G4,R1,FSC-H,SSC-H,200,2.000,2.000
+Invasion 1.5-2.5hr,G4,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,G4,mCherry-/GFP+,YL2-A,BL1-A,15,0.150,7.500
+Invasion 1.5-2.5hr,G4,mCherry+/GFP+,YL2-A,BL1-A,0,0.000,0.000
+Invasion 1.5-2.5hr,G4,mCherry-/GFP-,YL2-A,BL1-A,27,0.270,13.500
+Invasion 1.5-2.5hr,G4,mCherry+/GFP-,YL2-A,BL1-A,158,1.580,79.000
+Invasion 1.5-2.5hr,G4,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,G4,R1,YL2-A,BL1-A,200,2.000,2.000
+Invasion 1.5-2.5hr,G4,R2,BL1-A,YL2-A,48,0.480,94.118
+Invasion 1.5-2.5hr,G4,R4,BL1-A,YL2-A,0,0.000,0.000
+Invasion 1.5-2.5hr,G4,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,G4,mCh+,BL1-A,YL2-A,51,0.510,0.510
+Invasion 1.5-2.5hr,G4,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,G4,R2,YL2-A,,48,0.480,0.480
+Invasion 1.5-2.5hr,G4,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,G4,R3,BL1-A,,10,0.100,0.100
+Invasion 1.5-2.5hr,G4,R3,BL1-A,YL2-A,10,0.100,66.667
+Invasion 1.5-2.5hr,G4,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,G4,GFP+,BL1-A,YL2-A,15,0.150,0.150
+Invasion 1.5-2.5hr,G4,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,G4,R4,FSC-A,SSC-A,0,0.000,0.000
+Invasion 1.5-2.5hr,G4,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,G4,R1,FSC-A,FSC-H,200,2.000,2.000
+Invasion 1.5-2.5hr,G4,LG1,,,51,0.510,0.510
+Invasion 1.5-2.5hr,G5,GFP+,BL1-A,,52,0.520,40.310
+Invasion 1.5-2.5hr,G5,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,G5,R1,BL1-A,,129,1.290,1.290
+Invasion 1.5-2.5hr,G5,mCh+,YL2-A,,13,0.130,10.078
+Invasion 1.5-2.5hr,G5,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,G5,R1,YL2-A,,129,1.290,1.290
+Invasion 1.5-2.5hr,G5,R1,FSC-H,SSC-H,129,1.290,1.290
+Invasion 1.5-2.5hr,G5,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,G5,mCherry-/GFP+,YL2-A,BL1-A,56,0.560,43.411
+Invasion 1.5-2.5hr,G5,mCherry+/GFP+,YL2-A,BL1-A,0,0.000,0.000
+Invasion 1.5-2.5hr,G5,mCherry-/GFP-,YL2-A,BL1-A,41,0.410,31.783
+Invasion 1.5-2.5hr,G5,mCherry+/GFP-,YL2-A,BL1-A,32,0.320,24.806
+Invasion 1.5-2.5hr,G5,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,G5,R1,YL2-A,BL1-A,129,1.290,1.290
+Invasion 1.5-2.5hr,G5,R2,BL1-A,YL2-A,13,0.130,100.000
+Invasion 1.5-2.5hr,G5,R4,BL1-A,YL2-A,0,0.000,0.000
+Invasion 1.5-2.5hr,G5,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,G5,mCh+,BL1-A,YL2-A,13,0.130,0.130
+Invasion 1.5-2.5hr,G5,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,G5,R2,YL2-A,,13,0.130,0.130
+Invasion 1.5-2.5hr,G5,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,G5,R3,BL1-A,,42,0.420,0.420
+Invasion 1.5-2.5hr,G5,R3,BL1-A,YL2-A,42,0.420,80.769
+Invasion 1.5-2.5hr,G5,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,G5,GFP+,BL1-A,YL2-A,52,0.520,0.520
+Invasion 1.5-2.5hr,G5,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,G5,R4,FSC-A,SSC-A,0,0.000,0.000
+Invasion 1.5-2.5hr,G5,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,G5,R1,FSC-A,FSC-H,129,1.290,1.290
+Invasion 1.5-2.5hr,G5,LG1,,,13,0.130,0.130
+Invasion 1.5-2.5hr,G6,GFP+,BL1-A,,93,0.930,65.957
+Invasion 1.5-2.5hr,G6,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,G6,R1,BL1-A,,141,1.410,1.410
+Invasion 1.5-2.5hr,G6,mCh+,YL2-A,,6,0.060,4.255
+Invasion 1.5-2.5hr,G6,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,G6,R1,YL2-A,,141,1.410,1.410
+Invasion 1.5-2.5hr,G6,R1,FSC-H,SSC-H,141,1.410,1.410
+Invasion 1.5-2.5hr,G6,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,G6,mCherry-/GFP+,YL2-A,BL1-A,98,0.980,69.504
+Invasion 1.5-2.5hr,G6,mCherry+/GFP+,YL2-A,BL1-A,1,0.010,0.709
+Invasion 1.5-2.5hr,G6,mCherry-/GFP-,YL2-A,BL1-A,24,0.240,17.021
+Invasion 1.5-2.5hr,G6,mCherry+/GFP-,YL2-A,BL1-A,18,0.180,12.766
+Invasion 1.5-2.5hr,G6,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,G6,R1,YL2-A,BL1-A,141,1.410,1.410
+Invasion 1.5-2.5hr,G6,R2,BL1-A,YL2-A,5,0.050,83.333
+Invasion 1.5-2.5hr,G6,R4,BL1-A,YL2-A,0,0.000,0.000
+Invasion 1.5-2.5hr,G6,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,G6,mCh+,BL1-A,YL2-A,6,0.060,0.060
+Invasion 1.5-2.5hr,G6,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,G6,R2,YL2-A,,5,0.050,0.050
+Invasion 1.5-2.5hr,G6,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,G6,R3,BL1-A,,77,0.770,0.770
+Invasion 1.5-2.5hr,G6,R3,BL1-A,YL2-A,77,0.770,82.796
+Invasion 1.5-2.5hr,G6,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,G6,GFP+,BL1-A,YL2-A,93,0.930,0.930
+Invasion 1.5-2.5hr,G6,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,G6,R4,FSC-A,SSC-A,0,0.000,0.000
+Invasion 1.5-2.5hr,G6,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,G6,R1,FSC-A,FSC-H,141,1.410,1.410
+Invasion 1.5-2.5hr,G6,LG1,,,6,0.060,0.060
+Invasion 1.5-2.5hr,G7,GFP+,BL1-A,,25,0.250,30.864
+Invasion 1.5-2.5hr,G7,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,G7,R1,BL1-A,,81,0.810,0.810
+Invasion 1.5-2.5hr,G7,mCh+,YL2-A,,9,0.090,11.111
+Invasion 1.5-2.5hr,G7,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,G7,R1,YL2-A,,81,0.810,0.810
+Invasion 1.5-2.5hr,G7,R1,FSC-H,SSC-H,81,0.810,0.810
+Invasion 1.5-2.5hr,G7,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,G7,mCherry-/GFP+,YL2-A,BL1-A,25,0.250,30.864
+Invasion 1.5-2.5hr,G7,mCherry+/GFP+,YL2-A,BL1-A,0,0.000,0.000
+Invasion 1.5-2.5hr,G7,mCherry-/GFP-,YL2-A,BL1-A,13,0.130,16.049
+Invasion 1.5-2.5hr,G7,mCherry+/GFP-,YL2-A,BL1-A,43,0.430,53.086
+Invasion 1.5-2.5hr,G7,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,G7,R1,YL2-A,BL1-A,81,0.810,0.810
+Invasion 1.5-2.5hr,G7,R2,BL1-A,YL2-A,9,0.090,100.000
+Invasion 1.5-2.5hr,G7,R4,BL1-A,YL2-A,0,0.000,0.000
+Invasion 1.5-2.5hr,G7,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,G7,mCh+,BL1-A,YL2-A,9,0.090,0.090
+Invasion 1.5-2.5hr,G7,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,G7,R2,YL2-A,,9,0.090,0.090
+Invasion 1.5-2.5hr,G7,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,G7,R3,BL1-A,,17,0.170,0.170
+Invasion 1.5-2.5hr,G7,R3,BL1-A,YL2-A,17,0.170,68.000
+Invasion 1.5-2.5hr,G7,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,G7,GFP+,BL1-A,YL2-A,25,0.250,0.250
+Invasion 1.5-2.5hr,G7,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,G7,R4,FSC-A,SSC-A,0,0.000,0.000
+Invasion 1.5-2.5hr,G7,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,G7,R1,FSC-A,FSC-H,81,0.810,0.810
+Invasion 1.5-2.5hr,G7,LG1,,,9,0.090,0.090
+Invasion 1.5-2.5hr,G8,GFP+,BL1-A,,42,0.420,17.004
+Invasion 1.5-2.5hr,G8,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,G8,R1,BL1-A,,247,2.470,2.470
+Invasion 1.5-2.5hr,G8,mCh+,YL2-A,,42,0.420,17.004
+Invasion 1.5-2.5hr,G8,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,G8,R1,YL2-A,,247,2.470,2.470
+Invasion 1.5-2.5hr,G8,R1,FSC-H,SSC-H,247,2.470,2.470
+Invasion 1.5-2.5hr,G8,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,G8,mCherry-/GFP+,YL2-A,BL1-A,42,0.420,17.004
+Invasion 1.5-2.5hr,G8,mCherry+/GFP+,YL2-A,BL1-A,0,0.000,0.000
+Invasion 1.5-2.5hr,G8,mCherry-/GFP-,YL2-A,BL1-A,16,0.160,6.478
+Invasion 1.5-2.5hr,G8,mCherry+/GFP-,YL2-A,BL1-A,189,1.890,76.518
+Invasion 1.5-2.5hr,G8,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,G8,R1,YL2-A,BL1-A,247,2.470,2.470
+Invasion 1.5-2.5hr,G8,R2,BL1-A,YL2-A,40,0.400,95.238
+Invasion 1.5-2.5hr,G8,R4,BL1-A,YL2-A,0,0.000,0.000
+Invasion 1.5-2.5hr,G8,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,G8,mCh+,BL1-A,YL2-A,42,0.420,0.420
+Invasion 1.5-2.5hr,G8,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,G8,R2,YL2-A,,40,0.400,0.400
+Invasion 1.5-2.5hr,G8,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,G8,R3,BL1-A,,37,0.370,0.370
+Invasion 1.5-2.5hr,G8,R3,BL1-A,YL2-A,37,0.370,88.095
+Invasion 1.5-2.5hr,G8,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,G8,GFP+,BL1-A,YL2-A,42,0.420,0.420
+Invasion 1.5-2.5hr,G8,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,G8,R4,FSC-A,SSC-A,0,0.000,0.000
+Invasion 1.5-2.5hr,G8,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,G8,R1,FSC-A,FSC-H,247,2.470,2.470
+Invasion 1.5-2.5hr,G8,LG1,,,42,0.420,0.420
+Invasion 1.5-2.5hr,G9,GFP+,BL1-A,,83,0.830,53.896
+Invasion 1.5-2.5hr,G9,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,G9,R1,BL1-A,,154,1.540,1.540
+Invasion 1.5-2.5hr,G9,mCh+,YL2-A,,5,0.050,3.247
+Invasion 1.5-2.5hr,G9,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,G9,R1,YL2-A,,154,1.540,1.540
+Invasion 1.5-2.5hr,G9,R1,FSC-H,SSC-H,154,1.540,1.540
+Invasion 1.5-2.5hr,G9,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,G9,mCherry-/GFP+,YL2-A,BL1-A,85,0.850,55.195
+Invasion 1.5-2.5hr,G9,mCherry+/GFP+,YL2-A,BL1-A,0,0.000,0.000
+Invasion 1.5-2.5hr,G9,mCherry-/GFP-,YL2-A,BL1-A,32,0.320,20.779
+Invasion 1.5-2.5hr,G9,mCherry+/GFP-,YL2-A,BL1-A,37,0.370,24.026
+Invasion 1.5-2.5hr,G9,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,G9,R1,YL2-A,BL1-A,154,1.540,1.540
+Invasion 1.5-2.5hr,G9,R2,BL1-A,YL2-A,5,0.050,100.000
+Invasion 1.5-2.5hr,G9,R4,BL1-A,YL2-A,0,0.000,0.000
+Invasion 1.5-2.5hr,G9,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,G9,mCh+,BL1-A,YL2-A,5,0.050,0.050
+Invasion 1.5-2.5hr,G9,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,G9,R2,YL2-A,,5,0.050,0.050
+Invasion 1.5-2.5hr,G9,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,G9,R3,BL1-A,,65,0.650,0.650
+Invasion 1.5-2.5hr,G9,R3,BL1-A,YL2-A,65,0.650,78.313
+Invasion 1.5-2.5hr,G9,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,G9,GFP+,BL1-A,YL2-A,83,0.830,0.830
+Invasion 1.5-2.5hr,G9,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,G9,R4,FSC-A,SSC-A,0,0.000,0.000
+Invasion 1.5-2.5hr,G9,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,G9,R1,FSC-A,FSC-H,154,1.540,1.540
+Invasion 1.5-2.5hr,G9,LG1,,,5,0.050,0.050
+Invasion 1.5-2.5hr,G10,GFP+,BL1-A,,111,1.110,59.677
+Invasion 1.5-2.5hr,G10,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,G10,R1,BL1-A,,186,1.860,1.860
+Invasion 1.5-2.5hr,G10,mCh+,YL2-A,,10,0.100,5.376
+Invasion 1.5-2.5hr,G10,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,G10,R1,YL2-A,,186,1.860,1.860
+Invasion 1.5-2.5hr,G10,R1,FSC-H,SSC-H,186,1.860,1.860
+Invasion 1.5-2.5hr,G10,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,G10,mCherry-/GFP+,YL2-A,BL1-A,114,1.140,61.290
+Invasion 1.5-2.5hr,G10,mCherry+/GFP+,YL2-A,BL1-A,0,0.000,0.000
+Invasion 1.5-2.5hr,G10,mCherry-/GFP-,YL2-A,BL1-A,35,0.350,18.817
+Invasion 1.5-2.5hr,G10,mCherry+/GFP-,YL2-A,BL1-A,37,0.370,19.892
+Invasion 1.5-2.5hr,G10,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,G10,R1,YL2-A,BL1-A,186,1.860,1.860
+Invasion 1.5-2.5hr,G10,R2,BL1-A,YL2-A,10,0.100,100.000
+Invasion 1.5-2.5hr,G10,R4,BL1-A,YL2-A,0,0.000,0.000
+Invasion 1.5-2.5hr,G10,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,G10,mCh+,BL1-A,YL2-A,10,0.100,0.100
+Invasion 1.5-2.5hr,G10,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,G10,R2,YL2-A,,10,0.100,0.100
+Invasion 1.5-2.5hr,G10,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,G10,R3,BL1-A,,95,0.950,0.950
+Invasion 1.5-2.5hr,G10,R3,BL1-A,YL2-A,95,0.950,85.586
+Invasion 1.5-2.5hr,G10,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,G10,GFP+,BL1-A,YL2-A,111,1.110,1.110
+Invasion 1.5-2.5hr,G10,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,G10,R4,FSC-A,SSC-A,0,0.000,0.000
+Invasion 1.5-2.5hr,G10,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,G10,R1,FSC-A,FSC-H,186,1.860,1.860
+Invasion 1.5-2.5hr,G10,LG1,,,10,0.100,0.100
+Invasion 1.5-2.5hr,G11,GFP+,BL1-A,,130,1.300,60.465
+Invasion 1.5-2.5hr,G11,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,G11,R1,BL1-A,,215,2.150,2.150
+Invasion 1.5-2.5hr,G11,mCh+,YL2-A,,4,0.040,1.860
+Invasion 1.5-2.5hr,G11,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,G11,R1,YL2-A,,215,2.150,2.150
+Invasion 1.5-2.5hr,G11,R1,FSC-H,SSC-H,215,2.150,2.150
+Invasion 1.5-2.5hr,G11,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,G11,mCherry-/GFP+,YL2-A,BL1-A,131,1.310,60.930
+Invasion 1.5-2.5hr,G11,mCherry+/GFP+,YL2-A,BL1-A,0,0.000,0.000
+Invasion 1.5-2.5hr,G11,mCherry-/GFP-,YL2-A,BL1-A,53,0.530,24.651
+Invasion 1.5-2.5hr,G11,mCherry+/GFP-,YL2-A,BL1-A,31,0.310,14.419
+Invasion 1.5-2.5hr,G11,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,G11,R1,YL2-A,BL1-A,215,2.150,2.150
+Invasion 1.5-2.5hr,G11,R2,BL1-A,YL2-A,4,0.040,100.000
+Invasion 1.5-2.5hr,G11,R4,BL1-A,YL2-A,0,0.000,0.000
+Invasion 1.5-2.5hr,G11,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,G11,mCh+,BL1-A,YL2-A,4,0.040,0.040
+Invasion 1.5-2.5hr,G11,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,G11,R2,YL2-A,,4,0.040,0.040
+Invasion 1.5-2.5hr,G11,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,G11,R3,BL1-A,,109,1.090,1.090
+Invasion 1.5-2.5hr,G11,R3,BL1-A,YL2-A,109,1.090,83.846
+Invasion 1.5-2.5hr,G11,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,G11,GFP+,BL1-A,YL2-A,130,1.300,1.300
+Invasion 1.5-2.5hr,G11,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,G11,R4,FSC-A,SSC-A,0,0.000,0.000
+Invasion 1.5-2.5hr,G11,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,G11,R1,FSC-A,FSC-H,215,2.150,2.150
+Invasion 1.5-2.5hr,G11,LG1,,,4,0.040,0.040
+Invasion 1.5-2.5hr,G12,GFP+,BL1-A,,49,0.490,23.445
+Invasion 1.5-2.5hr,G12,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,G12,R1,BL1-A,,209,2.090,2.090
+Invasion 1.5-2.5hr,G12,mCh+,YL2-A,,41,0.410,19.617
+Invasion 1.5-2.5hr,G12,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,G12,R1,YL2-A,,209,2.090,2.090
+Invasion 1.5-2.5hr,G12,R1,FSC-H,SSC-H,209,2.090,2.090
+Invasion 1.5-2.5hr,G12,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,G12,mCherry-/GFP+,YL2-A,BL1-A,50,0.500,23.923
+Invasion 1.5-2.5hr,G12,mCherry+/GFP+,YL2-A,BL1-A,1,0.010,0.478
+Invasion 1.5-2.5hr,G12,mCherry-/GFP-,YL2-A,BL1-A,23,0.230,11.005
+Invasion 1.5-2.5hr,G12,mCherry+/GFP-,YL2-A,BL1-A,135,1.350,64.593
+Invasion 1.5-2.5hr,G12,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,G12,R1,YL2-A,BL1-A,209,2.090,2.090
+Invasion 1.5-2.5hr,G12,R2,BL1-A,YL2-A,40,0.400,97.561
+Invasion 1.5-2.5hr,G12,R4,BL1-A,YL2-A,0,0.000,0.000
+Invasion 1.5-2.5hr,G12,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,G12,mCh+,BL1-A,YL2-A,41,0.410,0.410
+Invasion 1.5-2.5hr,G12,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,G12,R2,YL2-A,,40,0.400,0.400
+Invasion 1.5-2.5hr,G12,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,G12,R3,BL1-A,,42,0.420,0.420
+Invasion 1.5-2.5hr,G12,R3,BL1-A,YL2-A,42,0.420,85.714
+Invasion 1.5-2.5hr,G12,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,G12,GFP+,BL1-A,YL2-A,49,0.490,0.490
+Invasion 1.5-2.5hr,G12,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,G12,R4,FSC-A,SSC-A,0,0.000,0.000
+Invasion 1.5-2.5hr,G12,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,G12,R1,FSC-A,FSC-H,209,2.090,2.090
+Invasion 1.5-2.5hr,G12,LG1,,,41,0.410,0.410
+Invasion 1.5-2.5hr,H2,GFP+,BL1-A,,58,0.580,35.802
+Invasion 1.5-2.5hr,H2,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,H2,R1,BL1-A,,162,1.620,1.620
+Invasion 1.5-2.5hr,H2,mCh+,YL2-A,,20,0.200,12.346
+Invasion 1.5-2.5hr,H2,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,H2,R1,YL2-A,,162,1.620,1.620
+Invasion 1.5-2.5hr,H2,R1,FSC-H,SSC-H,162,1.620,1.620
+Invasion 1.5-2.5hr,H2,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,H2,mCherry-/GFP+,YL2-A,BL1-A,61,0.610,37.654
+Invasion 1.5-2.5hr,H2,mCherry+/GFP+,YL2-A,BL1-A,1,0.010,0.617
+Invasion 1.5-2.5hr,H2,mCherry-/GFP-,YL2-A,BL1-A,57,0.570,35.185
+Invasion 1.5-2.5hr,H2,mCherry+/GFP-,YL2-A,BL1-A,43,0.430,26.543
+Invasion 1.5-2.5hr,H2,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,H2,R1,YL2-A,BL1-A,162,1.620,1.620
+Invasion 1.5-2.5hr,H2,R2,BL1-A,YL2-A,19,0.190,95.000
+Invasion 1.5-2.5hr,H2,R4,BL1-A,YL2-A,0,0.000,0.000
+Invasion 1.5-2.5hr,H2,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,H2,mCh+,BL1-A,YL2-A,20,0.200,0.200
+Invasion 1.5-2.5hr,H2,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,H2,R2,YL2-A,,19,0.190,0.190
+Invasion 1.5-2.5hr,H2,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,H2,R3,BL1-A,,51,0.510,0.510
+Invasion 1.5-2.5hr,H2,R3,BL1-A,YL2-A,51,0.510,87.931
+Invasion 1.5-2.5hr,H2,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,H2,GFP+,BL1-A,YL2-A,58,0.580,0.580
+Invasion 1.5-2.5hr,H2,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,H2,R4,FSC-A,SSC-A,0,0.000,0.000
+Invasion 1.5-2.5hr,H2,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,H2,R1,FSC-A,FSC-H,162,1.620,1.620
+Invasion 1.5-2.5hr,H2,LG1,,,20,0.200,0.200
+Invasion 1.5-2.5hr,H3,GFP+,BL1-A,,17,0.170,26.154
+Invasion 1.5-2.5hr,H3,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,H3,R1,BL1-A,,65,0.650,0.650
+Invasion 1.5-2.5hr,H3,mCh+,YL2-A,,7,0.070,10.769
+Invasion 1.5-2.5hr,H3,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,H3,R1,YL2-A,,65,0.650,0.650
+Invasion 1.5-2.5hr,H3,R1,FSC-H,SSC-H,65,0.650,0.650
+Invasion 1.5-2.5hr,H3,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,H3,mCherry-/GFP+,YL2-A,BL1-A,17,0.170,26.154
+Invasion 1.5-2.5hr,H3,mCherry+/GFP+,YL2-A,BL1-A,1,0.010,1.538
+Invasion 1.5-2.5hr,H3,mCherry-/GFP-,YL2-A,BL1-A,27,0.270,41.538
+Invasion 1.5-2.5hr,H3,mCherry+/GFP-,YL2-A,BL1-A,20,0.200,30.769
+Invasion 1.5-2.5hr,H3,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,H3,R1,YL2-A,BL1-A,65,0.650,0.650
+Invasion 1.5-2.5hr,H3,R2,BL1-A,YL2-A,6,0.060,85.714
+Invasion 1.5-2.5hr,H3,R4,BL1-A,YL2-A,1,0.010,14.286
+Invasion 1.5-2.5hr,H3,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,H3,mCh+,BL1-A,YL2-A,7,0.070,0.070
+Invasion 1.5-2.5hr,H3,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,H3,R2,YL2-A,,6,0.060,0.060
+Invasion 1.5-2.5hr,H3,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,H3,R3,BL1-A,,14,0.140,0.140
+Invasion 1.5-2.5hr,H3,R3,BL1-A,YL2-A,14,0.140,82.353
+Invasion 1.5-2.5hr,H3,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,H3,GFP+,BL1-A,YL2-A,17,0.170,0.170
+Invasion 1.5-2.5hr,H3,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,H3,R4,FSC-A,SSC-A,1,0.010,0.010
+Invasion 1.5-2.5hr,H3,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,H3,R1,FSC-A,FSC-H,65,0.650,0.650
+Invasion 1.5-2.5hr,H3,LG1,,,7,0.070,0.070
+Invasion 1.5-2.5hr,H4,GFP+,BL1-A,,9,0.090,12.676
+Invasion 1.5-2.5hr,H4,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,H4,R1,BL1-A,,71,0.710,0.710
+Invasion 1.5-2.5hr,H4,mCh+,YL2-A,,19,0.190,26.761
+Invasion 1.5-2.5hr,H4,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,H4,R1,YL2-A,,71,0.710,0.710
+Invasion 1.5-2.5hr,H4,R1,FSC-H,SSC-H,71,0.710,0.710
+Invasion 1.5-2.5hr,H4,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,H4,mCherry-/GFP+,YL2-A,BL1-A,9,0.090,12.676
+Invasion 1.5-2.5hr,H4,mCherry+/GFP+,YL2-A,BL1-A,1,0.010,1.408
+Invasion 1.5-2.5hr,H4,mCherry-/GFP-,YL2-A,BL1-A,11,0.110,15.493
+Invasion 1.5-2.5hr,H4,mCherry+/GFP-,YL2-A,BL1-A,50,0.500,70.423
+Invasion 1.5-2.5hr,H4,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,H4,R1,YL2-A,BL1-A,71,0.710,0.710
+Invasion 1.5-2.5hr,H4,R2,BL1-A,YL2-A,18,0.180,94.737
+Invasion 1.5-2.5hr,H4,R4,BL1-A,YL2-A,0,0.000,0.000
+Invasion 1.5-2.5hr,H4,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,H4,mCh+,BL1-A,YL2-A,19,0.190,0.190
+Invasion 1.5-2.5hr,H4,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,H4,R2,YL2-A,,18,0.180,0.180
+Invasion 1.5-2.5hr,H4,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,H4,R3,BL1-A,,7,0.070,0.070
+Invasion 1.5-2.5hr,H4,R3,BL1-A,YL2-A,7,0.070,77.778
+Invasion 1.5-2.5hr,H4,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,H4,GFP+,BL1-A,YL2-A,9,0.090,0.090
+Invasion 1.5-2.5hr,H4,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,H4,R4,FSC-A,SSC-A,0,0.000,0.000
+Invasion 1.5-2.5hr,H4,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,H4,R1,FSC-A,FSC-H,71,0.710,0.710
+Invasion 1.5-2.5hr,H4,LG1,,,19,0.190,0.190
+Invasion 1.5-2.5hr,H5,GFP+,BL1-A,,50,0.500,45.455
+Invasion 1.5-2.5hr,H5,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,H5,R1,BL1-A,,110,1.100,1.100
+Invasion 1.5-2.5hr,H5,mCh+,YL2-A,,7,0.070,6.364
+Invasion 1.5-2.5hr,H5,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,H5,R1,YL2-A,,110,1.100,1.100
+Invasion 1.5-2.5hr,H5,R1,FSC-H,SSC-H,110,1.100,1.100
+Invasion 1.5-2.5hr,H5,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,H5,mCherry-/GFP+,YL2-A,BL1-A,54,0.540,49.091
+Invasion 1.5-2.5hr,H5,mCherry+/GFP+,YL2-A,BL1-A,1,0.010,0.909
+Invasion 1.5-2.5hr,H5,mCherry-/GFP-,YL2-A,BL1-A,27,0.270,24.545
+Invasion 1.5-2.5hr,H5,mCherry+/GFP-,YL2-A,BL1-A,28,0.280,25.455
+Invasion 1.5-2.5hr,H5,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,H5,R1,YL2-A,BL1-A,110,1.100,1.100
+Invasion 1.5-2.5hr,H5,R2,BL1-A,YL2-A,7,0.070,100.000
+Invasion 1.5-2.5hr,H5,R4,BL1-A,YL2-A,0,0.000,0.000
+Invasion 1.5-2.5hr,H5,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,H5,mCh+,BL1-A,YL2-A,7,0.070,0.070
+Invasion 1.5-2.5hr,H5,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,H5,R2,YL2-A,,7,0.070,0.070
+Invasion 1.5-2.5hr,H5,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,H5,R3,BL1-A,,44,0.440,0.440
+Invasion 1.5-2.5hr,H5,R3,BL1-A,YL2-A,44,0.440,88.000
+Invasion 1.5-2.5hr,H5,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,H5,GFP+,BL1-A,YL2-A,50,0.500,0.500
+Invasion 1.5-2.5hr,H5,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,H5,R4,FSC-A,SSC-A,0,0.000,0.000
+Invasion 1.5-2.5hr,H5,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,H5,R1,FSC-A,FSC-H,110,1.100,1.100
+Invasion 1.5-2.5hr,H5,LG1,,,7,0.070,0.070
+Invasion 1.5-2.5hr,H6,GFP+,BL1-A,,63,0.630,47.015
+Invasion 1.5-2.5hr,H6,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,H6,R1,BL1-A,,134,1.340,1.340
+Invasion 1.5-2.5hr,H6,mCh+,YL2-A,,18,0.180,13.433
+Invasion 1.5-2.5hr,H6,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,H6,R1,YL2-A,,134,1.340,1.340
+Invasion 1.5-2.5hr,H6,R1,FSC-H,SSC-H,134,1.340,1.340
+Invasion 1.5-2.5hr,H6,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,H6,mCherry-/GFP+,YL2-A,BL1-A,65,0.650,48.507
+Invasion 1.5-2.5hr,H6,mCherry+/GFP+,YL2-A,BL1-A,0,0.000,0.000
+Invasion 1.5-2.5hr,H6,mCherry-/GFP-,YL2-A,BL1-A,36,0.360,26.866
+Invasion 1.5-2.5hr,H6,mCherry+/GFP-,YL2-A,BL1-A,33,0.330,24.627
+Invasion 1.5-2.5hr,H6,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,H6,R1,YL2-A,BL1-A,134,1.340,1.340
+Invasion 1.5-2.5hr,H6,R2,BL1-A,YL2-A,18,0.180,100.000
+Invasion 1.5-2.5hr,H6,R4,BL1-A,YL2-A,0,0.000,0.000
+Invasion 1.5-2.5hr,H6,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,H6,mCh+,BL1-A,YL2-A,18,0.180,0.180
+Invasion 1.5-2.5hr,H6,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,H6,R2,YL2-A,,18,0.180,0.180
+Invasion 1.5-2.5hr,H6,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,H6,R3,BL1-A,,49,0.490,0.490
+Invasion 1.5-2.5hr,H6,R3,BL1-A,YL2-A,49,0.490,77.778
+Invasion 1.5-2.5hr,H6,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,H6,GFP+,BL1-A,YL2-A,63,0.630,0.630
+Invasion 1.5-2.5hr,H6,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,H6,R4,FSC-A,SSC-A,0,0.000,0.000
+Invasion 1.5-2.5hr,H6,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,H6,R1,FSC-A,FSC-H,134,1.340,1.340
+Invasion 1.5-2.5hr,H6,LG1,,,18,0.180,0.180
+Invasion 1.5-2.5hr,H7,GFP+,BL1-A,,127,1.270,49.035
+Invasion 1.5-2.5hr,H7,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,H7,R1,BL1-A,,259,2.590,2.590
+Invasion 1.5-2.5hr,H7,mCh+,YL2-A,,23,0.230,8.880
+Invasion 1.5-2.5hr,H7,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,H7,R1,YL2-A,,259,2.590,2.590
+Invasion 1.5-2.5hr,H7,R1,FSC-H,SSC-H,259,2.590,2.590
+Invasion 1.5-2.5hr,H7,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,H7,mCherry-/GFP+,YL2-A,BL1-A,131,1.310,50.579
+Invasion 1.5-2.5hr,H7,mCherry+/GFP+,YL2-A,BL1-A,1,0.010,0.386
+Invasion 1.5-2.5hr,H7,mCherry-/GFP-,YL2-A,BL1-A,53,0.530,20.463
+Invasion 1.5-2.5hr,H7,mCherry+/GFP-,YL2-A,BL1-A,74,0.740,28.571
+Invasion 1.5-2.5hr,H7,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,H7,R1,YL2-A,BL1-A,259,2.590,2.590
+Invasion 1.5-2.5hr,H7,R2,BL1-A,YL2-A,22,0.220,95.652
+Invasion 1.5-2.5hr,H7,R4,BL1-A,YL2-A,0,0.000,0.000
+Invasion 1.5-2.5hr,H7,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,H7,mCh+,BL1-A,YL2-A,23,0.230,0.230
+Invasion 1.5-2.5hr,H7,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,H7,R2,YL2-A,,22,0.220,0.220
+Invasion 1.5-2.5hr,H7,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,H7,R3,BL1-A,,105,1.050,1.050
+Invasion 1.5-2.5hr,H7,R3,BL1-A,YL2-A,105,1.050,82.677
+Invasion 1.5-2.5hr,H7,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,H7,GFP+,BL1-A,YL2-A,127,1.270,1.270
+Invasion 1.5-2.5hr,H7,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,H7,R4,FSC-A,SSC-A,0,0.000,0.000
+Invasion 1.5-2.5hr,H7,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,H7,R1,FSC-A,FSC-H,259,2.590,2.590
+Invasion 1.5-2.5hr,H7,LG1,,,23,0.230,0.230
+Invasion 1.5-2.5hr,H8,GFP+,BL1-A,,24,0.240,19.200
+Invasion 1.5-2.5hr,H8,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,H8,R1,BL1-A,,125,1.250,1.250
+Invasion 1.5-2.5hr,H8,mCh+,YL2-A,,23,0.230,18.400
+Invasion 1.5-2.5hr,H8,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,H8,R1,YL2-A,,125,1.250,1.250
+Invasion 1.5-2.5hr,H8,R1,FSC-H,SSC-H,125,1.250,1.250
+Invasion 1.5-2.5hr,H8,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,H8,mCherry-/GFP+,YL2-A,BL1-A,24,0.240,19.200
+Invasion 1.5-2.5hr,H8,mCherry+/GFP+,YL2-A,BL1-A,1,0.010,0.800
+Invasion 1.5-2.5hr,H8,mCherry-/GFP-,YL2-A,BL1-A,22,0.220,17.600
+Invasion 1.5-2.5hr,H8,mCherry+/GFP-,YL2-A,BL1-A,78,0.780,62.400
+Invasion 1.5-2.5hr,H8,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,H8,R1,YL2-A,BL1-A,125,1.250,1.250
+Invasion 1.5-2.5hr,H8,R2,BL1-A,YL2-A,22,0.220,95.652
+Invasion 1.5-2.5hr,H8,R4,BL1-A,YL2-A,1,0.010,4.348
+Invasion 1.5-2.5hr,H8,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,H8,mCh+,BL1-A,YL2-A,23,0.230,0.230
+Invasion 1.5-2.5hr,H8,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,H8,R2,YL2-A,,22,0.220,0.220
+Invasion 1.5-2.5hr,H8,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,H8,R3,BL1-A,,17,0.170,0.170
+Invasion 1.5-2.5hr,H8,R3,BL1-A,YL2-A,17,0.170,70.833
+Invasion 1.5-2.5hr,H8,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,H8,GFP+,BL1-A,YL2-A,24,0.240,0.240
+Invasion 1.5-2.5hr,H8,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,H8,R4,FSC-A,SSC-A,1,0.010,0.010
+Invasion 1.5-2.5hr,H8,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,H8,R1,FSC-A,FSC-H,125,1.250,1.250
+Invasion 1.5-2.5hr,H8,LG1,,,23,0.230,0.230
+Invasion 1.5-2.5hr,H9,GFP+,BL1-A,,39,0.390,41.053
+Invasion 1.5-2.5hr,H9,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,H9,R1,BL1-A,,95,0.950,0.950
+Invasion 1.5-2.5hr,H9,mCh+,YL2-A,,12,0.120,12.632
+Invasion 1.5-2.5hr,H9,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,H9,R1,YL2-A,,95,0.950,0.950
+Invasion 1.5-2.5hr,H9,R1,FSC-H,SSC-H,95,0.950,0.950
+Invasion 1.5-2.5hr,H9,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,H9,mCherry-/GFP+,YL2-A,BL1-A,39,0.390,41.053
+Invasion 1.5-2.5hr,H9,mCherry+/GFP+,YL2-A,BL1-A,1,0.010,1.053
+Invasion 1.5-2.5hr,H9,mCherry-/GFP-,YL2-A,BL1-A,22,0.220,23.158
+Invasion 1.5-2.5hr,H9,mCherry+/GFP-,YL2-A,BL1-A,33,0.330,34.737
+Invasion 1.5-2.5hr,H9,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,H9,R1,YL2-A,BL1-A,95,0.950,0.950
+Invasion 1.5-2.5hr,H9,R2,BL1-A,YL2-A,11,0.110,91.667
+Invasion 1.5-2.5hr,H9,R4,BL1-A,YL2-A,1,0.010,8.333
+Invasion 1.5-2.5hr,H9,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,H9,mCh+,BL1-A,YL2-A,12,0.120,0.120
+Invasion 1.5-2.5hr,H9,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,H9,R2,YL2-A,,11,0.110,0.110
+Invasion 1.5-2.5hr,H9,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,H9,R3,BL1-A,,34,0.340,0.340
+Invasion 1.5-2.5hr,H9,R3,BL1-A,YL2-A,34,0.340,87.179
+Invasion 1.5-2.5hr,H9,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,H9,GFP+,BL1-A,YL2-A,39,0.390,0.390
+Invasion 1.5-2.5hr,H9,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,H9,R4,FSC-A,SSC-A,1,0.010,0.010
+Invasion 1.5-2.5hr,H9,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,H9,R1,FSC-A,FSC-H,95,0.950,0.950
+Invasion 1.5-2.5hr,H9,LG1,,,12,0.120,0.120
+Invasion 1.5-2.5hr,H10,GFP+,BL1-A,,45,0.450,58.442
+Invasion 1.5-2.5hr,H10,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,H10,R1,BL1-A,,77,0.770,0.770
+Invasion 1.5-2.5hr,H10,mCh+,YL2-A,,2,0.020,2.597
+Invasion 1.5-2.5hr,H10,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,H10,R1,YL2-A,,77,0.770,0.770
+Invasion 1.5-2.5hr,H10,R1,FSC-H,SSC-H,77,0.770,0.770
+Invasion 1.5-2.5hr,H10,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,H10,mCherry-/GFP+,YL2-A,BL1-A,48,0.480,62.338
+Invasion 1.5-2.5hr,H10,mCherry+/GFP+,YL2-A,BL1-A,1,0.010,1.299
+Invasion 1.5-2.5hr,H10,mCherry-/GFP-,YL2-A,BL1-A,20,0.200,25.974
+Invasion 1.5-2.5hr,H10,mCherry+/GFP-,YL2-A,BL1-A,8,0.080,10.390
+Invasion 1.5-2.5hr,H10,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,H10,R1,YL2-A,BL1-A,77,0.770,0.770
+Invasion 1.5-2.5hr,H10,R2,BL1-A,YL2-A,1,0.010,50.000
+Invasion 1.5-2.5hr,H10,R4,BL1-A,YL2-A,0,0.000,0.000
+Invasion 1.5-2.5hr,H10,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,H10,mCh+,BL1-A,YL2-A,2,0.020,0.020
+Invasion 1.5-2.5hr,H10,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,H10,R2,YL2-A,,1,0.010,0.010
+Invasion 1.5-2.5hr,H10,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,H10,R3,BL1-A,,35,0.350,0.350
+Invasion 1.5-2.5hr,H10,R3,BL1-A,YL2-A,35,0.350,77.778
+Invasion 1.5-2.5hr,H10,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,H10,GFP+,BL1-A,YL2-A,45,0.450,0.450
+Invasion 1.5-2.5hr,H10,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,H10,R4,FSC-A,SSC-A,0,0.000,0.000
+Invasion 1.5-2.5hr,H10,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,H10,R1,FSC-A,FSC-H,77,0.770,0.770
+Invasion 1.5-2.5hr,H10,LG1,,,2,0.020,0.020
+Invasion 1.5-2.5hr,H11,GFP+,BL1-A,,80,0.800,59.701
+Invasion 1.5-2.5hr,H11,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,H11,R1,BL1-A,,134,1.340,1.340
+Invasion 1.5-2.5hr,H11,mCh+,YL2-A,,12,0.120,8.955
+Invasion 1.5-2.5hr,H11,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,H11,R1,YL2-A,,134,1.340,1.340
+Invasion 1.5-2.5hr,H11,R1,FSC-H,SSC-H,134,1.340,1.340
+Invasion 1.5-2.5hr,H11,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,H11,mCherry-/GFP+,YL2-A,BL1-A,80,0.800,59.701
+Invasion 1.5-2.5hr,H11,mCherry+/GFP+,YL2-A,BL1-A,1,0.010,0.746
+Invasion 1.5-2.5hr,H11,mCherry-/GFP-,YL2-A,BL1-A,28,0.280,20.896
+Invasion 1.5-2.5hr,H11,mCherry+/GFP-,YL2-A,BL1-A,25,0.250,18.657
+Invasion 1.5-2.5hr,H11,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,H11,R1,YL2-A,BL1-A,134,1.340,1.340
+Invasion 1.5-2.5hr,H11,R2,BL1-A,YL2-A,9,0.090,75.000
+Invasion 1.5-2.5hr,H11,R4,BL1-A,YL2-A,1,0.010,8.333
+Invasion 1.5-2.5hr,H11,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,H11,mCh+,BL1-A,YL2-A,12,0.120,0.120
+Invasion 1.5-2.5hr,H11,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,H11,R2,YL2-A,,9,0.090,0.090
+Invasion 1.5-2.5hr,H11,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,H11,R3,BL1-A,,63,0.630,0.630
+Invasion 1.5-2.5hr,H11,R3,BL1-A,YL2-A,63,0.630,78.750
+Invasion 1.5-2.5hr,H11,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,H11,GFP+,BL1-A,YL2-A,80,0.800,0.800
+Invasion 1.5-2.5hr,H11,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,H11,R4,FSC-A,SSC-A,1,0.010,0.010
+Invasion 1.5-2.5hr,H11,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,H11,R1,FSC-A,FSC-H,134,1.340,1.340
+Invasion 1.5-2.5hr,H11,LG1,,,12,0.120,0.120
+Invasion 1.5-2.5hr,H12,GFP+,BL1-A,,28,0.280,25.455
+Invasion 1.5-2.5hr,H12,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,H12,R1,BL1-A,,110,1.100,1.100
+Invasion 1.5-2.5hr,H12,mCh+,YL2-A,,20,0.200,18.182
+Invasion 1.5-2.5hr,H12,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,H12,R1,YL2-A,,110,1.100,1.100
+Invasion 1.5-2.5hr,H12,R1,FSC-H,SSC-H,110,1.100,1.100
+Invasion 1.5-2.5hr,H12,All Events,FSC-H,SSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,H12,mCherry-/GFP+,YL2-A,BL1-A,28,0.280,25.455
+Invasion 1.5-2.5hr,H12,mCherry+/GFP+,YL2-A,BL1-A,1,0.010,0.909
+Invasion 1.5-2.5hr,H12,mCherry-/GFP-,YL2-A,BL1-A,21,0.210,19.091
+Invasion 1.5-2.5hr,H12,mCherry+/GFP-,YL2-A,BL1-A,60,0.600,54.545
+Invasion 1.5-2.5hr,H12,All Events,YL2-A,BL1-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,H12,R1,YL2-A,BL1-A,110,1.100,1.100
+Invasion 1.5-2.5hr,H12,R2,BL1-A,YL2-A,19,0.190,95.000
+Invasion 1.5-2.5hr,H12,R4,BL1-A,YL2-A,0,0.000,0.000
+Invasion 1.5-2.5hr,H12,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,H12,mCh+,BL1-A,YL2-A,20,0.200,0.200
+Invasion 1.5-2.5hr,H12,All Events,YL2-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,H12,R2,YL2-A,,19,0.190,0.190
+Invasion 1.5-2.5hr,H12,All Events,BL1-A,,10000,100.000,100.000
+Invasion 1.5-2.5hr,H12,R3,BL1-A,,25,0.250,0.250
+Invasion 1.5-2.5hr,H12,R3,BL1-A,YL2-A,25,0.250,89.286
+Invasion 1.5-2.5hr,H12,All Events,BL1-A,YL2-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,H12,GFP+,BL1-A,YL2-A,28,0.280,0.280
+Invasion 1.5-2.5hr,H12,All Events,FSC-A,SSC-A,10000,100.000,100.000
+Invasion 1.5-2.5hr,H12,R4,FSC-A,SSC-A,0,0.000,0.000
+Invasion 1.5-2.5hr,H12,All Events,FSC-A,FSC-H,10000,100.000,100.000
+Invasion 1.5-2.5hr,H12,R1,FSC-A,FSC-H,110,1.100,1.100
+Invasion 1.5-2.5hr,H12,LG1,,,20,0.200,0.200
